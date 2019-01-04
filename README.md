@@ -2,6 +2,13 @@ inspired by https://github.com/vishalpatel2890/recipeapp
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+- [ ] stolen code works now
+- [ ] connects to our fetch plugin
+- [ ] connects to fake api
+- [ ] conects to ck api - yeach fix this
+- [ ] separated components
+- [ ] separated and only HOC is connected to antd
+
 ## Available Scripts
 
 In the project directory, you can run:

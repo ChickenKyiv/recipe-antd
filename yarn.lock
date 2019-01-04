@@ -885,6 +885,13 @@
     lodash "^4.17.10"
     uuid "3.3.2"
 
+"@groceristar/grocery-component@^1.0.6":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@groceristar/grocery-component/-/grocery-component-1.0.6.tgz#ebc527728815c7b5b51e4688a71d99075f94940d"
+  integrity sha512-oxpVG5Mr9DVIkAuVRVX+BjK4BCtYU/zkoiSXI63z0UWz+aKIJi58rSbazcH6PClswnfMHTwYRIX6w+zRKouXTA==
+  dependencies:
+    uuid "^3.3.2"
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
