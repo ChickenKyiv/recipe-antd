@@ -7,7 +7,7 @@ import "antd/dist/antd.css";
 // import "./../styles.css";
 
 
-import { getFirstFiveRecipes } from "./../selectors/selector";
+import { getFirstFiveRecipes } from "../selectors";
 
 
 class HomeView extends Component {

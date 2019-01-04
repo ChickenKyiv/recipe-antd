@@ -20,3 +20,6 @@ class Router extends Component {
     )
   }
 }
+
+
+export { Router }
