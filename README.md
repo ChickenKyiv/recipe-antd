@@ -1,3 +1,5 @@
+inspired by https://github.com/vishalpatel2890/recipeapp
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
