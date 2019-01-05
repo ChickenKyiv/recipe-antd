@@ -1,5 +1,9 @@
 inspired by https://github.com/vishalpatel2890/recipeapp
 
+https://www.npmjs.com/package/react-image
+https://www.npmjs.com/package/react-image-overlay
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 - [ ] stolen code works now
