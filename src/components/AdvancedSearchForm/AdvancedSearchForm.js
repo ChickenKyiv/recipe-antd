@@ -1,3 +1,5 @@
+import React, { Component } from 'react';
+
 import {
   Form, Row, Col, Input, Button, Icon,
 } from 'antd';
