@@ -4,11 +4,15 @@ import React, { Component, Fragment } from 'react';
 
 import { Router } from './Router';
 
-import SearchView from './views/ASearchView';
+import SearchView from './views/SearchView';
 
-import {   TheCard1, TheCard2, TheCard3. TheCard4 } from './components/RecipeList'
-import LoadMoreList from './components/RecipeList'
-import RecipeListExample from './components/RecipeList'
+import {   TheCard1, TheCard2, TheCard3, TheCard4 } from './components/RecipeList/Cards'
+
+import LoadMoreList      from './components/RecipeList/More'
+import RecipeListExample from './components/RecipeList/RecipeList'
+
+
+
 
 class App extends Component {
   render() {

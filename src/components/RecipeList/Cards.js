@@ -80,5 +80,5 @@ const TheCard4 = () => {
 }
 
 export {
-  TheCard1, TheCard2, TheCard3. TheCard4
+  TheCard1, TheCard2, TheCard3, TheCard4
 }
