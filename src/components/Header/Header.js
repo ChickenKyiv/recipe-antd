@@ -9,10 +9,12 @@ import { Link } from 'react-router-dom'
 // import AddRecipe from './AddRecipe'
 
 class Header extends Component {
+
   state = {
     current: 'app',
     visible: false
   }
+
   handleClick = e => {
     console.log('click ', e)
     this.setState({
@@ -32,6 +34,7 @@ class Header extends Component {
       visible: false
     })
   }
+
   handleCancel = e => {
     console.log(e)
     this.setState({

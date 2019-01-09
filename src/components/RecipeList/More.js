@@ -1,3 +1,5 @@
+import React, { Component } from 'react'
+
 import {
   List, Avatar, Button, Skeleton,
 } from 'antd';
@@ -59,6 +61,7 @@ class LoadMoreList extends React.Component {
 
   render() {
     const { initLoading, loading, list } = this.state;
+
     const loadMore = !initLoading && !loading ? (
       <div style={{
         textAlign: 'center', marginTop: 12, height: 32, lineHeight: '32px',
@@ -67,6 +70,7 @@ class LoadMoreList extends React.Component {
         <Button onClick={this.onLoadMore}>loading more</Button>
       </div>
     ) : null;
+
 
     return (
       <List
@@ -77,6 +81,7 @@ class LoadMoreList extends React.Component {
         dataSource={list}
         renderItem={item => (
           <List.Item actions={[<a>edit</a>, <a>more</a>]}>
+
             <Skeleton avatar title={false} loading={item.loading} active>
               <List.Item.Meta
                 avatar={<Avatar src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />}
@@ -85,6 +90,7 @@ class LoadMoreList extends React.Component {
               />
               <div>content</div>
             </Skeleton>
+
           </List.Item>
         )}
       />
@@ -92,4 +98,6 @@ class LoadMoreList extends React.Component {
   }
 }
 
-ReactDOM.render(<LoadMoreList />, mountNode);
+export default LoadMoreList;
+
+// ReactDOM.render(<LoadMoreList />, mountNode);
