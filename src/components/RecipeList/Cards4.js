@@ -19,26 +19,12 @@ const { Meta } = Card;
 //   </Row>
 // </div>
 
-const RecipeCard4 = ({ title, children, type = 'all' }) => {
+const RecipeCard4 = () => {
   const styles = {
     width: 300
   };
 
-  // const cover = <img alt="example" src="https://gw.alipayobjects.com/zos/rmsportal/JiqGstEfoWAOHiTxclqi.png" />
-  //
-  // // actions
-  // let actions
-  // switch (type) {
-  //   case 'all':
-  //     actions = [
-  //       <Icon type="setting" />,
-  //       <Icon type="edit" />,
-  //       <Icon type="ellipsis" />
-  //     ];
-  //     break;
-  //   default:
-  //
-  // }
+
 
 
   return (

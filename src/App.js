@@ -8,14 +8,19 @@ import { Router } from './Router';
 
 
 
-import { TheCard1, TheCard2, TheCard3, TheCard4 } from './components/RecipeList/Cards'
+// import { TheCard1, TheCard2, TheCard3, TheCard4 } from './components/RecipeList/Cards'
+//
+// import LoadMoreList      from './components/RecipeList/More'
+// import RecipeListExample from './components/RecipeList/RecipeList'
+//
 
-import LoadMoreList      from './components/RecipeList/More'
-import RecipeListExample from './components/RecipeList/RecipeList'
 
-
-
-import RecipeCard1 from './components/RecipeList/Cards1'
+import {
+  RecipeCard1,
+RecipeCard2,
+RecipeCard3,
+RecipeCard4,
+} from './components/RecipeList'
 
 
 class App extends Component {
@@ -27,24 +32,30 @@ class App extends Component {
         <Router />
 
         <br />
-        <TheCard1 />
+
         <hr />
-        <br />
-        <TheCard2 />
+
+        <RecipeCard1 title="Card title">
         <hr />
-        <br />
-        <TheCard3 />
         <hr />
-        <br />
-        <TheCard4 />
         <hr />
-        <br />
-        <LoadMoreList />
         <hr />
+        </RecipeCard1>
         <br />
-        <RecipeListExample />
+
+        <RecipeCard2 title="Card title">
         <hr />
-        <br />
+        <hr />
+        <hr />
+        </RecipeCard2>
+<br />
+        <RecipeCard3 title="Card title" description="This is the description" />
+<br />
+
+
+        <RecipeCard4 />
+
+
       </Fragment>
 
 

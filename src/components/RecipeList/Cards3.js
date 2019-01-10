@@ -17,7 +17,8 @@ const { Meta } = Card;
 // </Card>
 
 
-const RecipeCard3 = ({ title, children, type = 'all' }) => {
+const RecipeCard3 = ({ title, description, children, type = 'all' }) => {
+
   const styles = {
     width: 300
   };
@@ -42,14 +43,14 @@ const RecipeCard3 = ({ title, children, type = 'all' }) => {
 
   return (
     <Card
-      style={style}
+      style={styles}
       cover={cover}
       actions={actions}
     >
       <Meta
         avatar={<Avatar src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" />}
-        title="Card title"
-        description="This is the description"
+        title={title}
+        description={description}
       />
     </Card>
   )
