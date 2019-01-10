@@ -4,7 +4,7 @@ import React, { Component, Fragment } from 'react';
 
 import { Router } from './Router';
 
-import SearchView from './views/SearchView';
+// import SearchView from './views/SearchView';
 
 import {   TheCard1, TheCard2, TheCard3, TheCard4 } from './components/RecipeList/Cards'
 
@@ -21,6 +21,14 @@ class App extends Component {
       <Fragment>
 
         <Router />
+
+        <TheCard1 />
+        <TheCard2 />
+        <TheCard3 />
+        <TheCard4 />
+        <LoadMoreList />
+        <RecipeListExample />
+
       </Fragment>
 
 

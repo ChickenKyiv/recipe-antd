@@ -13,6 +13,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] separated components
 - [ ] separated and only HOC is connected to antd
 
+- [ ] delete reqwest pakacge
+
+
 ## Available Scripts
 
 In the project directory, you can run:

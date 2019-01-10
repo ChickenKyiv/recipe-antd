@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
 import HomeView    from './views/HomeView'
-import ASearchView from './views/ASearchView'
+import SearchView from './views/SearchView'
 
 class Router extends Component {
   render(){
@@ -12,7 +12,7 @@ class Router extends Component {
 
           <Route path="/" exact component={HomeView} />
 
-          <Route path="/s" exact component={ASearchView} />
+          <Route path="/s" exact component={SearchView} />
 
 
 
