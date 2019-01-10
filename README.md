@@ -16,6 +16,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] delete reqwest pakacge
 
 
+- [ ] create sep repo for storing recipe cards 
+
 ## Available Scripts
 
 In the project directory, you can run:

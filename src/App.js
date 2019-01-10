@@ -20,6 +20,7 @@ import {
 RecipeCard2,
 RecipeCard3,
 RecipeCard4,
+RecipeCard5,
 } from './components/RecipeList'
 
 
@@ -54,7 +55,8 @@ class App extends Component {
 
 
         <RecipeCard4 />
-
+        <br />
+        <RecipeCard5 />
 
       </Fragment>
 
