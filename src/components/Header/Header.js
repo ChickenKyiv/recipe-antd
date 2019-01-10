@@ -52,9 +52,11 @@ class Header extends Component {
         <Menu.Item key="app">
           <Icon type="appstore" />Recipe List<Link to="/recipelist" />
         </Menu.Item>
+
         <Menu.Item key="add">
           <Icon type="appstore" />Add Recipe<Link to="/addrecipe" />
         </Menu.Item>
+
         <Menu.Item key="alipay">
           <div onClick={this.showModal}>
             <Icon type="plus-square" />Add Recipe Modal
@@ -75,6 +77,15 @@ class Header extends Component {
 
           </Modal>
         </Menu.Item>
+
+        <Menu.Item key="search">
+          <Icon type="search" />Search<Link to="/s" />
+        </Menu.Item>
+        
+        <Menu.Item key="search2">
+          <Icon type="search" />Search<Link to="/s2" />
+        </Menu.Item>
+
       </Menu>
     )
   }

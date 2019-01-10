@@ -44,3 +44,5 @@ const RecipeListExample = () => {
     </div>
   );
 }
+
+export default RecipeListExample

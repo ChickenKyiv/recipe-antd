@@ -13,6 +13,8 @@ import RecipeListExample from './components/RecipeList/RecipeList'
 
 
 
+import RecipeCard1 from './components/RecipeList/Cards1'
+
 
 class App extends Component {
   render() {
@@ -22,13 +24,25 @@ class App extends Component {
 
         <Router />
 
+        <br />
         <TheCard1 />
+        <hr />
+        <br />
         <TheCard2 />
+        <hr />
+        <br />
         <TheCard3 />
+        <hr />
+        <br />
         <TheCard4 />
+        <hr />
+        <br />
         <LoadMoreList />
+        <hr />
+        <br />
         <RecipeListExample />
-
+        <hr />
+        <br />
       </Fragment>
 
 
