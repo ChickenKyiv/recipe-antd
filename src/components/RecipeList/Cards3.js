@@ -35,6 +35,7 @@ const RecipeCard3 = ({ title, children, type = 'all' }) => {
       ];
       break;
     default:
+      actions = [];
 
   }
 
@@ -54,4 +55,4 @@ const RecipeCard3 = ({ title, children, type = 'all' }) => {
   )
 }
 
-export default RecipeCard2
+export default RecipeCard3
