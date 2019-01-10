@@ -15,6 +15,7 @@ const RecipeListExample = () => {
 
   return (
     <div>
+
       <h3 style={{ marginBottom: 16 }}>Default Size</h3>
       <List
         header={<div>Header</div>}
@@ -23,6 +24,8 @@ const RecipeListExample = () => {
         dataSource={data}
         renderItem={item => (<List.Item>{item}</List.Item>)}
       />
+
+      {/*
       <h3 style={{ margin: '16px 0' }}>Small Size</h3>
       <List
         size="small"
@@ -32,7 +35,9 @@ const RecipeListExample = () => {
         dataSource={data}
         renderItem={item => (<List.Item>{item}</List.Item>)}
       />
+
       <h3 style={{ margin: '16px 0' }}>Large Size</h3>
+
       <List
         size="large"
         header={<div>Header</div>}
@@ -41,6 +46,8 @@ const RecipeListExample = () => {
         dataSource={data}
         renderItem={item => (<List.Item>{item}</List.Item>)}
       />
+
+      */}
     </div>
   );
 }
