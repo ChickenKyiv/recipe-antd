@@ -2,7 +2,9 @@ import React, { Component } from 'react'
 
 import { List } from 'antd';
 
+import { DefaultList } from '@groceristar/grocery-component'
 
+import _        from "lodash";
 
 import {
   getRandomRecipe,
@@ -37,6 +39,7 @@ const RecipeListExample = () => {
         dataSource={data}
         renderItem={item => (<List.Item>{item}</List.Item>)}
       />
+
 
       {/*
       <h3 style={{ margin: '16px 0' }}>Small Size</h3>

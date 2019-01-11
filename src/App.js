@@ -2,6 +2,9 @@ import React, { Component, Fragment } from 'react';
 
 
 
+
+
+
 import { Router } from './Router';
 
 
@@ -20,6 +23,8 @@ import {
   RecipeCard5,
 } from './components/RecipeList'
 
+
+import "antd/dist/antd.css";
 
 class App extends Component {
   render() {

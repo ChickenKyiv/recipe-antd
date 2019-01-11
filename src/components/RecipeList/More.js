@@ -4,6 +4,9 @@ import {
   List, Avatar, Button, Skeleton,
 } from 'antd';
 
+
+import _        from "lodash";
+
 import reqwest from 'reqwest';
 
 const count = 3;
