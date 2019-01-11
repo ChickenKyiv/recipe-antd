@@ -11,20 +11,20 @@ import { Switch, Route } from 'react-router-dom'
 //
 // </Switch>
 
-class Main extends Component {
-
-  render() {
-
-    console.log(this.props)
-
-    return (
-      <main>
-
-
-
-      </main>
-    )
-  }
-}
-
-export default Main
+// class Main extends Component {
+//
+//   render() {
+//
+//     console.log(this.props)
+//
+//     return (
+//       <main>
+//
+//
+//
+//       </main>
+//     )
+//   }
+// }
+//
+// export default Main

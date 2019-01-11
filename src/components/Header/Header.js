@@ -10,6 +10,7 @@ import { Link } from 'react-router-dom'
 
 import AddRecipeModal from './Modal';
 
+import HeaderDropdown from './Dropdown';
 
 import { getRandomRecipe } from './../../selectors'
 
@@ -107,7 +108,8 @@ class Header extends Component {
         <Menu.Item key="dropdead">
           <Icon type="ellipsis" />
           {/*Search*/}
-          <Link to="/ssss" />
+          {/*<Link to="/ssss" />*/}
+          <HeaderDropdown />
         </Menu.Item>
 
       </Menu>

@@ -6,8 +6,12 @@ import _        from "lodash";
 import "antd/dist/antd.css";
 // import "./../styles.css";
 
+
+
 import Header from '../components/Header/Header';
 import Main   from '../components/Main/Main';
+
+
 
 
 import { getFirstFiveRecipes } from "../selectors";
@@ -35,7 +39,9 @@ class HomeView extends Component {
         <div className="main">
 
             <Header />
+            {/*
             <Main data={getFirstFiveRecipes()} />
+            */}
         </div>
       </Fragment>
 
