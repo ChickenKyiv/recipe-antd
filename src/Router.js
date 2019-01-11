@@ -25,6 +25,7 @@ const RR = () => {
     <Fragment>
       <Route path="/recipelist" exact component={RecipeListView} />
       <Route path="/recipelist/:id"   component={RecipeDetailsView} />
+      {/*<Route path="/addrecipe" component={AddRecipe} /> */}
     </Fragment>
   )
 }
@@ -48,8 +49,7 @@ class Router extends Component {
 
           <Route path="/recipelist" exact component={RR} />
 
-          {/*<Route path="/recipelist" component={Recipes} /> */}
-          {/*<Route path="/addrecipe" component={AddRecipe} /> */}
+
 
         </Switch>
       </BrowserRouter>

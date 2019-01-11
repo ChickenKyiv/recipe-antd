@@ -6,12 +6,24 @@ import { Link } from 'react-router-dom'
 import Img from 'react-image'
 
 import {
+
+    RecipeCard1,
+    RecipeCard2,
+    RecipeCard3,
+    RecipeCard4,
+    RecipeCard5,
+} from './../components/RecipeList'
+
+
+import {
   getRandomRecipe,
   getFirstFiveRecipes,
   getFiveRandomIngredients,
   getRecipeChickenKyivById,
   getShowcaseFiveRecipes
 } from './../selectors'
+
+
 
 
 const styles = {
@@ -83,6 +95,10 @@ const RecipeListView = () => {
                   type="edit"
                 />
               </Card>
+
+
+
+
             </Col>
           )
         })}
