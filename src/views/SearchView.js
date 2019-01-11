@@ -35,7 +35,7 @@ class SearchView extends Component {
         <div className="main">
 
             <Header />
-            <Main data={getFirstFiveRecipes()} />
+            {/*<Main data={getFirstFiveRecipes()} />*/}
         </div>
       </Fragment>
 
