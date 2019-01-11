@@ -2,6 +2,7 @@ import React, { Component, Fragment } from 'react';
 // import logo from './logo.svg';
 // import './App.css';
 
+
 import { Router } from './Router';
 
 // import SearchView from './views/SearchView';
@@ -17,10 +18,10 @@ import { Router } from './Router';
 
 import {
   RecipeCard1,
-RecipeCard2,
-RecipeCard3,
-RecipeCard4,
-RecipeCard5,
+  RecipeCard2,
+  RecipeCard3,
+  RecipeCard4,
+  RecipeCard5,
 } from './components/RecipeList'
 
 
@@ -57,7 +58,7 @@ class App extends Component {
         <RecipeCard4 />
         <br />
         <RecipeCard5 />
-
+<br />
       </Fragment>
 
 

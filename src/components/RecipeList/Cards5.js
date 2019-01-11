@@ -1,13 +1,18 @@
 import React, { Component, Fragment } from 'react';
 
 import { Card, Menu, Dropdown, Icon, version, message } from "antd";
-const openNotification = () => {
-  message.info("This is a normal message");
-};
-import { Card, Icon, Avatar, Col, Row } from 'antd';
+
+
+import {
+  // Card,
+  // Icon,
+   Avatar, Col, Row } from 'antd';
 
 const { Meta } = Card;
 
+const openNotification = () => {
+  message.info("This is a normal message");
+};
 
 // <div style={{ margin: 24 }}>
 //   <p style={{ marginBottom: 24 }}>
