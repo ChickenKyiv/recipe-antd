@@ -5,11 +5,14 @@ import RecipeListView     from './views/RecipeListView'
 import RecipeDetailsView  from './views/RecipeDetails'
 
 // https://quiet-citadel-22666.herokuapp.com/recipes/
-class Router extends Component {
+
+class RecipeRouter extends Component {
+
   render(){
+    
     return (
-      <main>
-      {/*<Fragment> */}
+      {/*<main>
+      <Fragment> */}
         <Switch>
 
           <Route path="/recipelist" exact component={RecipeListView} />
@@ -21,11 +24,11 @@ class Router extends Component {
 
         </Switch>
 
-      {/*</Fragment> */}
-      </main>
+      {/* </Fragment>
+      </main> */}
     )
   }
 }
 
 
-export { Router }
+export default RecipeRouter

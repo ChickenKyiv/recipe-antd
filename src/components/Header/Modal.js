@@ -22,7 +22,7 @@ class AddRecipeModal extends Component {
     }
 
     this.handleOk     = this.handleOk.bind(this);
-    this.handleCancel = this.handleClick.bind(this);
+    this.handleCancel = this.handleCancel.bind(this);
   }
 
   componentDidMount() {

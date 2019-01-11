@@ -37,7 +37,9 @@ const ASearchView = () => (
       </Layout>
 
 
-    <Footer>footer</Footer>
+    <Footer>
+      footer
+    </Footer>
   </Layout>
 
 
