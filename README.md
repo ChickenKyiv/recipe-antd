@@ -3,7 +3,7 @@ inspired by https://github.com/vishalpatel2890/recipeapp
 https://www.npmjs.com/package/react-image
 https://www.npmjs.com/package/react-image-overlay
 
-
+[![Build Status](https://travis-ci.org/ChickenKyiv/recipe-antd.svg?branch=master)](https://travis-ci.org/ChickenKyiv/recipe-antd)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 - [ ] stolen code works now
