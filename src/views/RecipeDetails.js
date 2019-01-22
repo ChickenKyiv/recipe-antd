@@ -26,6 +26,7 @@ import {
 const TabPane = Tabs.TabPane
 
 const RecipeDetails = ({ id }) => {
+  console.log("In Recipe Details");
   return (
     <div>
       123

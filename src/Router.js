@@ -40,14 +40,14 @@ class Router extends Component {
       <BrowserRouter>
         <Switch>
 
-          <Route path="/" exact component={HomeView} />
+          <Route path="/"  component={HomeView} exact/>
 
 
 
-          <Route path="/s2" exact component={SearchView} />
+          <Route path="/s2"  component={SearchView} exact/>
 
 
-          <Route path="/recipelist" exact component={RR} />
+          <Route path="/recipelist"  component={RR} />
 
 
 
