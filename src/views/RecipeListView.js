@@ -59,8 +59,8 @@ const RecipeListView = () => {
         {recipes.map((item, idx) => {
 
           const recipe = item.recipe;
-
           return (
+
             <Col span={8} key={item.key}>
               <br />
 
@@ -80,7 +80,7 @@ const RecipeListView = () => {
                   className="custom-card"
                 >
                   <h3>
-                    {recipe.recipename}{' '}
+                    {recipe.title}{' '}
                   </h3>
                 </div>
                 <Icon
