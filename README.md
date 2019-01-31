@@ -4,6 +4,7 @@ https://www.npmjs.com/package/react-image
 https://www.npmjs.com/package/react-image-overlay
 
 [![Build Status](https://travis-ci.org/ChickenKyiv/recipe-antd.svg?branch=master)](https://travis-ci.org/ChickenKyiv/recipe-antd)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 - [ ] stolen code works now
@@ -13,7 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] separated components
 - [ ] separated and only HOC is connected to antd
 
-- [ ] delete reqwest pakacge
+- [ ] delete reqwest package
 
 
 - [ ] create sep repo for storing recipe cards 
