@@ -6,6 +6,8 @@ import axios from 'axios';
 // https://github.com/ChickenKyiv/loopback-tutor-intern-8/tree/frontend
 // also check selectors/api-config.js file
 
+import { API_ROOT } from './api-config' 
+
 const serverURL = '';
 
 let GroceristarAPI = {

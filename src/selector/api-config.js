@@ -31,7 +31,7 @@ let backendHost;
 const hostname = window && window.location && window.location.hostname;
 
 if(hostname === 'groceristar.netlify.com') {
-  backendHost = 'https://loopback-react-account.herokuapp.com';
+  backendHost = 'https://recipe-api-loopback.herokuapp.com/';
 } else if(hostname === 'staging.realsite.com') {
   backendHost = 'https://staging.api.realsite.com';
 
