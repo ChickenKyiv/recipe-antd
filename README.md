@@ -17,71 +17,40 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] delete reqwest package
 
 
-- [ ] create sep repo for storing recipe cards 
+- [ ] create sep repo for storing recipe cards
 
-## Available Scripts
 
-In the project directory, you can run:
+Recipe-antD is a project where we trying to incorporate two major tasks:
+1. show to a new users a collection of grocery lists - before they sign up - they want to explore the data that we have
+2. figure out the way about making GL downloable by generating a simple PDF file
 
-### `npm start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[![Build Status](https://travis-ci.org/GroceriStar/showcase.svg?branch=master)](https://travis-ci.org/GroceriStar/showcase)
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+While we're coding it - we also extending the code base of GS, by testing fetch plugin, by moving away basic components, like lists, grocerylist component, etc...
 
-### `npm test`
+Major goals for showcase is -
+* realize a better way to connect `fetch` with React projects
+* test different plugins that will convert HTML into PDF
+* set up first basic routes for previewing data from grocery lists(sometimes you just want to compare raw data, not at fancy way)
+* test an assuption - Can we separate some react components and import them as npm package
+* show users what data we have - at preview mode
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Stretch goals:
+- [ ] install and connect Raven at index.js
+- [ ] adjust logic of envconfig and try to connect to our local/shared servers
+- [ ] make first axios calls and be happy to receive json results
+- [ ] connect to our simple [fake-api](https://github.com/GroceriStar/fake-api) that i've created...
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- [ ] complete grocery list components - with empty/plain version - for just data and verions with antD collapse
+- [ ] wait when antd will release a new version of package and apply to work DepartmentListCollapse
+- [ ] make header blue or white not black with black text color
+- [ ] we can fix tiles too. same background colors and text color is not perfect + shoplist update with a similar logic
+- [ ] List -> Departments \ Ingredients -> get data form selects with AntD. Details upon request. After onChange - we have a redirect to Ingredient list, related to that Department
+- [ ] advanced search at header, not just by grocery list name, we also can search by "departments" or "ingredients". maybe we can also add "categories", like "healthy", "cheap", "weight-loss", etc.
+- [ ] Grocery list printed version in flexboxes and borders
+- [ ] recipe to gl convertion
+- [ ] GetData / Flow, from Meal Calendar to Showcase
+- [ ] Add to GL flow of forms we can create
