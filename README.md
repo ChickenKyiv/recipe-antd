@@ -21,19 +21,21 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 Recipe-antD is a project where we trying to incorporate two major tasks:
-1. show to a new users a collection of grocery lists - before they sign up - they want to explore the data that we have
-2. figure out the way about making GL downloable by generating a simple PDF file
+1. show to a new users a collection of recipes that we have.
+2. this project will be connected to our server for backend manipulations. At first time it'll be a Loopback REST API server, later it will be a graphQL server, but for quickier turn around we connect it with our groceristar-fetch plugin.
+3. Another goal of this project is to make Groceristar/showcase project less complicated and overwhelmed with components.
+Codebase from this project we'll use later at showcase in order to make it better.
 
 
+<!--
 [![Build Status](https://travis-ci.org/GroceriStar/showcase.svg?branch=master)](https://travis-ci.org/GroceriStar/showcase)
+-->
 
-While we're coding it - we also extending the code base of GS, by testing fetch plugin, by moving away basic components, like lists, grocerylist component, etc...
 
-Major goals for showcase is -
-* realize a better way to connect `fetch` with React projects
-* test different plugins that will convert HTML into PDF
-* set up first basic routes for previewing data from grocery lists(sometimes you just want to compare raw data, not at fancy way)
-* test an assuption - Can we separate some react components and import them as npm package
+Major goals for recipe-antd are
+* start a big migration of our projects from `fetch` plugin into connection with API servers
+* totally utilize major AntD components and make them work separately, but as part of this project.
+* publish on Netlify and present it as part of our RAPI server for ProductHunt community
 * show users what data we have - at preview mode
 
 Stretch goals:
@@ -43,14 +45,3 @@ Stretch goals:
 - [ ] connect to our simple [fake-api](https://github.com/GroceriStar/fake-api) that i've created...
 
 ---
-
-- [ ] complete grocery list components - with empty/plain version - for just data and verions with antD collapse
-- [ ] wait when antd will release a new version of package and apply to work DepartmentListCollapse
-- [ ] make header blue or white not black with black text color
-- [ ] we can fix tiles too. same background colors and text color is not perfect + shoplist update with a similar logic
-- [ ] List -> Departments \ Ingredients -> get data form selects with AntD. Details upon request. After onChange - we have a redirect to Ingredient list, related to that Department
-- [ ] advanced search at header, not just by grocery list name, we also can search by "departments" or "ingredients". maybe we can also add "categories", like "healthy", "cheap", "weight-loss", etc.
-- [ ] Grocery list printed version in flexboxes and borders
-- [ ] recipe to gl convertion
-- [ ] GetData / Flow, from Meal Calendar to Showcase
-- [ ] Add to GL flow of forms we can create
