@@ -6,10 +6,13 @@
 */
 import axios from 'axios';
 
+import { API_ROOT } from './api-config'
+
 let api = null;
 
 function getInitializedApi() {
   if (api) return api; // return initialized api if already initialized.
+
   return (api = axios.create({
     baseURL: getBaseUrl(),
     responseType: 'json',
