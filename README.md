@@ -17,7 +17,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] delete reqwest package
 
 
-- [ ] create sep repo for storing recipe cards
+- [ ] create sep repo for storing recipe cards https://github.com/GroceriStar/cards-wrapper-component
 
 
 Recipe-antD is a project where we trying to incorporate two major tasks:

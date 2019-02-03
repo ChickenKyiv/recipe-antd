@@ -5,7 +5,8 @@ import _        from "lodash";
 // import "./../styles.css";
 
 
-import { getFirstFiveRecipes } from "../selectors";
+import { getFirstFiveRecipes } from "../selectors/selector";
+
 import {
 
     RecipeCard1,

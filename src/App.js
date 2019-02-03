@@ -7,7 +7,7 @@ import React, { Component, Fragment } from 'react';
 
 import { Router } from './Router';
 
-
+import { ClearCardsExample } from './components/RecipeList'
 // import { TheCard1, TheCard2, TheCard3, TheCard4 } from './components/RecipeList/Cards'
 //
 // import LoadMoreList      from './components/RecipeList/More'
@@ -34,35 +34,10 @@ class App extends Component {
 
         <Router />
 
-{/*
-        <br />
-
-        <hr />
-
-        <RecipeCard1 title="Card title">
-        <hr />
-        <hr />
-        <hr />
-        <hr />
-        </RecipeCard1>
-        <br />
-
-        <RecipeCard2 title="Card title">
-        <hr />
-        <hr />
-        <hr />
-        </RecipeCard2>
-<br />
-        <RecipeCard3 title="Card title" description="This is the description" />
-<br />
 
 
-        <RecipeCard4 />
-        <br />
-        <RecipeCard5 />
-<br />
 
-*/}
+{/* <ClearCardsExample /> */}
       </Fragment>
 
 

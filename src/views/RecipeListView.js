@@ -12,6 +12,7 @@ import {
     RecipeCard3,
     RecipeCard4,
     RecipeCard5,
+
 } from './../components/RecipeList'
 
 
@@ -19,9 +20,9 @@ import {
   getRandomRecipe,
   getFirstFiveRecipes,
   getFiveRandomIngredients,
-  getRecipeChickenKyivById,
-  getShowcaseFiveRecipes
-} from './../selectors'
+  getRecipeChickenKyivById
+
+} from "../selectors/selector"
 
 
 
@@ -40,6 +41,11 @@ const styles = {
     fontSize: 14
   }
 }
+
+const oldVCard = () => {
+  
+}
+
 
 const RecipeListView = () => {
 

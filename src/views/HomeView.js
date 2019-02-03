@@ -14,7 +14,7 @@ import Main   from '../components/Main/Main';
 
 
 
-import { getFirstFiveRecipes } from "../selectors";
+import { getFirstFiveRecipes } from "../selectors/selector";
 
 
 class HomeView extends Component {
