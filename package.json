@@ -5,7 +5,7 @@
   "dependencies": {
     "@groceristar/groceristar-fetch": "^1.1.60",
     "@groceristar/grocery-component": "^1.0.6",
-    "antd": "^3.13.0",
+    "antd": "^3.13.1",
     "axios": "^0.18.0",
     "enzyme": "^3.8.0",
     "enzyme-adapter-react-16": "^1.8.0",
