@@ -45,3 +45,14 @@ Stretch goals:
 - [ ] connect to our simple [fake-api](https://github.com/GroceriStar/fake-api) that i've created...
 
 ---
+https://github.com/ant-design/ant-design-pro/blob/master/src/components/Ellipsis/index.js
+https://preview.pro.ant.design/form/basic-form
+https://pro.ant.design/components/AvatarList
+https://ant.design/components/tree/
+https://ant.design/components/calendar/
+
+https://ant.design/docs/spec/cases
+
+https://codeburst.io/ant-design-by-example-part-2-f006f7f34328
+
+https://ant.design/components/form/#components-form-demo-register
