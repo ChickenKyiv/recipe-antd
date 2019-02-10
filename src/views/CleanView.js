@@ -19,7 +19,7 @@ import RecipeListExample from './components/RecipeList/RecipeList'
 
 
 
-import { getFirstFiveRecipes } from "../selectors";
+import { getFirstFiveRecipes } from "../selectors/selector";
 
 
 class HomeView extends Component {

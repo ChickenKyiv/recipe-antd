@@ -8,7 +8,7 @@ import HomeView    from './views/HomeView'
 
 import SearchView from './views/SearchView'
 
-
+import RecipeListCards from './views/RecipeListCards'
 
 // import RecipeRouter from './RecipeRouter'
 
@@ -25,11 +25,11 @@ const RR = () => {
     <Fragment>
       <Route path="/recipelist" exact component={RecipeListView} />
       <Route path="/recipelist/:id"   component={RecipeDetailsView} />
+
       {/*<Route path="/addrecipe" component={AddRecipe} /> */}
     </Fragment>
   )
 }
-
 
 
 class Router extends Component {
@@ -40,15 +40,15 @@ class Router extends Component {
       <BrowserRouter>
         <Switch>
 
-          <Route path="/" exact component={HomeView} />
+          <Route path="/"  component={HomeView} exact/>
 
 
 
-          <Route path="/s2" exact component={SearchView} />
+          <Route path="/s2"  component={SearchView} exact/>
 
 
-          <Route path="/recipelist" exact component={RR} />
-
+          <Route path="/recipelist"  component={RR} />
+          <Route path="/cards"  exact component={RecipeListCards} />
 
 
         </Switch>

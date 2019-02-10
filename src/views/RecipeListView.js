@@ -12,6 +12,7 @@ import {
     RecipeCard3,
     RecipeCard4,
     RecipeCard5,
+
 } from './../components/RecipeList'
 
 
@@ -19,9 +20,9 @@ import {
   getRandomRecipe,
   getFirstFiveRecipes,
   getFiveRandomIngredients,
-  getRecipeChickenKyivById,
-  getShowcaseFiveRecipes
-} from './../selectors'
+  getRecipeChickenKyivById
+
+} from "../selectors/selector"
 
 
 
@@ -41,6 +42,11 @@ const styles = {
   }
 }
 
+const old = () => {
+
+}
+
+
 const RecipeListView = () => {
 
   // componentWillMount = props => {
@@ -59,8 +65,8 @@ const RecipeListView = () => {
         {recipes.map((item, idx) => {
 
           const recipe = item.recipe;
-
           return (
+
             <Col span={8} key={item.key}>
               <br />
 
@@ -80,7 +86,7 @@ const RecipeListView = () => {
                   className="custom-card"
                 >
                   <h3>
-                    {recipe.recipename}{' '}
+                    {recipe.title}{' '}
                   </h3>
                 </div>
                 <Icon

@@ -1,6 +1,8 @@
 import React, { Component, Fragment } from 'react';
 
-import { Tabs, Button, Row, Col, Upload, Icon, message, Checkbox } from 'antd'
+import {
+  Tabs, Button, Row, Col, Upload, Icon, message, Checkbox
+} from 'antd'
 
 
 import {
@@ -19,13 +21,13 @@ import {
   getRandomRecipe,
   getFirstFiveRecipes,
   getFiveRandomIngredients,
-  getRecipeChickenKyivById,
-  getShowcaseFiveRecipes
-} from './../selectors'
+  getRecipeChickenKyivById
+} from "../selectors/selector"
 
 const TabPane = Tabs.TabPane
 
 const RecipeDetails = ({ id }) => {
+  console.log("In Recipe Details");
   return (
     <div>
       123

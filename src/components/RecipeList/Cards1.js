@@ -1,6 +1,9 @@
 import React, { Component, Fragment } from 'react';
 
 import { Card, Icon, Avatar, Col, Row } from 'antd';
+import {
+  getRandomRecipe,
+} from '../../selectors'
 
 const { Meta } = Card;
 
@@ -18,7 +21,11 @@ const { Meta } = Card;
 //
 // </Card>
 
+
 const RecipeCard1 = ({ title, path, children }) => {
+
+  const recipe = getRandomRecipe();
+  title = recipe.title;
 
   const styles = {
     width: 300

@@ -1,14 +1,8 @@
 import React, { Component, Fragment } from 'react';
 
-
-
-
-
-
 import { Router } from './Router';
 
-
-// import { TheCard1, TheCard2, TheCard3, TheCard4 } from './components/RecipeList/Cards'
+// import { ClearCardsExample } from './components/RecipeList'
 //
 // import LoadMoreList      from './components/RecipeList/More'
 // import RecipeListExample from './components/RecipeList/RecipeList'
@@ -24,45 +18,138 @@ import {
 } from './components/RecipeList'
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+import { getFirstFiveRecipes } from "./selectors/selector";
+import { List, Card, Ellipsis, Icon, Button } from 'antd'
 import "antd/dist/antd.css";
+
+
+
+
+
+
+
+
+
+// const styles = {
+//   card: {
+//
+//   }
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+        //
+        // <List
+        //             rowKey="id"
+        //
+        //             grid={{ gutter: 24, lg: 3, md: 2, sm: 1, xs: 1 }}
+        //             dataSource={['', ...list]}
+        //             renderItem={ item =>
+        //               item ? (
+        //                 <List.Item key={item.id}>
+        //                   <Card hoverable className={styles.card} actions={[<a>操作一</a>, <a>操作二</a>]}>
+        //                     <Card.Meta
+        //                       avatar={<img alt="" className={styles.cardAvatar} src={item.avatar} />}
+        //                       title={<a>{item.title}</a>}
+        //                       description={
+        //                         <Ellipsis className={styles.item} lines={3}>
+        //                           {item.description}
+        //                         </Ellipsis>
+        //                       }
+        //                     />
+        //                   </Card>
+        //                 </List.Item>
+        //               ) : (
+        //                 <List.Item>
+        //                   <Button type="dashed" className={styles.newButton}>
+        //                     <Icon type="plus" /> 新建产品
+        //                   </Button>
+        //                 </List.Item>
+        //               )
+        //             }
+        //   />
+        //
+        //
+
+
+
 
 class App extends Component {
   render() {
+
+    const list = getFirstFiveRecipes();
+
     return (
 
       <Fragment>
 
         <Router />
 
-{/*
-        <br />
-
-        <hr />
-
-        <RecipeCard1 title="Card title">
-        <hr />
-        <hr />
-        <hr />
-        <hr />
-        </RecipeCard1>
-        <br />
-
-        <RecipeCard2 title="Card title">
-        <hr />
-        <hr />
-        <hr />
-        </RecipeCard2>
-<br />
-        <RecipeCard3 title="Card title" description="This is the description" />
-<br />
 
 
-        <RecipeCard4 />
-        <br />
-        <RecipeCard5 />
-<br />
 
-*/}
+        <List
+                    rowKey="id"
+
+                    grid={{ gutter: 24, lg: 3, md: 2, sm: 1, xs: 1 }}
+                    dataSource={['', ...list]}
+                    renderItem={ item =>
+                      item ? (
+                        <List.Item key={item.id}>
+                          <Card hoverable className="card" actions={[<a>操作一</a>, <a>操作二</a>]}>
+                            <Card.Meta
+                              avatar={<img alt="" className="cardAvatar" src={item.avatar} />}
+                              title={<a>{item.title}</a>}
+                              description={
+                                <h2>
+                                  {item.description}
+                                </h2>
+                              }
+                            />
+                          </Card>
+                        </List.Item>
+                      ) : (
+                        <List.Item>
+                          <Button type="dashed" className="newButton">
+                            <Icon type="plus" /> Add new
+                          </Button>
+                        </List.Item>
+                      )
+                    }
+          />
+
+
+
+
+
+
+
+
+        {/* <ClearCardsExample /> */}
+
       </Fragment>
 
 

@@ -3,6 +3,7 @@ inspired by https://github.com/vishalpatel2890/recipeapp
 https://www.npmjs.com/package/react-image
 https://www.npmjs.com/package/react-image-overlay
 
+[![Build Status](https://travis-ci.org/ChickenKyiv/recipe-antd.svg?branch=master)](https://travis-ci.org/ChickenKyiv/recipe-antd)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -13,74 +14,45 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] separated components
 - [ ] separated and only HOC is connected to antd
 
-- [ ] delete reqwest pakacge
+- [ ] delete reqwest package
 
 
-- [ ] create sep repo for storing recipe cards 
+- [ ] create sep repo for storing recipe cards https://github.com/GroceriStar/cards-wrapper-component
 
-## Available Scripts
 
-In the project directory, you can run:
+Recipe-antD is a project where we trying to incorporate two major tasks:
+1. show to a new users a collection of recipes that we have.
+2. this project will be connected to our server for backend manipulations. At first time it'll be a Loopback REST API server, later it will be a graphQL server, but for quickier turn around we connect it with our groceristar-fetch plugin.
+3. Another goal of this project is to make Groceristar/showcase project less complicated and overwhelmed with components.
+Codebase from this project we'll use later at showcase in order to make it better.
 
-### `npm start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<!--
+[![Build Status](https://travis-ci.org/GroceriStar/showcase.svg?branch=master)](https://travis-ci.org/GroceriStar/showcase)
+-->
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
 
-### `npm test`
+Major goals for recipe-antd are
+* start a big migration of our projects from `fetch` plugin into connection with API servers
+* totally utilize major AntD components and make them work separately, but as part of this project.
+* publish on Netlify and present it as part of our RAPI server for ProductHunt community
+* show users what data we have - at preview mode
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Stretch goals:
+- [ ] install and connect Raven at index.js
+- [ ] adjust logic of envconfig and try to connect to our local/shared servers
+- [ ] make first axios calls and be happy to receive json results
+- [ ] connect to our simple [fake-api](https://github.com/GroceriStar/fake-api) that i've created...
 
-### `npm run build`
+---
+https://github.com/ant-design/ant-design-pro/blob/master/src/components/Ellipsis/index.js
+https://preview.pro.ant.design/form/basic-form
+https://pro.ant.design/components/AvatarList
+https://ant.design/components/tree/
+https://ant.design/components/calendar/
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+https://ant.design/docs/spec/cases
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+https://codeburst.io/ant-design-by-example-part-2-f006f7f34328
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+https://ant.design/components/form/#components-form-demo-register
