@@ -1,12 +1,13 @@
 // this is a middleman version.
 // we'll use it here, in order to see if our separated project works well
 
-//  import { 
+//  import {
 //   RecipeCard1,
 //   RecipeCard2,
 //   RecipeCard3,
 //   RecipeCard4,
 //   RecipeCard5,
+// ClearCardsExample
 //   LoadMoreList,
 //   RecipeListExample
 // } from '@groceristar/cards-wrapper'
