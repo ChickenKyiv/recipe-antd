@@ -17,20 +17,7 @@ import {
   //RecipeListExample
 } from './components/RecipeList'
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//--------------
 
 import { getFirstFiveRecipes } from "./selectors/selector";
 
@@ -44,21 +31,11 @@ import "antd/dist/antd.css";
 
 
 
-
-
-
-
 // const styles = {
 //   card: {
 //
 //   }
 // }
-
-
-
-
-
-
 
 
 

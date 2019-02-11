@@ -58,6 +58,23 @@ class AddRecipeModal extends Component {
     //   visible: this.props.visible
     // })
 
+    const { title, isVisible, handleOk, handleCancel } = this.props;
+    // <Modal
+    //   title={title}
+    //   visible={isVisible}
+    //   onOk={handleOk}
+    //   onCancel={handleCancel}
+    //   footer={[
+    //     <Button key="back" size="large" onClick={handleCancel}>
+    //       Cancel
+    //     </Button>
+    //   ]}
+    // >
+    // <hr />
+    //   { /* <AddRecipe handleOk={handleOk} /> */}
+    //
+    // </Modal>
+
     return (
       <Modal
         title="Add Recipe"
@@ -65,7 +82,8 @@ class AddRecipeModal extends Component {
         onOk={this.handleOk}
         onCancel={this.handleCancel}
         footer={[
-          <Button key="back" size="large" onClick={this.handleCancel}>
+          <Button key="back" size="large"
+            onClick={this.handleCancel}>
             Cancel
           </Button>
         ]}

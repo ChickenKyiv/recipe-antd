@@ -7,6 +7,9 @@ const openNotification = () => {
   message.info("This is a normal message");
 };
 
+const style = {
+  marginLeft: "6px"
+}
 
 const HeaderDropdown = () => {
 
@@ -17,19 +20,19 @@ const HeaderDropdown = () => {
               <Menu onClick={() => openNotification()}>
                 <Menu.Item key="site-overview">
                   <Icon type="eye-o" />
-                  <span style={{ marginLeft: "6px" }}>
+                  <span style={style}>
                     Overview
                   </span>
                 </Menu.Item>
                 <Menu.Item key="marketing">
                   <Icon type="area-chart" />
-                  <span style={{ marginLeft: "6px" }}>
+                  <span style={style}>
                     Marketing
                   </span>
                 </Menu.Item>
                 <Menu.Item key="activity">
                   <Icon type="calendar" />
-                  <span style={{ marginLeft: "6px" }}>
+                  <span style={style}>
                     Activity
                   </span>
                 </Menu.Item>

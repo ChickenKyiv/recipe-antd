@@ -2,7 +2,8 @@ import React, { Component, Fragment } from 'react';
 
 import { List, DefaultList, IngregientList } from '@groceristar/grocery-component'
 
-import { getRandomRecipe,
+import {
+  getRandomRecipe,
   getFirstFiveRecipes,
   getFiveRandomIngredients,
   getRecipeChickenKyivById,

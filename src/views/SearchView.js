@@ -33,12 +33,18 @@ const SearchView = () => (
     </Header>
     */}
       <Layout>
-      <Content>
+
+        <Content>
 
         <WrappedAdvancedSearchForm />
         </Content>
+        
         <Content>
-        <div className="search-result-list">Search Result List</div>
+
+        <div className="search-result-list">
+          Search Result List
+        </div>
+
         </Content>
       </Layout>
 

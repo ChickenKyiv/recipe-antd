@@ -5,6 +5,8 @@ import {
 } from 'antd';
 
 
+
+
 class AdvancedSearchForm extends React.Component {
   state = {
     expand: false,
@@ -14,12 +16,14 @@ class AdvancedSearchForm extends React.Component {
   getFields() {
     const count = this.state.expand ? 10 : 6;
     const { getFieldDecorator } = this.props.form;
-
+    const style = {
+      display: i < count ? 'block' : 'none'
+    }
 
     const children = [];
     for (let i = 0; i < 10; i++) {
       children.push(
-        <Col span={8} key={i} style={{ display: i < count ? 'block' : 'none' }}>
+        <Col span={8} key={i} style={style}>
           <Form.Item label={`Field ${i}`}>
             {getFieldDecorator(`field-${i}`, {
               rules: [{
@@ -55,6 +59,15 @@ class AdvancedSearchForm extends React.Component {
 
 
   render() {
+
+    const iconType = this.state.expand ? 'up' : 'down'
+
+    const styles = {
+      col:      { textAlign: 'right' },
+      clear:    { marginLeft: 8 },
+      collapse: { marginLeft: 8, fontSize: 12 }
+    }
+
     return (
       <Form
         className="ant-advanced-search-form"
@@ -64,17 +77,17 @@ class AdvancedSearchForm extends React.Component {
           {this.getFields()}
         </Row>
         <Row>
-          <Col span={24} style={{ textAlign: 'right' }}>
+          <Col span={24} style={styles.col}>
             <Button type="primary" htmlType="submit">
               Search
             </Button>
-            <Button style={{ marginLeft: 8 }} onClick={this.handleReset}>
+            <Button style={styles.clear} onClick={this.handleReset}>
               Clear
             </Button>
 
-            <a style={{ marginLeft: 8, fontSize: 12 }} onClick={this.toggle}>
+            <a style={styles.collapse} onClick={this.toggle}>
               Collapse
-              <Icon type={this.state.expand ? 'up' : 'down'} />
+              <Icon type={iconType} />
             </a>
           </Col>
         </Row>

@@ -71,14 +71,18 @@ const renderItem = ( item ) => {
 
 
 const gridStyles = {
-
+  gutter: 24,
+  lg: 3,
+  md: 2,
+  sm: 1,
+  xs: 1
 }
 
 const ListWrapper = ( list ) => {
   return (
     <List
         rowKey="id"
-        grid={{ gutter: 24, lg: 3, md: 2, sm: 1, xs: 1 }}
+        grid={gridStyles}
         dataSource={['', ...list]}
         renderItem={ item => renderItem( item ) }
       />
