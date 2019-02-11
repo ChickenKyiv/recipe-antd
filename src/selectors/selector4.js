@@ -10,7 +10,7 @@ import { API_ROOT } from './api-config'
 
 
 // this is the main changes between selector3 and selector4
-// import 
+// import { xxx, xxx, xxx, xxx, xxx } from './methods'
 
 
 
@@ -48,11 +48,16 @@ function post( url, data ) {
 // Note how short these are due to the centralized config and helpers above. 😎
 // Here we will
 
+// WE NEED TO FIND A WAY HOW TO CONNECT OUR METHODS WITH THIS FILE, 
+// BECAUSE RIGHT NOW IT WILL BE CONFLICTED WITH GET, POST METHODS THAT WE HAVE HERE.
+// MAYBE WE NEED TO MOVE THEM AWAY TOO?
 
-export function getUserById( id ) {
-  return get(`user/${id}`);
-}
 
-export function saveUser(user) {
-  return post(`user/${user.id}`, { user: user });
-}
+//
+// export function getUserById( id ) {
+//   return get(`user/${id}`);
+// }
+//
+// export function saveUser(user) {
+//   return post(`user/${user.id}`, { user: user });
+// }
