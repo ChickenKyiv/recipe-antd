@@ -8,6 +8,12 @@ import axios from 'axios';
 
 import { API_ROOT } from './api-config'
 
+
+// this is the main changes between selector3 and selector4
+// import 
+
+
+
 let api = null;
 
 function getInitializedApi() {
@@ -40,7 +46,7 @@ function post( url, data ) {
 
 // Public functions
 // Note how short these are due to the centralized config and helpers above. 😎
-// Here we will 
+// Here we will
 
 
 export function getUserById( id ) {
