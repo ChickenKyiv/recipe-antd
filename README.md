@@ -20,6 +20,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] create sep repo for storing recipe cards https://github.com/GroceriStar/cards-wrapper-component
 
 
+
+MOVE ALL VERSION OF SELECTOR INTO A SEPARATED PLACE> IT CAN BE A GOOD EXAMPLE OF HOW WE DID SOMETHING
+
 Recipe-antD is a project where we trying to incorporate two major tasks:
 1. show to a new users a collection of recipes that we have.
 2. this project will be connected to our server for backend manipulations. At first time it'll be a Loopback REST API server, later it will be a graphQL server, but for quickier turn around we connect it with our groceristar-fetch plugin.

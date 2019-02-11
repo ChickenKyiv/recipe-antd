@@ -1,5 +1,4 @@
-
-
+// this is a first version. this is what we're usually using in our projects
 import { chickenKyiv } from "@groceristar/groceristar-fetch";
 
 
@@ -10,11 +9,6 @@ function getRandomRecipe(){
 function getFirstFiveRecipes(){
   return chickenKyiv.getFirstFiveRecipes();
 }
-
-//
-// function getShowcaseFiveRecipes(){
-//   return chickenKyiv.getShowcaseFiveRecipes();
-// }
 
 
 function getFiveRandomIngredients(){
