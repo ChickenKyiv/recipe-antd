@@ -48,15 +48,15 @@ let GroceristarAPI = {
 };
 
 
-
-
-
-GroceristarAPI.methodA = function() => {
-
-  console.log(serverURL)
-
-};
-
+// 
+//
+//
+// GroceristarAPI.methodA = function() => {
+//
+//   console.log(serverURL)
+//
+// };
+//
 
 
 export default GroceristarAPI;
