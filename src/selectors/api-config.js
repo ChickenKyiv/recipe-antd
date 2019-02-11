@@ -23,6 +23,22 @@ export default changePassword
 
 ```
 
+// this version are similar to the version below, baaaat.
+// we will completely rely on env variables. without env variables everything looks so
+// complex. So without ENV it wouldn't work fine. keep it in mind.
+
+// if(  )
+const {
+  REACT_APP_FRONTEND_NETLIFY,
+  REACT_APP_FRONTEND_STAGING,
+  REACT_APP_TESTING_VERSION,
+
+  BACKEND_SERVER_PRODUCTION,
+  BACKEND_SERVER_STAGING,
+  BACKEND_SERVER_LOCAL 
+} = process.env;
+
+
 
 // @todo let's keep that version in someplace. maybe later we'll use a different versions of API
 let backendHost;
