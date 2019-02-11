@@ -96,7 +96,7 @@ import "antd/dist/antd.css";
         //
         //
 
-const ItemCard = () => (
+const ItemCard = (item) => (
   <List.Item key={item.id}>
     <Card hoverable className="card" actions={[<a>操作一</a>, <a>操作二</a>]}>
       <Card.Meta
@@ -120,12 +120,16 @@ const ItemCardEmpty = () => (
   </List.Item>
 )
 
-const RenderItem = () => {
-  return(
-    ( true ) ? true : false
+const renderItem = ( item ) => {
+  // can be replaced with <ItemCard />
+  return (
+    ( item ) ? ItemCard(item) : ItemCardEmpty
   )
 }
 
+const gridStyles = {
+
+}
 
 
 class App extends Component {
@@ -139,27 +143,12 @@ class App extends Component {
 
         <Router />
 
-
-
-
         <List
             rowKey="id"
-
             grid={{ gutter: 24, lg: 3, md: 2, sm: 1, xs: 1 }}
             dataSource={['', ...list]}
-            renderItem={ item =>
-                      item ? (
-
-                      ) : (
-
-                      )
-                    }
+            renderItem={ item => renderItem( item ) }
           />
-
-
-
-
-
 
 
 
