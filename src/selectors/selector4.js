@@ -40,6 +40,9 @@ function post( url, data ) {
 
 // Public functions
 // Note how short these are due to the centralized config and helpers above. 😎
+// Here we will 
+
+
 export function getUserById( id ) {
   return get(`user/${id}`);
 }
