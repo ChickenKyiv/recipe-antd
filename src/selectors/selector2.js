@@ -11,9 +11,33 @@ import { API_ROOT } from './api-config'
 const serverURL = '';
 
 
+// aka chickenKyiv.getRandomRecipe()
+function getRandomRecipe(){
+  return ''
+}
+// aka chickenKyiv.getFirstFiveRecipes();
+function getFirstFiveRecipes(){
+  return ''
+}
+
+// aka chickenKyiv.getFiveRandomIngredients();
+function getFiveRandomIngredients(){
+  return ''
+}
+
+//@TODO i don't like this name too
+// aka chickenKyiv.getRecipe()[id];
+function getRecipeChickenKyivById( id ) {
+  return ''
+}
 
 
-
+let chickenKyivAPI = {
+  getRandomRecipe,
+  getFirstFiveRecipes,
+  getFiveRandomIngredients,
+  getRecipeChickenKyivById
+}
 
 
 let GroceristarAPI = {
