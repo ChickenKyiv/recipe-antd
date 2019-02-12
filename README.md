@@ -62,6 +62,9 @@ https://ant.design/docs/spec/cases
 
 https://codeburst.io/ant-design-by-example-part-2-f006f7f34328
 
-https://ant.design/components/form/#components-form-demo-register
+https://ant.design/component docs
+s/form/#components-form-demo-register
 
 ---
+
+Install and use standard. right now it's conflicted with react-scripts
