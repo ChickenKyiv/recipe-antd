@@ -107,3 +107,75 @@ I decide to wait more, because they pay usually in a middle of the month. After 
 
 So I send a message to friendly support manager.
 And she told me that i should read an article about BIG PRIZE on separated FAQ page. When I read the answer on that page I find a hidden term. You will receive BIG PRIZE only if you will bring 10 people that will be a new users.
+
+
+
+So, it's a payment for affiliate marketing and I also get advice I that piss me off, that I can also use a printed flyers, that I can share of streets or at some offline place.
+
+And Yeah, I understand everything. And usually I', patient person and understand a lot of processes.
+As you see, I didn't jump into quick conclusions here. I wait and I observer and I give my feedback)
+
+Side note: they told me that I can make more(in the middle of our initiall chats, by sharing with my people)
+
+But I told them that I didn't plan work on promotion. For me is better to focus on product or at course production.
+
+Another reason why I'm unhappy -> I start to work on a few courses. Actually this one was the one of the complex for me.
+
+--------
+
+And right now I have like half completed stuff and a lot of frustrations.
+
+---
+
+They not only distract me from my project few times. I also get another puunch and loser feeling.
+
+---
+
+They buy my beloved Youtube Bloggers - Curious Elephant, Joe, RealEngineering and other around tech people.
+
+---
+
+Did I tell you, how they SS find me?
+Because of my articles ;) on Medium ;)
+There only 3 publishers that I user
+- Groceristar (my own place)
+- Key Keyel QuickCode
+- HackerNoon
+And I was a good lead for them I'm not working(have a lot of time) and I always interested to explore new things
+
+I was thinking
+"Why not to try something new, right? You never know what tomorrow will bring to you. And what will be a good transition if you didn't try new opportunities"
+
+So I tried and this is the story. It will be cool to provoke some discussion here. I mean if you think you have some ideas, like "you just didn't want to market it"
+"You just need to do A,B,C and you'll get X,Y,Z" -> let's chat publicly, maybe apply a bet
+and I will show you that ROI is very low at Skillshare(but it's depends on many factors for sure).
+
+------------------
+
+I have a lot of time, so I start to explore the whole platform. I find a main group for Teachers only. And at some point, I saw a post from other teacher. He was more experienced user of SS. He was a previous published courses(>3). He has a good profile. He has a number of followers and students, that totally completed their course(and receive a notification each time, when he post a new one)
+He has some courses with a good number of students, likes, etc. He post a question, with a similar situation to me. I was thinking -
+"Woo Hoo. I'm not the one with a problem. As he is a popular teacher -> he 100% will get an explanation or official reply"
+
+NOTE: This group has an admin/moderator like a person that care of teaching success. I assume this person should follow all discussions, right? So she was a more about this post(or she did her work bad?)
+
++Off reply heading.
+
+I didn't know -> will this "official reply" make me unhappy. But at least we will calm down.
+Other teachers saw this post. And was worried too.
+I can bet my ass (100%/totally/really) major players(like moders, etc.) saw it. But instead of answer and fair discussion.
+
+They bury it. Actually, this guy(teacher that post a post) tell me that this post will be buried in thread. So it's not my words.
+
+Instead of Reply -> Success Manager posted a New Year blog post, where they tacticly "advice" that teachers should wait some time with their courses.(when they will start to bying views/cash)
+I assume it was related to us our concerns.
+Second problem: they Introduce a contest. It was "sugar tasting" contest. teachers should comment about their New Years wishes, plans for 2019 years.
+This post totally move our question to the grave.
+
+Don't take me wrong. I'm ok with this type of posts. They empower teachers, good for community, fun, etc.
+But do you know what also empower the teacher?
+M fucking reply!
+
+Community manager MUST(my opinion) explore a problem, that arrived. It's a part of the processes
+Попытка не замечать - это не очень хорошо.
+
+After this situation I realize that their my own problem, and nobody care and don't want to solve it.
