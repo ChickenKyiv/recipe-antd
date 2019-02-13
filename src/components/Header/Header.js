@@ -8,11 +8,11 @@ import { Link } from 'react-router-dom'
 
 // import AddRecipe from './AddRecipe'
 
-import AddRecipeModal from './Modal';
-// import AddRecipeModal from '@groceristar/antd-showcase-components'
+// import AddRecipeModal from './Modal';
+import AddRecipeModal from '@groceristar/antd-showcase-components'
 
-import HeaderDropdown from './Dropdown';
-// import HeaderDropdown from '@groceristar/antd-showcase-components'
+// import HeaderDropdown from './Dropdown';
+import HeaderDropdown from '@groceristar/antd-showcase-components'
 
 import { getRandomRecipe } from './../../selectors'
 

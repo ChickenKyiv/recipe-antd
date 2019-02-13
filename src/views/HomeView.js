@@ -9,7 +9,7 @@ import "antd/dist/antd.css";
 
 
 import Header from '../components/Header/Header';
-import Main   from '../components/Main/Main';
+import Main   from '@groceristar/antd-showcase-components';
 
 
 // import { Header, Main } from ''

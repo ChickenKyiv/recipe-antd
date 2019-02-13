@@ -1,7 +1,7 @@
 import React, { Component, Fragment } from 'react';
 
-import { Router } from './Router';
-
+// import { Router } from './Router';
+import Router from '@groceristar/antd-showcase-components'
 
 
 

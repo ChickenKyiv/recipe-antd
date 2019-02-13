@@ -16,9 +16,12 @@ import {
 //
 // } from "../selectors/selector"
 
-import AdvancedSearchForm from '../components/AdvancedSearchForm/AdvancedSearchForm'
+// import AdvancedSearchForm from '../components/AdvancedSearchForm/AdvancedSearchForm'
+import AdvancedSearchForm from '@groceristar/antd-showcase-components'
 
-const WrappedAdvancedSearchForm = Form.create()(AdvancedSearchForm);
+// const WrappedAdvancedSearchForm = Form.create()(AdvancedSearchForm);
+
+import WrappedAdvancedSearchForm from '@groceristar/antd-showcase-components'
 
 const {
   Header, Footer, Content,
@@ -38,7 +41,7 @@ const SearchView = () => (
 
         <WrappedAdvancedSearchForm />
         </Content>
-        
+
         <Content>
 
         <div className="search-result-list">
