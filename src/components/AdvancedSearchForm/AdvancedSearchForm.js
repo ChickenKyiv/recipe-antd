@@ -5,7 +5,12 @@ import {
 } from 'antd';
 
 
-
+const asf_style = ( index, count ) => {
+  const style = {
+    display: index < count ? 'block' : 'none'
+  }
+  return style;
+}
 
 class AdvancedSearchForm extends React.Component {
   state = {
@@ -16,14 +21,14 @@ class AdvancedSearchForm extends React.Component {
   getFields() {
     const count = this.state.expand ? 10 : 6;
     const { getFieldDecorator } = this.props.form;
-    const style = {
-      display: i < count ? 'block' : 'none'
-    }
+    // const style = {
+    //   display: i < count ? 'block' : 'none'
+    // }
 
     const children = [];
     for (let i = 0; i < 10; i++) {
       children.push(
-        <Col span={8} key={i} style={style}>
+        <Col span={8} key={i} style={asf_style(i, count)}>
           <Form.Item label={`Field ${i}`}>
             {getFieldDecorator(`field-${i}`, {
               rules: [{

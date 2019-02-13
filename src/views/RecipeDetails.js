@@ -1,12 +1,13 @@
 import React, { Component, Fragment } from 'react';
 //
-// import {
-//   Tabs, Button, Row, Col, Upload, Icon, message, Checkbox
-// } from 'antd'
+import {
+  Tabs,
+   // Button, Row, Col, Upload, Icon, message, Checkbox
+} from 'antd'
 
 import { IngredientList, DefaultList } from '@groceristar/grocery-component';
 
-import RecipeHeader from './RecipeHeader';
+import RecipeHeader from './RecipeHeader/RecipeHeader';
 
 
 
