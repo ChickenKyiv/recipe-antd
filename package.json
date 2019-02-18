@@ -7,7 +7,7 @@
     "@groceristar/cards-wrapper": "^1.0.1",
     "@groceristar/groceristar-fetch": "^1.2.2",
     "@groceristar/grocery-component": "^1.0.6",
-    "antd": "^3.13.2",
+    "antd": "^3.13.3",
     "axios": "^0.18.0",
     "enzyme": "^3.8.0",
     "enzyme-adapter-react-16": "^1.9.1",
