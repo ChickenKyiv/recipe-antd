@@ -8,7 +8,7 @@ https://www.npmjs.com/package/react-image-overlay
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 - [ ] stolen code works now
-- [ ] connects to our fetch plugin
+- [x] connects to our fetch plugin
 - [ ] connects to fake api
 - [ ] conects to ck api - yeach fix this
 - [ ] separated components
