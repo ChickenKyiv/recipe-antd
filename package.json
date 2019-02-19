@@ -5,7 +5,7 @@
   "dependencies": {
     "@groceristar/antd-showcase-components": "^1.0.6",
     "@groceristar/cards-wrapper": "^1.0.1",
-    "@groceristar/groceristar-fetch": "^1.2.2",
+    "@groceristar/groceristar-fetch": "^1.2.3",
     "@groceristar/grocery-component": "^1.0.6",
     "antd": "^3.13.2",
     "axios": "^0.18.0",
