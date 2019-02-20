@@ -5,6 +5,8 @@ import { Link } from 'react-router-dom'
 
 import Img from 'react-image'
 
+import { EmptyImageWrapper,
+LinkEmptyImage } from './../components/RecipeList/EmptyImageWrapper'
 // import Main   from '@groceristar/antd-showcase-components';
 
 import {
@@ -88,8 +90,12 @@ const RecipeListView = () => {
                   <div className="custom-image">
 
                     <Img src={recipe.image} unloader={<Empty />} />
+
+                    {/* EmptyImageWrapper src={recipe.image} /> */}
                   </div>
                 </Link>
+                {/* LinkEmptyImage `/recipelist/${item.key}` recipe.image */}
+
 
                 <div
                   style={{ display: 'inline-block' }}

@@ -31,7 +31,7 @@ const RR = () => {
       <Route path="/recipelist/:id"   component={RecipeDetailsView} />
 
       {/*<Route path="/addrecipe" component={AddRecipe} /> */}
-      <Route path="/example/cards" component={ExampleCardsView}>
+
 
     </Fragment>
   )
