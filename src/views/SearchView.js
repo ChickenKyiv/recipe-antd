@@ -16,11 +16,8 @@ import {
 //
 // } from "../selectors/selector"
 
-// import AdvancedSearchForm from '../components/AdvancedSearchForm/AdvancedSearchForm'
+
 import AdvancedSearchForm from '@groceristar/antd-showcase-components'
-
-// const WrappedAdvancedSearchForm = Form.create()(AdvancedSearchForm);
-
 import WrappedAdvancedSearchForm from '@groceristar/antd-showcase-components'
 
 const {

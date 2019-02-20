@@ -4,13 +4,15 @@ import React, { Component, Fragment } from "react";
 // import DepartmentListCollapse from '../DepartmentList/DepartmentListCollapse';
 
 
-
-import { Collapse } from 'antd';
 import uuidv1 from 'uuid/v1';
 
-import { IngredientList, DepartmentList } from '@groceristar/grocery-component';
+import {
+  IngredientList,
+  DepartmentList
+} from '@groceristar/grocery-component';
+// import Main   from '@groceristar/antd-showcase-components';
 
-
+import { Collapse } from 'antd';
 const Panel = Collapse.Panel;
 // Looks like we don't use this component. Maybe we shall delete it soon
 
