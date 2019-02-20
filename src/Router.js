@@ -3,12 +3,15 @@ import {
   BrowserRouter, Switch, Route
 } from 'react-router-dom';
 
-
-import HomeView    from '@groceristar/antd-showcase-components'
+import HomeView   from './views/HomeView'
+// import HomeView   from '@groceristar/antd-showcase-components'
 import SearchView from '@groceristar/antd-showcase-components'
 
 import RecipeListCards from './views/RecipeListCards'
 
+
+
+import ExampleCardsView from './views/ExampleCardsView';
 // import RecipeRouter from './RecipeRouter'
 
 
@@ -21,10 +24,15 @@ import RecipeDetailsView  from './views/RecipeDetails'
 const RR = () => {
   return (
     <Fragment>
+
+      <Route path="/" exact component={HomeView} />
+
       <Route path="/recipelist" exact component={RecipeListView} />
       <Route path="/recipelist/:id"   component={RecipeDetailsView} />
 
       {/*<Route path="/addrecipe" component={AddRecipe} /> */}
+      <Route path="/example/cards" component={ExampleCardsView}>
+
     </Fragment>
   )
 }

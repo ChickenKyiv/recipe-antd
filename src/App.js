@@ -35,7 +35,7 @@ import { getFirstFiveRecipes } from "./selectors/selector";
 // import { List, Card, Ellipsis, Icon, Button } from 'antd'
 
 // import ListWrapper from './components/ListWrapper/ListWrapper'
-import { ListWrapper } from '@groceristar/antd-showcase-components'
+// import { ListWrapper } from '@groceristar/antd-showcase-components'
 
 
 import "antd/dist/antd.css";
@@ -50,10 +50,11 @@ import "antd/dist/antd.css";
 //   }
 // }
 
+  
 
-
-
+// <ListWrapper list={list} />
 class App extends Component {
+
   render() {
 
     const list = getFirstFiveRecipes();
@@ -64,7 +65,7 @@ class App extends Component {
 
         <Router />
 
-        <ListWrapper list={list} />
+
         <Cards />
 
         {/* <ClearCardsExample /> */}

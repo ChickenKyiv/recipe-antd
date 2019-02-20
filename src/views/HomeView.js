@@ -8,7 +8,7 @@ import "antd/dist/antd.css";
 
 
 
-import Header from '../components/Header/Header';
+// import Header from '../components/Header/Header';
 // import Header   from '@groceristar/antd-showcase-components';
 import Main   from '@groceristar/antd-showcase-components';
 
@@ -28,14 +28,10 @@ class HomeView extends Component {
 
     };
 
-
-
-
-
-
   render() {
 
-
+    const list = getFirstFiveRecipes();
+    console.log(list);
     // const data = this.state.data;
 
     return (
@@ -43,9 +39,13 @@ class HomeView extends Component {
         <div className="main">
 
             <Header />
+            123
             {/*
             <Main data={getFirstFiveRecipes()} />
             */}
+
+                    <ListWrapper list={list} />
+                    <Cards />
         </div>
       </Fragment>
 

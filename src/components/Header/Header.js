@@ -12,7 +12,7 @@ import { Link } from 'react-router-dom'
 import AddRecipeModal from '@groceristar/antd-showcase-components'
 
 // import HeaderDropdown from './Dropdown';
-import HeaderDropdown from '@groceristar/antd-showcase-components'
+// import HeaderDropdown from '@groceristar/antd-showcase-components'
 
 import { getRandomRecipe } from './../../selectors'
 

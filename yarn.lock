@@ -773,20 +773,6 @@
   resolved "https://registry.yarnpkg.com/@csstools/convert-colors/-/convert-colors-1.4.0.tgz#ad495dc41b12e75d588c6db8b9834f08fa131eb7"
   integrity sha512-5a6wqoJV/xEdbRNKVo6I4hO3VjyDq//8q2f9I6PBAvMesJHFauXDorcNCsr9RzvsZnaWi5NYCcfyqP1QeFHFbw==
 
-"@groceristar/antd-showcase-components@^1.0.9":
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/@groceristar/antd-showcase-components/-/antd-showcase-components-1.0.9.tgz#dfcbcc43c8183f3971a9069924d0435ad750078c"
-  integrity sha512-VNIWkI1Ss87QuGOPnSQ5F4SALoKTpN0WO6zNt62dKsKoBLD9tGyErZjaN3cGMMshSZ0wQ5wy4XaDRQnxptNakw==
-  dependencies:
-    "@groceristar/cards-wrapper" "^1.0.1"
-    "@groceristar/grocery-component" "^1.0.6"
-    antd "^3.13.2"
-    lodash "^4.17.11"
-    react-router "^4.3.1"
-    react-router-dom "^4.3.1"
-    redux-devtools "^3.5.0"
-    uuid "^3.3.2"
-
 "@groceristar/cards-wrapper@^1.0.1":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@groceristar/cards-wrapper/-/cards-wrapper-1.0.1.tgz#a0106dd5da0c4bc29d5a4b65e917d1cbb2c0efa7"
