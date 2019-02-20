@@ -1,7 +1,9 @@
 import React, { Component, Fragment } from 'react';
 
 // import { Router } from './Router';
-import  { Router, Cards }  from '@groceristar/antd-showcase-components'
+import  { Router
+  // , Cards
+}  from '@groceristar/antd-showcase-components'
 
 
 
@@ -27,17 +29,11 @@ import {
 
 
 // import { Router,  ListWrapper } from './'
-
 //--------------
-
 import { getFirstFiveRecipes } from "./selectors/selector";
-
 // import { List, Card, Ellipsis, Icon, Button } from 'antd'
-
 // import ListWrapper from './components/ListWrapper/ListWrapper'
-// import { ListWrapper } from '@groceristar/antd-showcase-components'
-
-
+import { ListWrapper } from '@groceristar/antd-showcase-components'
 import "antd/dist/antd.css";
 
 
@@ -50,9 +46,9 @@ import "antd/dist/antd.css";
 //   }
 // }
 
-  
 
-// <ListWrapper list={list} />
+
+//
 class App extends Component {
 
   render() {
@@ -64,7 +60,7 @@ class App extends Component {
       <Fragment>
 
         <Router />
-
+        <ListWrapper list={list} />
 
         <Cards />
 
