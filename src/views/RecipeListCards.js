@@ -7,6 +7,8 @@ import _        from "lodash";
 // import Main   from '@groceristar/antd-showcase-components';
 import { getFirstFiveRecipes } from "../selectors/selector";
 
+
+
 import {
 
     RecipeCard1,
@@ -15,6 +17,8 @@ import {
     RecipeCard4,
     RecipeCard5,
 } from './../components/RecipeList'
+
+
 
 // import {
 //   RecipeCard1,
@@ -30,7 +34,7 @@ class RecipeListCards extends Component {
 
     return (
       <Fragment>
-          <RecipeCard1 />
+        <RecipeCard1 />
       </Fragment>
     );
   }

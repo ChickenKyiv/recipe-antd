@@ -1,10 +1,7 @@
 import React, { Component } from 'react'
+import { Link } from 'react-router-dom'
 
 import { Menu, Icon, Modal, Button } from 'antd'
-
-
-
-import { Link } from 'react-router-dom'
 
 // import AddRecipe from './AddRecipe'
 
@@ -15,7 +12,6 @@ import AddRecipeModal from '@groceristar/antd-showcase-components'
 // import HeaderDropdown from '@groceristar/antd-showcase-components'
 
 import { getRandomRecipe } from './../../selectors'
-
 
 class Header extends Component {
 
@@ -80,16 +76,21 @@ class Header extends Component {
         </Menu.Item>
 
         <Menu.Item key="app">
-          <Icon type="appstore" />Recipe List<Link to="/recipelist" />
+          <Icon type="appstore" />
+          Recipe List
+          <Link to="/recipelist" />
         </Menu.Item>
 
         <Menu.Item key="add">
-          <Icon type="appstore" />Add Recipe<Link to="/addrecipe" />
+          <Icon type="appstore" />
+          Add Recipe
+          <Link to="/addrecipe" />
         </Menu.Item>
 
         <Menu.Item key="alipay">
           <div onClick={this.showModal}>
-            <Icon type="plus-square" />Add Recipe Modal
+            <Icon type="plus-square" />
+            Add Recipe Modal
           </div>
 
 
@@ -100,11 +101,15 @@ class Header extends Component {
         </Menu.Item>
 
         <Menu.Item key="search">
-          <Icon type="search" />Search<Link to="/s" />
+          <Icon type="search" />
+          Search
+          <Link to="/s" />
         </Menu.Item>
 
         <Menu.Item key="search2">
-          <Icon type="search" />Search<Link to="/s2" />
+          <Icon type="search" />
+          Search
+          <Link to="/s2" />
         </Menu.Item>
 
         <Menu.Item key="dropdead">

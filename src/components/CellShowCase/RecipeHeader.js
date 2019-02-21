@@ -63,6 +63,7 @@ class RecipeHeader extends Component {
 	//     return false;
 	//   }
 	render() {
+
 		return (
 		  <Header style={cssHeader}>
         <Row>

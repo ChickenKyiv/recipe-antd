@@ -5,7 +5,7 @@ import {
 
 import HomeView   from './views/HomeView'
 // import HomeView   from '@groceristar/antd-showcase-components'
-import SearchView from '@groceristar/antd-showcase-components'
+// import SearchView from '@groceristar/antd-showcase-components'
 
 import RecipeListCards from './views/RecipeListCards'
 
@@ -47,7 +47,7 @@ class Router extends Component {
         <Switch>
 
           <Route path="/"  component={HomeView} exact/>
-          <Route path="/s2"  component={SearchView} exact/>
+          {/*<Route path="/s2"  component={SearchView} exact />*/}
           <Route path="/recipelist"  component={RR} />
           <Route path="/cards"  exact component={RecipeListCards} />
 
