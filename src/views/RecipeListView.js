@@ -6,8 +6,7 @@ import { Link } from 'react-router-dom'
 import Img from 'react-image'
 
 import { EmptyImageWrapper,
-LinkEmptyImage } from './../components/RecipeList/EmptyImageWrapper'
-// import Main   from '@groceristar/antd-showcase-components';
+LinkEmptyImage }   from '@groceristar/antd-showcase-components';
 
 import {
 
