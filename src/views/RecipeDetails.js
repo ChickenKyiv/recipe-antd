@@ -13,10 +13,6 @@ import {
 
 // import RecipeHeader from './RecipeHeader/RecipeHeader';
 
-
-
-
-
 import {
 
     RecipeCard1,
@@ -24,20 +20,7 @@ import {
     RecipeCard3,
     RecipeCard4,
     RecipeCard5,
-} from './../components/RecipeList'
-
-
-
-
-// import {
-//   RecipeCard1,
-//   RecipeCard2,
-//   RecipeCard3,
-//   RecipeCard4,
-//   RecipeCard5,
-// } from ''
-
-
+} from '@groceristar/cards-wrapper'
 
 import {
   getRandomRecipe,

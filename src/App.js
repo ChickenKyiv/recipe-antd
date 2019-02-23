@@ -17,7 +17,7 @@ import {
   // ClearCardsExample,
   // LoadMoreList,
   //RecipeListExample
-} from './components/RecipeList'
+} from '@groceristar/cards-wrapper'
 
 
 
