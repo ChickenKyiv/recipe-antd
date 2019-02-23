@@ -796,10 +796,10 @@
     antd "^3.13.2"
     uuid "^3.3.2"
 
-"@groceristar/cards-wrapper@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@groceristar/cards-wrapper/-/cards-wrapper-1.0.2.tgz#0d535d0607fce3a62f420add1d76b8ce5d3da68c"
-  integrity sha512-7Bymu1bpzNLk8L7ZhUAOY9d3f7DMvQJk2FE8+8PW65FLZN5FMdAygHVUD6/31no7xwIiidH1UWdYuZYNkjL0pQ==
+"@groceristar/cards-wrapper@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@groceristar/cards-wrapper/-/cards-wrapper-1.0.3.tgz#b7703af513ed82797c1fbc1f3a103c1a65dd8096"
+  integrity sha512-qV81PPlq0ZXTCINAoH4k55QiScaao7bmZlTI+2BA/7aJ5P9KE6GR/C5VFqluLw4kqfxjlmqJGx7G5fUKMfwVnw==
   dependencies:
     "@react-pdf/renderer" "^1.2.0"
     antd "^3.13.0"
