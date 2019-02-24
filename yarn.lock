@@ -773,10 +773,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/convert-colors/-/convert-colors-1.4.0.tgz#ad495dc41b12e75d588c6db8b9834f08fa131eb7"
   integrity sha512-5a6wqoJV/xEdbRNKVo6I4hO3VjyDq//8q2f9I6PBAvMesJHFauXDorcNCsr9RzvsZnaWi5NYCcfyqP1QeFHFbw==
 
-"@groceristar/antd-showcase-components@^1.0.17":
-  version "1.0.17"
-  resolved "https://registry.yarnpkg.com/@groceristar/antd-showcase-components/-/antd-showcase-components-1.0.17.tgz#b3150a5390ab599b96368be64fe1dfa08ebd5646"
-  integrity sha512-KGirn9r0P2tHOpVc12bCwcznTrQOXONHcRiVRgWNxoI1PK1TKO6BE/xplGORABGvspiOzgNSELWYy3A97Y7v7g==
+"@groceristar/antd-showcase-components@^1.0.21":
+  version "1.0.21"
+  resolved "https://registry.yarnpkg.com/@groceristar/antd-showcase-components/-/antd-showcase-components-1.0.21.tgz#44b60fff7a452a325b9b0615de8e1f116b446ada"
+  integrity sha512-p3lSOXfAIUZ+ED1luvPF3hshzPAaBTST2+nWUcDl9EXvyRWem0qhRFf1EMHeXEJs/moaJ+k+T/06Ln8B/pyXNg==
   dependencies:
     "@groceristar/cards-wrapper" "^1.0.1"
     "@groceristar/grocery-component" "^1.0.6"
@@ -786,6 +786,7 @@
     react-router "^4.3.1"
     react-router-dom "^4.3.1"
     redux-devtools "^3.5.0"
+    reqwest "^2.0.5"
     uuid "^3.3.2"
 
 "@groceristar/cards-wrapper@^1.0.1", "@groceristar/cards-wrapper@^1.0.6":
