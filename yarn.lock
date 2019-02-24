@@ -788,18 +788,10 @@
     redux-devtools "^3.5.0"
     uuid "^3.3.2"
 
-"@groceristar/cards-wrapper@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@groceristar/cards-wrapper/-/cards-wrapper-1.0.1.tgz#a0106dd5da0c4bc29d5a4b65e917d1cbb2c0efa7"
-  integrity sha512-27NxtBK7NqHJ2Yc4PMp52catUufmrxdjhC4xzIwYUDN7daYMVtzIjXfRpdOCOxIlB4iAtHnmEiwALwfDuWdmZQ==
-  dependencies:
-    antd "^3.13.2"
-    uuid "^3.3.2"
-
-"@groceristar/cards-wrapper@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@groceristar/cards-wrapper/-/cards-wrapper-1.0.3.tgz#b7703af513ed82797c1fbc1f3a103c1a65dd8096"
-  integrity sha512-qV81PPlq0ZXTCINAoH4k55QiScaao7bmZlTI+2BA/7aJ5P9KE6GR/C5VFqluLw4kqfxjlmqJGx7G5fUKMfwVnw==
+"@groceristar/cards-wrapper@^1.0.1", "@groceristar/cards-wrapper@^1.0.6":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@groceristar/cards-wrapper/-/cards-wrapper-1.0.6.tgz#9cbdba7a94b7531207099cf91058732e2802f6eb"
+  integrity sha512-CpWsPfVWuRn0CPWZlgLCHQ86fLGzrMArgqEn7be8xExUW1UauGlhvqQ3MNP9aFlVYMmrjPl3713oJFE77ub+hw==
   dependencies:
     "@react-pdf/renderer" "^1.2.0"
     antd "^3.13.0"
