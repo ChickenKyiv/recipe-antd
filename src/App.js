@@ -5,7 +5,7 @@ import  { Router
   // , Cards
 }  from '@groceristar/antd-showcase-components'
 
-
+import { Cards }   from '@groceristar/cards-wrapper';
 
 import {
   RecipeCard1,
@@ -21,22 +21,13 @@ import {
 
 
 
-
-
-
-
-
-
-
 // import { Router,  ListWrapper } from './'
 //--------------
 import { getFirstFiveRecipes } from "./selectors/selector";
 // import { List, Card, Ellipsis, Icon, Button } from 'antd'
-// import ListWrapper from './components/ListWrapper/ListWrapper'
+
 import { ListWrapper } from '@groceristar/antd-showcase-components'
 import "antd/dist/antd.css";
-
-
 
 
 
