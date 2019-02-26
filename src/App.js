@@ -5,7 +5,7 @@ import  { Router
   // , Cards
 }  from '@groceristar/antd-showcase-components'
 
-import { Cards }   from '@groceristar/cards-wrapper';
+// import { Cards }   from '@groceristar/cards-wrapper';
 
 import {
   RecipeCard1,
@@ -23,10 +23,11 @@ import {
 
 // import { Router,  ListWrapper } from './'
 //--------------
-import { getFirstFiveRecipes } from "./selectors/selector";
+import { getFirstFiveRecipes, getRandomRecipe } from "./selectors/selector";
 // import { List, Card, Ellipsis, Icon, Button } from 'antd'
 
-import { ListWrapper } from '@groceristar/antd-showcase-components'
+import { ListWrapper, HeaderRecipes } from '@groceristar/antd-showcase-components'
+import Header from './components/Header/Header'
 import "antd/dist/antd.css";
 
 
@@ -45,11 +46,13 @@ class App extends Component {
   render() {
 
     const list = getFirstFiveRecipes();
+
+    const recipe = getRandomRecipe();
     console.log(list);
     return (
 
       <Fragment>
-
+        <HeaderRecipes data={recipe} />
         {/*<Router />*/}
         <ListWrapper list={list} />
 
