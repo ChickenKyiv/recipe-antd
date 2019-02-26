@@ -27,7 +27,7 @@ import { getFirstFiveRecipes, getRandomRecipe } from "./selectors/selector";
 // import { List, Card, Ellipsis, Icon, Button } from 'antd'
 
 import { ListWrapper, HeaderRecipes } from '@groceristar/antd-showcase-components'
-import Header from './components/Header/Header'
+
 import "antd/dist/antd.css";
 
 
