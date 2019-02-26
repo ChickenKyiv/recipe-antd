@@ -6,10 +6,7 @@ import "antd/dist/antd.css";
 // import "./../styles.css";
 
 
-
-// import Header from '../components/Header/Header';
-// import Header   from '@groceristar/antd-showcase-components';
-import { Main }   from '@groceristar/antd-showcase-components';
+import { HeaderShowcase }   from '@groceristar/antd-showcase-components';
 
 import { getFirstFiveRecipes } from "../selectors/selector";
 
@@ -32,9 +29,7 @@ class HomeView extends Component {
 
             <Header />
             123
-            {/*
-            <Main data={getFirstFiveRecipes()} />
-            */}
+
 
                     <ListWrapper list={list} />
                     <Cards />

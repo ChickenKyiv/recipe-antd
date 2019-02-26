@@ -50,10 +50,10 @@ class App extends Component {
 
       <Fragment>
 
-        <Router />
+        {/*<Router />*/}
         <ListWrapper list={list} />
 
-        <Cards />
+        {/*}<Cards /> */}
 
         {/* <ClearCardsExample /> */}
 
