@@ -1,6 +1,8 @@
 import React, { Component, Fragment } from 'react';
 
 import { Card, Col, Row, Icon, Empty } from 'antd'
+
+
 import { Link } from 'react-router-dom'
 
 import Img from 'react-image'
@@ -11,20 +13,13 @@ import {
 } from '@groceristar/antd-showcase-components';
 
 import {
-    RecipeCard1,
-    RecipeCard2,
-    RecipeCard3,
-    RecipeCard4,
-    RecipeCard5,
+  Card1,
+  Card2,
+  Card3,
+  Card4,
+  Card5,
 } from '@groceristar/cards-wrapper'
 
-// import {
-//   RecipeCard1,
-//   RecipeCard2,
-//   RecipeCard3,
-//   RecipeCard4,
-//   RecipeCard5,
-// } from ''
 
 
 import {
@@ -52,6 +47,7 @@ const styles = {
     fontSize: 14
   }
 }
+
 
 const old = () => {
 

@@ -9,15 +9,16 @@ import {
 // import { Cards }   from '@groceristar/cards-wrapper';
 
 import {
-  RecipeCard1,
-  RecipeCard2,
-  RecipeCard3,
-  RecipeCard4,
-  RecipeCard5,
+  Card1,
+  Card2,
+  Card3,
+  Card4,
+  Card5,
 
   // ClearCardsExample,
   // LoadMoreList,
-  //RecipeListExample
+ClearCardsExample,
+DefaultCardsExample
 } from '@groceristar/cards-wrapper'
 
 

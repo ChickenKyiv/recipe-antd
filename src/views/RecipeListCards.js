@@ -3,15 +3,14 @@ import _        from "lodash";
 
 // import "./../styles.css";
 
-// import Main   from '@groceristar/antd-showcase-components';
-
 import {
-    RecipeCard1,
-    RecipeCard2,
-    RecipeCard3,
-    RecipeCard4,
-    RecipeCard5,
+  Card1,
+  Card2,
+  Card3,
+  Card4,
+  Card5,
 } from '@groceristar/cards-wrapper'
+
 import { getFirstFiveRecipes } from "../selectors/selector";
 
 

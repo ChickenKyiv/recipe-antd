@@ -9,7 +9,6 @@ import {
   IngredientList,
   DefaultList
 } from '@groceristar/grocery-component';
-// import Main   from '@groceristar/antd-showcase-components';
 
 // import RecipeHeader from './RecipeHeader/RecipeHeader';
 
