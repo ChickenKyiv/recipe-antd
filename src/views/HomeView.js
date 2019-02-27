@@ -1,21 +1,20 @@
 import React, { Component, Fragment } from 'react';
-
-
 import _        from "lodash";
 import "antd/dist/antd.css";
 // import "./../styles.css";
-
 
 import { HeaderShowcase }   from '@groceristar/antd-showcase-components';
 
 import { getFirstFiveRecipes } from "../selectors/selector";
 
+
+
 class HomeView extends Component {
 
-    state = {
-      // data: getGroceryCollection(), //Did we need it here? i think we didn use all data from this method
+  state = {
+    // data: getGroceryCollection(), //Did we need it here? i think we didn use all data from this method
 
-    };
+  };
 
   render() {
 
@@ -27,12 +26,10 @@ class HomeView extends Component {
       <Fragment>
         <div className="main">
 
-            <Header />
-            123
-
-
-                    <ListWrapper list={list} />
-                    <Cards />
+            <HeaderShowcase />
+            
+            <ListWrapper list={list} />
+            <Cards />
         </div>
       </Fragment>
 

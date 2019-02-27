@@ -1,32 +1,19 @@
 import React, { Component, Fragment } from 'react';
-
 import _        from "lodash";
 
 // import "./../styles.css";
 
 // import Main   from '@groceristar/antd-showcase-components';
-import { getFirstFiveRecipes } from "../selectors/selector";
-
-
 
 import {
-
     RecipeCard1,
     RecipeCard2,
     RecipeCard3,
     RecipeCard4,
     RecipeCard5,
-} from './../components/RecipeList'
+} from '@groceristar/cards-wrapper'
+import { getFirstFiveRecipes } from "../selectors/selector";
 
-
-
-// import {
-//   RecipeCard1,
-//   RecipeCard2,
-//   RecipeCard3,
-//   RecipeCard4,
-//   RecipeCard5,
-// } from ''
 
 class RecipeListCards extends Component {
 

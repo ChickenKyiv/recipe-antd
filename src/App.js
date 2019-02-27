@@ -1,9 +1,10 @@
 import React, { Component, Fragment } from 'react';
 
-// import { Router } from './Router';
-import  { Router
-  // , Cards
-}  from '@groceristar/antd-showcase-components'
+import {
+  Router,
+  ListWrapper,
+  HeaderRecipes
+} from '@groceristar/antd-showcase-components'
 
 // import { Cards }   from '@groceristar/cards-wrapper';
 
@@ -20,13 +21,10 @@ import {
 } from '@groceristar/cards-wrapper'
 
 
-
-// import { Router,  ListWrapper } from './'
-//--------------
-import { getFirstFiveRecipes, getRandomRecipe } from "./selectors/selector";
-// import { List, Card, Ellipsis, Icon, Button } from 'antd'
-
-import { ListWrapper, HeaderRecipes } from '@groceristar/antd-showcase-components'
+import {
+  getFirstFiveRecipes,
+  getRandomRecipe
+} from "./selectors/selector";
 
 import "antd/dist/antd.css";
 

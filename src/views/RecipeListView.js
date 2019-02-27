@@ -5,18 +5,18 @@ import { Link } from 'react-router-dom'
 
 import Img from 'react-image'
 
-import { EmptyImageWrapper,
-LinkEmptyImage }   from '@groceristar/antd-showcase-components';
+import {
+  EmptyImageWrapper,
+  LinkEmptyImage
+} from '@groceristar/antd-showcase-components';
 
 import {
-
     RecipeCard1,
     RecipeCard2,
     RecipeCard3,
     RecipeCard4,
     RecipeCard5,
-
-} from './../components/RecipeList'
+} from '@groceristar/cards-wrapper'
 
 // import {
 //   RecipeCard1,
