@@ -7,8 +7,12 @@ import HomeView   from './views/HomeView'
 // import HomeView   from '@groceristar/antd-showcase-components'
 // import SearchView from '@groceristar/antd-showcase-components'
 
-import RecipeListCards from './views/RecipeListCards'
 
+// import RecipeListCards from './views/RecipeListCards'
+import {
+  ClearCardsExample,
+  DefaultCardsExample
+} from '@groceristar/cards-wrapper'
 
 
 import ExampleCardsView from './views/ExampleCardsView';
@@ -50,7 +54,8 @@ class Router extends Component {
           <Route path="/"  component={HomeView} exact/>
           {/*<Route path="/s2"  component={SearchView} exact />*/}
           <Route path="/recipelist"  component={RR} />
-          <Route path="/cards"  exact component={RecipeListCards} />
+
+          <Route path="/cards"  exact component={ClearCardsExample} />
 
         </Switch>
       </BrowserRouter>
