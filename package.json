@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@groceristar/antd-showcase-components": "^1.0.30",
+    "@groceristar/antd-showcase-components": "^1.0.31",
     "@groceristar/cards-wrapper": "^1.0.9",
     "@groceristar/groceristar-fetch": "^1.2.7",
     "@groceristar/grocery-component": "^1.0.6",
