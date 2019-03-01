@@ -4,13 +4,13 @@ import "antd/dist/antd.css";
 // import "./../styles.css";
 
 import {
-  HeaderShowcase, ListWrapper
+  HeaderShowcase,
 } from '@groceristar/antd-showcase-components';
 
-import { Cards } from '@groceristar/cards-wrapper';
+import { Cards, ListWrapper } from '@groceristar/cards-wrapper';
 
 import {
-  getFirstFiveRecipes 
+  getFirstFiveRecipes
 } from "../selectors/selector";
 
 

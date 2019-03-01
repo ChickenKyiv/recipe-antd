@@ -773,10 +773,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/convert-colors/-/convert-colors-1.4.0.tgz#ad495dc41b12e75d588c6db8b9834f08fa131eb7"
   integrity sha512-5a6wqoJV/xEdbRNKVo6I4hO3VjyDq//8q2f9I6PBAvMesJHFauXDorcNCsr9RzvsZnaWi5NYCcfyqP1QeFHFbw==
 
-"@groceristar/antd-showcase-components@^1.0.35":
-  version "1.0.35"
-  resolved "https://registry.yarnpkg.com/@groceristar/antd-showcase-components/-/antd-showcase-components-1.0.35.tgz#ee68e0f77eb3e58f2c066707df06c17d596dc861"
-  integrity sha512-sM+x0UMI9QeldlQKrb4SNsaQwNlYLSJBmow0Xb03Ry/bUJdy9CJSMhuPLRaiSZodTA15ppp8JbTwqNETjFCzPA==
+"@groceristar/antd-showcase-components@^1.0.37":
+  version "1.0.37"
+  resolved "https://registry.yarnpkg.com/@groceristar/antd-showcase-components/-/antd-showcase-components-1.0.37.tgz#1ff90084d199bce704d98e5657b1360d4f7e9b1d"
+  integrity sha512-sDj8BTWkdixVNrFcWNIuejI2cjacl50hKgDpf3OhihZ4tg+Zkl4bQLmUYm7+GEF28yCnu29mX/DsUtoF4lFI0A==
   dependencies:
     "@groceristar/cards-wrapper" "^1.0.7"
     "@groceristar/grocery-component" "^1.0.6"
@@ -789,14 +789,22 @@
     react-image "^2.0.0"
     react-router "^4.3.1"
     react-router-dom "^4.3.1"
-    redux-devtools "^3.5.0"
     reqwest "^2.0.5"
     sass-loader "^7.1.0"
     shx "^0.3.2"
     style-loader "^0.23.1"
     uuid "^3.3.2"
 
-"@groceristar/cards-wrapper@^1.0.7", "@groceristar/cards-wrapper@^1.0.9":
+"@groceristar/cards-wrapper@^1.0.11":
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/@groceristar/cards-wrapper/-/cards-wrapper-1.0.11.tgz#b82e6658227243e19b294a60e66bf7d896ca881b"
+  integrity sha512-TbcRUGBhBUCTwgKjEKtqGw6qXqghMAa7DHVZOaw84QD3ZYzz2E+cB7zuFg4E4xrAlSrxnBCWOzR7NkNkEPsXdg==
+  dependencies:
+    "@react-pdf/renderer" "^1.2.0"
+    antd "^3.13.0"
+    uuid "^3.3.2"
+
+"@groceristar/cards-wrapper@^1.0.7":
   version "1.0.9"
   resolved "https://registry.yarnpkg.com/@groceristar/cards-wrapper/-/cards-wrapper-1.0.9.tgz#2150a36d7aa5d90882082d32a45594a49d2e08a6"
   integrity sha512-6zMvJYx/xtRSxcTReRQzyheB47NP9KqDlxbOuGhZpXuIXliWjPjXA9BD5iH4bCyaH1ncPHOcTwXDWOxscvZiPQ==
