@@ -11,11 +11,13 @@ import HomeView   from './views/HomeView'
 // import RecipeListCards from './views/RecipeListCards'
 import {
   ClearCardsExample,
-  DefaultCardsExample
+  DefaultCardsExample,
+
+  ExampleCardsView
 } from '@groceristar/cards-wrapper'
 
 
-import ExampleCardsView from './views/ExampleCardsView';
+// import ExampleCardsView from './views/ExampleCardsView';
 // import RecipeRouter from './RecipeRouter'
 
 
