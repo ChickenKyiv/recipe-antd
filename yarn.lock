@@ -795,10 +795,10 @@
     style-loader "^0.23.1"
     uuid "^3.3.2"
 
-"@groceristar/cards-wrapper@^1.0.11":
-  version "1.0.11"
-  resolved "https://registry.yarnpkg.com/@groceristar/cards-wrapper/-/cards-wrapper-1.0.11.tgz#b82e6658227243e19b294a60e66bf7d896ca881b"
-  integrity sha512-TbcRUGBhBUCTwgKjEKtqGw6qXqghMAa7DHVZOaw84QD3ZYzz2E+cB7zuFg4E4xrAlSrxnBCWOzR7NkNkEPsXdg==
+"@groceristar/cards-wrapper@^1.0.12":
+  version "1.0.12"
+  resolved "https://registry.yarnpkg.com/@groceristar/cards-wrapper/-/cards-wrapper-1.0.12.tgz#a908bfcf7e0d2d8ddc9a9be2b97bdd8b26e4892a"
+  integrity sha512-8Jh3JAu7CiqZNSQrafDvvwTQAbMO+I5u+vAor+wdAcFZT75qDfltMn5j9iU2ucspPSSH6Qd2AO4KC1odyMMtcQ==
   dependencies:
     "@react-pdf/renderer" "^1.2.0"
     antd "^3.13.0"
@@ -813,10 +813,22 @@
     antd "^3.13.0"
     uuid "^3.3.2"
 
-"@groceristar/groceristar-fetch@^1.2.2", "@groceristar/groceristar-fetch@^1.2.7":
+"@groceristar/groceristar-fetch@^1.2.2":
   version "1.2.7"
   resolved "https://registry.yarnpkg.com/@groceristar/groceristar-fetch/-/groceristar-fetch-1.2.7.tgz#77afbd0159a5816a8c8c336ac3268cbbf10c0f10"
   integrity sha512-oyX+e/CqxUXIGtDcemDC+cV1H4/iElfci3ItaFI3iBr8qNhfj/WyURo7kQontiIUAzvYpFUgfKdOO11Q+m5pbw==
+  dependencies:
+    "@groceristar/sd-wrapper" "^1.0.7"
+    dayjs "^1.8.0"
+    fs "0.0.2"
+    lodash "^4.17.10"
+    underscore "^1.9.1"
+    uuid "3.3.2"
+
+"@groceristar/groceristar-fetch@^1.2.8":
+  version "1.2.8"
+  resolved "https://registry.yarnpkg.com/@groceristar/groceristar-fetch/-/groceristar-fetch-1.2.8.tgz#03553dab02033d695e1dc94634419a8b5fef1f40"
+  integrity sha512-mIy+eSqo3W8Cd9l4aLF/NnAh6cuYhyRmdoqWlI4Qt1wrERLZIlhcXvnFWUJ2X0zkTK5Z+ByxEWlaFoYL/GCCyw==
   dependencies:
     "@groceristar/sd-wrapper" "^1.0.7"
     dayjs "^1.8.0"
