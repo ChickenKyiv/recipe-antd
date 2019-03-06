@@ -8,7 +8,7 @@
     "@groceristar/groceristar-fetch": "^1.2.8",
     "@groceristar/grocery-component": "^1.0.9",
     "@groceristar/pdf-export": "^1.0.37",
-    "antd": "^3.14.0",
+    "antd": "^3.14.1",
     "axios": "^0.18.0",
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.10.0",
