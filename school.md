@@ -163,3 +163,13 @@ Create reports, based on their work. List of tests, my comments.
 Не просто наблюдения, а мои какие то вопросы, описание процессов.
 
 Например как удобнее управлять базой интернов --- Hubspot CRM(not just replying to emails.)
+
+
+Как быстрее реагировать на их Code changes. GitPod + automatization on repositories + Maybe some of students after learning basics can became a leaders/maintainers, reviewers of code changes too. But it work not well right now.
+
+Нужны четкие релизы со стороны работы проекта.
+Планы из серии на будущюю неделю или две.
+
+Большее количество людей означает большее количество заявок, которое надо обрабатывать и преобразовывать быстро.
+---
+Можно рассказать, показать наши компоненты и вынос их нахуй из общего проекта.
