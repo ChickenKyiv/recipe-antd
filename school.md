@@ -173,3 +173,44 @@ Create reports, based on their work. List of tests, my comments.
 Большее количество людей означает большее количество заявок, которое надо обрабатывать и преобразовывать быстро.
 ---
 Можно рассказать, показать наши компоненты и вынос их нахуй из общего проекта.
+
+
+=======
+
+
+Что мне не нравится в моей работе с интернами.
+Работа над ошибками.
+
+1) Я сильно их ограничиваю. Особенно в самом начале. Я знаю что студенты могут отвлекаться.
+Я не соединяю их вместе в нашем slack channel.
+it is bad for team building и  ощущению что ты часть команды
+2) Чаще всего я даю задачу, где нет возможности для creative. it is simple, solid task.
+
+Я мало времени уделяю Github, когда программирую сам. Мы не настроили git-flow, я подаю плохой пример --- делая плохие описания, bad commits messages, pull requests. I alway don't have time for it.
+
+4) I can do better analysis of their skills at the begining
+5) I can spend more time on explaining tasks. Sometime I do this on purpose. In order (I want to provoke a discussion). Sometimes i'm just lazy to put more time into it.
+
+Я должен увеличить lifespan работы с каждым of students. Тогда я смогу вначале научить их работать со мной, а потом уже сфокусироваться в расширении их skillset по их желанию.
+Много студентов бросают, когда находят чтото более им интересное. (Ex: мы делали graphql сервер с одной девочкой, когда начались сложные задачи и она не могла в них быстро разобраться - she stuckб она переключиласб помогать проекту, который делает memes database. And I understand her. I also love memes)
+
+I think about усложнении/улучшении процесса интервью of job-seekers.
+My assumption is: если interview will be more serious, and i will be more "bossy" и буду задавать   10 complex questions and make them sweat - and hard to answer quickly - --- people will be more ценить то что они попали на эту программу.
+
+еще я бы хотел всем share big dump of data, но при этом я нехочу чтобы они только читали. Моя главная задача - code practice, not reading.
+
+====
+
+
+Text to Zoe
+
+Потом рассказать как меня пригласили а потом отгласили в акселератор
+
+О том, что делаю static food module,
+I also have a lot of un published testm but it will require an additional touch
+
+3 articles was published on hackernoon -> 3 in production right now
+one was submitted to publication few hours ago
+
+I need to create Why nobody will use my coding school startup.
+I also thinking about creating a site generator for courses, using markdown as main format...
