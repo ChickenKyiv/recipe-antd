@@ -41,13 +41,15 @@ import "antd/dist/antd.css";
 
 //
 class App extends Component {
+  
   getListWrapper(list){
     if(list != undefined && list.length > 0){
       return (<ListWrapper list={list} />)
-    }else {
+    } else {
       return (<Em />)
     }
   }
+  
   render() {
 
     const list = getFirstFiveRecipes();
