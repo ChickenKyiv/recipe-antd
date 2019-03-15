@@ -214,3 +214,23 @@ one was submitted to publication few hours ago
 
 I need to create Why nobody will use my coding school startup.
 I also thinking about creating a site generator for courses, using markdown as main format...
+
+
+
+насчет твоего вопроса по gs - что у нас есть. думаю что надо тебе больше дать инфы и может тебя подключить к этому. первое что мы запустим(надеюсь скоро) - 1) это сайт, который просто дает пользователь к данным, которые есть у нас внутри fetch. тоесть просто json в котором есть данные по еде. я думаю что мы соберем некоторые сливки, когда эта штука будет онлайн и люди увидят что у нас есть. 2) потом должен быть recipe-antd c подключением к моему старому серваку. там многое готово, многое еще нет, но зато у меня есть четкое виденье как это будет 3) потом мы попробуем лайтово сделать coding school. вохможно это будет просто быстрый сайт на коленке за 2-8 дней. потому что если например запущена coding school и пройдет 2-3 месяца и оттуда пойдут деньги - это сильно все ускорит. но как минимальный результат - я надеюсь что появится больше народу в команде. сейчас кстати команда тоже растет, но все равно все делается очень медленно 4) может быть мы просто запустим gs как превью GL которые у нас есть. небудем заморачиваться вообще и сделаем все статическим - потому что я устал делать долго - мне хочется быстрого результата
+
+
+
+
+
+1) I need to share stuff that i collected in the last few years. Or my head will explode ;)
+2) Money independence. After failing my prev company I decide to not go to 9-5 job and my friends supporting me financially. So I need to make it work :)
+3) Health/fitness. I need to get in shape. At least 1/5 of my best form will be enough for now. Soon or later I should complete my 4th marathon.
+4) I need to focus on money-making moves(it was a taboo for a few years) Find investors, incorporate company at EU
+5) Continue to write my articles. Soon it will be 80. And hope before June 1st It will be around 100.
+6) Launch my school, in order to strike back to Skillshare. details: https://hackernoon.com/skillshar...
+
+But before launching school i need 10 articles on that topic.
+rigth now i have 2 published.
+First: https://hackernoon.com/how-i-bui...
+Second: https://hackernoon.com/how-i-bui...
