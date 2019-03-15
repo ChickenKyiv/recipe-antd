@@ -2,11 +2,11 @@ import React, { Component, Fragment } from 'react';
 
 import {
   Router,
-
+  ListWrapperEmpty,
   HeaderRecipes
 } from '@groceristar/antd-showcase-components'
 
-import { ListWrapper, Em }   from '@groceristar/cards-wrapper';
+import { ListWrapper, Em } from '@groceristar/cards-wrapper';
 
 import {
   Card1,
@@ -41,15 +41,7 @@ import "antd/dist/antd.css";
 
 //
 class App extends Component {
-  
-  getListWrapper(list){
-    if(list != undefined && list.length > 0){
-      return (<ListWrapper list={list} />)
-    } else {
-      return (<Em />)
-    }
-  }
-  
+
   render() {
 
     const list = getFirstFiveRecipes();
@@ -61,7 +53,7 @@ class App extends Component {
         <HeaderRecipes data={recipe} />
         {/*<Router />*/}
 
-        {this.getListWrapper(list)}
+        <ListWrapperEmpty list={list}/>
         {/*}<Cards /> */}
 
         {/* <ClearCardsExample /> */}
