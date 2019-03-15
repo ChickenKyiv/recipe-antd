@@ -773,10 +773,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/convert-colors/-/convert-colors-1.4.0.tgz#ad495dc41b12e75d588c6db8b9834f08fa131eb7"
   integrity sha512-5a6wqoJV/xEdbRNKVo6I4hO3VjyDq//8q2f9I6PBAvMesJHFauXDorcNCsr9RzvsZnaWi5NYCcfyqP1QeFHFbw==
 
-"@groceristar/antd-showcase-components@^1.0.38":
-  version "1.0.38"
-  resolved "https://registry.yarnpkg.com/@groceristar/antd-showcase-components/-/antd-showcase-components-1.0.38.tgz#fb291f03a3d2d49bb9cdb728533242047bb1a350"
-  integrity sha512-N26Nl2flRcwJdCbBO/jiQB/QbxP2Sj16cSPX7WwphwOuVISq77twuVZ5I7lfvKEqlUe9hyXIG3uSQ5MpLR+cfA==
+"@groceristar/antd-showcase-components@^1.0.40":
+  version "1.0.40"
+  resolved "https://registry.yarnpkg.com/@groceristar/antd-showcase-components/-/antd-showcase-components-1.0.40.tgz#f08d0a7068e575a741e7c7e4e921df6c096607a0"
+  integrity sha512-tDxurpNMUz3grA3NSSlT31+lTgNRSMlb2IQz6Elhqm/MNulm2gIpJgTckP6AI+kyMiQ/wDsoT3ntk97TblWkpA==
   dependencies:
     "@groceristar/cards-wrapper" "^1.0.12"
     "@groceristar/grocery-component" "^1.0.9"
@@ -809,10 +809,10 @@
     react-image "^2.0.0"
     uuid "^3.3.2"
 
-"@groceristar/groceristar-fetch@^1.2.14", "@groceristar/groceristar-fetch@^1.2.2":
-  version "1.2.14"
-  resolved "https://registry.yarnpkg.com/@groceristar/groceristar-fetch/-/groceristar-fetch-1.2.14.tgz#dd80a24e25008c1ab818d90d5164fef63b5a5b99"
-  integrity sha512-UKZL61j/miIFnb0NNkLYmTa+Qq13VCVYdX9zMB4rfi6bUXwILeUm4OoYWQKhAg+KbNZOnjI+GGp0TaPguYniLQ==
+"@groceristar/groceristar-fetch@^1.2.15", "@groceristar/groceristar-fetch@^1.2.2":
+  version "1.2.15"
+  resolved "https://registry.yarnpkg.com/@groceristar/groceristar-fetch/-/groceristar-fetch-1.2.15.tgz#06398ec20ce747b5d3fe1a74b171bcd87fb1c7ff"
+  integrity sha512-W6KHaywi+3ru2qLr8Ubb5KqIDmENk7QmBLBADz180SlPkIvWcuF3IvK9B1Z56UwriB8EkDgs8U0ahhTs4Hbwwg==
   dependencies:
     "@groceristar/sd-wrapper" "^1.0.15"
     dayjs "^1.8.0"
