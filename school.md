@@ -234,3 +234,42 @@ But before launching school i need 10 articles on that topic.
 rigth now i have 2 published.
 First: https://hackernoon.com/how-i-bui...
 Second: https://hackernoon.com/how-i-bui...
+
+
+ Где можно найти интернов
+ 1) Обычные job boards, specifi job boards
+ 2) Asking your friends, online forums -> low results
+ 3) You can search at some schools, but usually they wouldn't give to you their best students for free
+ (There is not nothing bad here, I just cannot afford it) GetM is a cool school, but came with a price tag
+
+
+ ---
+ How this idea was born?
+ I have a lot of interns in my company. During last year I realize that I should increase the number of interns. And this will move the whole process to the next level. I have a pile of notes, that i want to convert into an article and documentation. I decide that I should improve my documentation and put everything in one place and I setup a docusaurus website[details here].
+
+ After creating a few documentation stores. I realize that in order to increase productivity of this huge team(they have different timezones, level of knowledge and overral computer skills --> I need to have an определенную strict panel/Dashboard, where I will be able to track for their working process/progress of team members and have an ability quickly reply to their comments/ask questions, etc)
+
+ For that reasons I create a "contributors" project. I want to put a list of all people, that helps me. I start to grab, prepare all data into single spreadsheet file, in order to import them into our website later.
+
+
+ In ideal worlds, this website should have all links, all details about current projects that we working on in progress, to GitHub Repo/Github issues links. It will save me a lot of time and increase time when I can help my team.
+
+ It will be done later + Gmail --> interns with my advices ---> it's a section with people that I battle tested.
+
+ I can also share information about structure of our Slack channel.
+
+ 4) "schools" are local sometimes and oriented to give their students to local companies - so also not an option for me.
+
+ 5) I'm from Ukraine, and in my country I was able to find only one student(strange, right?) But he is a cool asset, we working together more that * month and when he will get a degree -- I will put him into some big company) This is his profile [link]. He is one local team member and worldwide we get 84 people --> you see a difference.
+
+ 6) Можно найти всякие локальные курсы, но это надо переходить, а lazy option --> google stuff online.
+
+ Искать в Linkedin --> не дало результата вообще(возможно это странно, I didn't know)
+
+ Я вначале стеснялся и долго не заполнял нормально job description, чем скорее всего отпугивал некоторых job-seekers.
+
+ Gen M is a good example of online school that trains people from begining. But in our case, I don't want to obligate someone or push or force to "pay" something in back. In the last year I meet a lot of cool, young people. They inspiring me, sharing their dreams to work in tech companies, send to me their energy, so I can continue to move forward.
+
+ Briefly, I hate to code. I hate to code something that will be soon outdate or replaced in a few years and my work will be forgotten. Sometimes I think that planting trees is more rewarding, because ou can see results after many years.
+
+ You can use website templates that are online.
