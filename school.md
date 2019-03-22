@@ -273,3 +273,25 @@ Second: https://hackernoon.com/how-i-bui...
  Briefly, I hate to code. I hate to code something that will be soon outdate or replaced in a few years and my work will be forgotten. Sometimes I think that planting trees is more rewarding, because ou can see results after many years.
 
  You can use website templates that are online.
+
+
+
+QA? Know Jest -> create simple tests with React -> test our components. Improve our code quality and make our projects.
+
+Собрать testimonials от тех, кто уже закончил пользоваться моими услугами.
+Потом можно и сделать типизацию с emoji, чтобы было веселее. Ответить всем и каждому.
+
+Статья: if you find an intern(remote) после этой статьи - ссылка на мой проект.
+
+Статья - мой concept - about school stuff.
+
+---
+
+What I propose to do: instead of just matching courses and code default assesments(which is not so bad) -> you can really help with your current skills. It can be small improvement at the first time, but later -> you'll be able to do more.
+
+---
+Goals for school: Reduce time of processing each new student. like improving FAQ, sending links to articles, new articles, etc.
+
+---
+
+Еще для каждого своего студента прошу или пытаюсь просить каждого студента, который обращается ко мне - помочь мне и моей компании by spreading word about us это приходится делать каждый раз с каждым человеком
