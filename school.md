@@ -294,4 +294,43 @@ Goals for school: Reduce time of processing each new student. like improving FAQ
 
 ---
 
-Еще для каждого своего студента прошу или пытаюсь просить каждого студента, который обращается ко мне - помочь мне и моей компании by spreading word about us это приходится делать каждый раз с каждым человеком
+Еще для каждого своего студента прошу или пытаюсь просить каждого студента, который обращается ко мне - помочь мне и моей компании by spreading word about us это приходится делать каждый раз с каждым человеком - Это напрягает и это также сложно трекать и легко забыть попросить.
+
+Первый сайт интернов будет на docusaurus. published at Github pages.
+Соберу все вместе в одном месте и начну описание.
+
+Опишу раздел о себе, скажу основные штуки. Отправлю GS vision в Medium и простую форму сделаю.
+Сделаю список из курсов/гавна, которое я насобирал за прошлый год.
+
+---//---
+
+Example: starter developer
+Know how to use git?
+Know about arrays?
+Yes? We got a tasks for you. Where you'll learn how to use lodash and basic tests.
+
+---///--
+1) Understadning our structures
+Know about NodeJS, Express? Go and help us!
+
+Create an Image for each position that is open.
+
+---
+Separated homepage for companies
+Homepage for students with same Q&A + explanation
+
+* Content for main page
+* What sections I should have?
+* Find a Hunter for this product
+* Check copy for typo at Grammarly
+
+
+Use some website templates that are online
+Create from GraphQL + Gatsby + add Stripe checkout
+and we done
+
+Also Job Board mine will be set of links to my description.
+
+Maybe we'll accept it later 
+
+It can be doefinately Google teachI just need time and force pure energy that will drive me or Google Open Online
