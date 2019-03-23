@@ -40,12 +40,14 @@ But it's expensive. And waste of material as well. So keeping balance it's very 
 
 
 > How much people in line?
+
 I mean that do you have another candidates for this position? I understand that in order to have a good hire rate you need to be in contact with other people too.
 But I don't want to compete, you know.  I'm pretty fine where I'm now and I can continue to work on my own project.
 But for sure, I'm interested in making some money.
 Again, I don't want to be "Hello Sir, Yes Sir! Everything will be done in a heartbeat! Any wish".
 
 > Reason why I ask you about Github
+
 Right now code, that Groceristar producing is about 10% of what i did before.
 I realize that and didn't ashamed of it. But with this open-sourced modules - i have another approach.
 Instead of selling my time/codelines/completed functionality, that will make my client happy - I'm building code that I hope will survive at least few years, and can be used as building block of some other projects.
