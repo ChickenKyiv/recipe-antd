@@ -4,25 +4,25 @@ BIO
 29 years old
 Building my own startup more than a year.
 I was a founder of outsourcing company 5-6 years ago. We build a websites for our clients.
-Outsourcing market starts to change and we didn't fit very well.
+Outsourcing market starts to change and we didn't fit it very well.
 We face problems with a few projects, later it was converted into money problems. And we were forced to close our office.
 
-We have a few ongoing contracts(clients went out of money but we still should complete them). We worked with my partner worked from 6 and 9 months for free in order to complete that projects and not to be scammers for that clients.
+We have a few ongoing contracts(clients went out of money but we still should complete them). We worked with my partner from 6 and 9 months for free in order to complete that projects and not to be scammers for that clients.
 
 We still have dept in salary, so this current company (when it became profitable) will help us to close that last thing that relates us with outsourcing.
 
-We always wanted to code our own projects and you got it right -> I reviewed and estimated a lot of non-local projects, so it was easy to understand that a lot of founders more focused on "playing" in the startup, not to disrupt the market or making big and "real" changes.
 
-You have a really great experience.
-I like how much time you put into your online CV at Github
-I was amazed and it forced me to write you this email.
+We always wanted to code our own projects. I reviewed and estimated a lot of non-local projects, so it was easy to understand that a lot of founders more focused on "playing" in the startup, not to disrupt the market or making big and "real" changes.
 
  ---
 
-I hate when developers create a great code that is not used. A lot of times in my career I just code something, put my energy and soul inside it. And in 1-2 years it was completely redone from scratch.
+I hate when developers create a great code that is not used. A lot of times in my career I just code something, put my energy and soul inside it. And in 1-2 years it was completely redone from scratch. Or it was closed.
 
-This one of the reasons that why I start to build my own projects.
+This is one of the reasons that why I start to build my own projects.
 because I own that code and I can decide what is better for the project -> because it's my main specialization :)
+
+
+
 
 So, from October I send about 2400 requests to different people around the world. And about 68 people somehow help me with my projects.
 Anyone that just replies "Yes" made a huge impact on our project.
@@ -46,6 +46,19 @@ When we'll launch our products and start to generate some revenue I plan to move
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 About ChatBots
 
 It's a big and promising  field and I have a lot of plans about, but I find it hard to develop at the same time as our main projects (that keep me busy)
@@ -56,10 +69,5 @@ I fill like a whole wall with papers, related to bot development only. But I saw
 
 Before October 2017, I was working alone. I was coding a few projects at the same time. Then I decided to test one assumption - can I find some students, that will be able to obtain a not paid position. And I find some people that wanted to gain a real experience. Not just work on their own pet projects that usually users did not use.
 
-I don't know about the state of IT companies in your town, but I'm pretty sure that you'll find a well-paid gig in big towns like Lviv, Kyiv, Odessa. Did you think about moving to that towns?
-
-Tell me if I can help or advice you somehow.
-
-Thanks for your time and sorry for slow reply.
 
 ---
