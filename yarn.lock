@@ -656,6 +656,12 @@
   dependencies:
     regenerator-runtime "^0.12.0"
 
+"@babel/runtime@^7.4.3":
+  version "7.4.3"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.4.3.tgz#79888e452034223ad9609187a0ad1fe0d2ad4bdc"
+  dependencies:
+    regenerator-runtime "^0.13.2"
+
 "@babel/template@^7.1.0", "@babel/template@^7.1.2", "@babel/template@^7.2.2":
   version "7.2.2"
   resolved "https://registry.yarnpkg.com/@babel/template/-/template-7.2.2.tgz#005b3fdf0ed96e88041330379e0da9a708eb2907"
@@ -811,6 +817,26 @@
     react-reconciler "^0.20.1"
     yoga-layout-prebuilt "^1.9.3"
 
+"@react-pdf/renderer@^1.5.1":
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/@react-pdf/renderer/-/renderer-1.5.1.tgz#a872332394bac17256f90bb9b74fa67cbebd4d45"
+  dependencies:
+    "@babel/runtime" "^7.3.1"
+    "@react-pdf/fontkit" "^1.13.0"
+    "@react-pdf/pdfkit" "^1.2.0"
+    "@react-pdf/png-js" "^1.0.0"
+    "@react-pdf/textkit" "^0.3.1"
+    blob-stream "^0.1.3"
+    cross-fetch "^3.0.1"
+    emoji-regex "^7.0.3"
+    is-url "^1.2.4"
+    media-engine "^1.0.3"
+    page-wrapping "^1.1.0"
+    ramda "^0.26.1"
+    react "^16.8.3"
+    react-reconciler "^0.20.1"
+    yoga-layout-prebuilt "^1.9.3"
+
 "@react-pdf/script-itemizer@^0.2.1":
   version "0.2.1"
   resolved "https://registry.yarnpkg.com/@react-pdf/script-itemizer/-/script-itemizer-0.2.1.tgz#673e9a7812823d53e7d41d83515930fb318ae0cb"
@@ -823,6 +849,16 @@
   dependencies:
     "@react-pdf/unicode-properties" "^2.2.0"
     cubic2quad "^1.1.0"
+
+"@react-pdf/textkit@^0.3.1":
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/@react-pdf/textkit/-/textkit-0.3.1.tgz#3b9ee207907592fa04e4cede87c64449550d1731"
+  dependencies:
+    "@babel/runtime" "^7.4.3"
+    "@react-pdf/unicode-properties" "^2.2.0"
+    babel-runtime "^6.26.0"
+    hyphen "^1.1.1"
+    ramda "^0.26.1"
 
 "@react-pdf/unicode-properties@^2.2.0":
   version "2.2.0"
@@ -7780,6 +7816,10 @@ railroad-diagrams@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/railroad-diagrams/-/railroad-diagrams-1.0.0.tgz#eb7e6267548ddedfb899c1b90e57374559cddb7e"
 
+ramda@^0.26.1:
+  version "0.26.1"
+  resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.26.1.tgz#8d41351eb8111c55353617fc3bbffad8e4d35d06"
+
 randexp@0.4.6:
   version "0.4.6"
   resolved "https://registry.yarnpkg.com/randexp/-/randexp-0.4.6.tgz#e986ad5e5e31dae13ddd6f7b3019aa7c87f60ca3"
@@ -8584,6 +8624,10 @@ regenerator-runtime@^0.11.0:
 regenerator-runtime@^0.12.0:
   version "0.12.1"
   resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.12.1.tgz#fa1a71544764c036f8c49b13a08b2594c9f8a0de"
+
+regenerator-runtime@^0.13.2:
+  version "0.13.2"
+  resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.13.2.tgz#32e59c9a6fb9b1a4aff09b4930ca2d4477343447"
 
 regenerator-transform@^0.13.3:
   version "0.13.3"
