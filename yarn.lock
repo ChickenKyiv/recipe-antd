@@ -711,13 +711,22 @@
     shx "^0.3.2"
     uuid "^3.3.2"
 
-"@groceristar/cards-wrapper@^1.0.19", "@groceristar/cards-wrapper@^1.0.20":
+"@groceristar/cards-wrapper@^1.0.19":
   version "1.0.20"
   resolved "https://registry.yarnpkg.com/@groceristar/cards-wrapper/-/cards-wrapper-1.0.20.tgz#3d4e78f0651037e10c52ad2756d732c9b9b6127f"
   dependencies:
     "@react-pdf/renderer" "^1.2.0"
     antd "^3.13.2"
     react-image "^2.0.0"
+    uuid "^3.3.2"
+
+"@groceristar/cards-wrapper@^1.0.21":
+  version "1.0.21"
+  resolved "https://registry.yarnpkg.com/@groceristar/cards-wrapper/-/cards-wrapper-1.0.21.tgz#3015cbf405fce1b6c2f028c547bc84d277c683af"
+  dependencies:
+    "@react-pdf/renderer" "^1.5.1"
+    antd "^3.16.2"
+    react-image "^2.1.1"
     uuid "^3.3.2"
 
 "@groceristar/groceristar-fetch@^2.1.10":
