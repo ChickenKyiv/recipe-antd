@@ -1098,11 +1098,11 @@
   dependencies:
     uuid "^3.3.2"
 
-"@groceristar/pdf-export@^1.0.45":
-  version "1.0.45"
-  resolved "https://registry.yarnpkg.com/@groceristar/pdf-export/-/pdf-export-1.0.45.tgz#36e889c1cf674b70c7d9d89b8c9b08bf271d2167"
+"@groceristar/pdf-export@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@groceristar/pdf-export/-/pdf-export-1.1.0.tgz#e08eb51024f9545cb66e6894cc1c95e851ef14d5"
   dependencies:
-    "@react-pdf/renderer" "^1.4.2"
+    "@react-pdf/renderer" "^1.5.1"
     antd "^3.16.1"
     uuid "^3.3.2"
 
@@ -1307,36 +1307,7 @@
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@react-pdf/png-js/-/png-js-1.0.0.tgz#00fcb969dca4ce82a0a7673413ade039e47b361e"
 
-"@react-pdf/renderer@^1.2.0", "@react-pdf/renderer@^1.4.2":
-  version "1.4.2"
-  resolved "https://registry.yarnpkg.com/@react-pdf/renderer/-/renderer-1.4.2.tgz#3983521c0909353b29a5fe70185b9040f520285a"
-  dependencies:
-    "@babel/runtime" "^7.3.1"
-    "@react-pdf/fontkit" "^1.13.0"
-    "@react-pdf/pdfkit" "^1.2.0"
-    "@react-pdf/png-js" "^1.0.0"
-    "@react-pdf/script-itemizer" "^0.2.1"
-    "@react-pdf/textkit-core" "0.2.5"
-    "@textkit/justification-engine" "^0.1.9"
-    "@textkit/pdf-renderer" "^0.1.13"
-    "@textkit/text-decoration-engine" "^0.1.10"
-    blob-stream "^0.1.3"
-    cross-fetch "^3.0.1"
-    emoji-regex "^7.0.3"
-    hyphen "^1.1.1"
-    is-url "^1.2.4"
-    lodash.groupby "^4.6.0"
-    lodash.isfunction "^3.0.9"
-    lodash.merge "^4.6.1"
-    lodash.pick "^4.4.0"
-    lodash.topairsin "^4.3.0"
-    media-engine "^1.0.3"
-    page-wrapping "^1.1.0"
-    react "^16.8.3"
-    react-reconciler "^0.20.1"
-    yoga-layout-prebuilt "^1.9.3"
-
-"@react-pdf/renderer@^1.5.1":
+"@react-pdf/renderer@^1.2.0", "@react-pdf/renderer@^1.5.1":
   version "1.5.1"
   resolved "https://registry.yarnpkg.com/@react-pdf/renderer/-/renderer-1.5.1.tgz#a872332394bac17256f90bb9b74fa67cbebd4d45"
   dependencies:
@@ -1355,19 +1326,6 @@
     react "^16.8.3"
     react-reconciler "^0.20.1"
     yoga-layout-prebuilt "^1.9.3"
-
-"@react-pdf/script-itemizer@^0.2.1":
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/@react-pdf/script-itemizer/-/script-itemizer-0.2.1.tgz#673e9a7812823d53e7d41d83515930fb318ae0cb"
-  dependencies:
-    "@react-pdf/unicode-properties" "^2.2.0"
-
-"@react-pdf/textkit-core@0.2.5":
-  version "0.2.5"
-  resolved "https://registry.yarnpkg.com/@react-pdf/textkit-core/-/textkit-core-0.2.5.tgz#c0d4ebc6b5a6addbf74371db4c5bf9fe6df8279f"
-  dependencies:
-    "@react-pdf/unicode-properties" "^2.2.0"
-    cubic2quad "^1.1.0"
 
 "@react-pdf/textkit@^0.3.1":
   version "0.3.1"
@@ -1488,21 +1446,6 @@
     "@svgr/plugin-jsx" "^4.1.0"
     "@svgr/plugin-svgo" "^4.0.3"
     loader-utils "^1.1.0"
-
-"@textkit/justification-engine@^0.1.9":
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/@textkit/justification-engine/-/justification-engine-0.1.9.tgz#4a964ddccd48b6f20eacf1ae17a011e3e2cf9093"
-  dependencies:
-    lodash.clone "^4.5.0"
-    lodash.merge "^4.6.1"
-
-"@textkit/pdf-renderer@^0.1.13":
-  version "0.1.13"
-  resolved "https://registry.yarnpkg.com/@textkit/pdf-renderer/-/pdf-renderer-0.1.13.tgz#05b10ee1e5a75152ffff4cde7c13c192c2d223c4"
-
-"@textkit/text-decoration-engine@^0.1.10":
-  version "0.1.10"
-  resolved "https://registry.yarnpkg.com/@textkit/text-decoration-engine/-/text-decoration-engine-0.1.10.tgz#b97b725b62e707ddd08c8b3a2d914659ef3df613"
 
 "@types/babel__core@^7.1.0":
   version "7.1.1"
@@ -3512,10 +3455,6 @@ cssstyle@^1.1.1:
 csstype@^2.2.0:
   version "2.6.3"
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-2.6.3.tgz#b701e5968245bf9b08d54ac83d00b624e622a9fa"
-
-cubic2quad@^1.1.0:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/cubic2quad/-/cubic2quad-1.1.1.tgz#69b19c61a3f5b41ecf2f1d5fae8fb03415aa8b15"
 
 cyclist@~0.2.2:
   version "0.2.2"
@@ -6720,10 +6659,6 @@ lodash.get@^4.4.2:
   version "4.4.2"
   resolved "https://registry.yarnpkg.com/lodash.get/-/lodash.get-4.4.2.tgz#2d177f652fa31e939b4438d5341499dfa3825e99"
 
-lodash.groupby@^4.6.0:
-  version "4.6.0"
-  resolved "https://registry.yarnpkg.com/lodash.groupby/-/lodash.groupby-4.6.0.tgz#0b08a1dcf68397c397855c3239783832df7403d1"
-
 lodash.isarguments@^3.0.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/lodash.isarguments/-/lodash.isarguments-3.1.0.tgz#2f573d85c6a24289ff00663b491c1d338ff3458a"
@@ -6736,10 +6671,6 @@ lodash.isequal@^4.5.0:
   version "4.5.0"
   resolved "https://registry.yarnpkg.com/lodash.isequal/-/lodash.isequal-4.5.0.tgz#415c4478f2bcc30120c22ce10ed3226f7d3e18e0"
 
-lodash.isfunction@^3.0.9:
-  version "3.0.9"
-  resolved "https://registry.yarnpkg.com/lodash.isfunction/-/lodash.isfunction-3.0.9.tgz#06de25df4db327ac931981d1bdb067e5af68d051"
-
 lodash.keys@^3.1.2:
   version "3.1.2"
   resolved "https://registry.yarnpkg.com/lodash.keys/-/lodash.keys-3.1.2.tgz#4dbc0472b156be50a0b286855d1bd0b0c656098a"
@@ -6751,14 +6682,6 @@ lodash.keys@^3.1.2:
 lodash.memoize@^4.1.2:
   version "4.1.2"
   resolved "https://registry.yarnpkg.com/lodash.memoize/-/lodash.memoize-4.1.2.tgz#bcc6c49a42a2840ed997f323eada5ecd182e0bfe"
-
-lodash.merge@^4.6.1:
-  version "4.6.1"
-  resolved "https://registry.yarnpkg.com/lodash.merge/-/lodash.merge-4.6.1.tgz#adc25d9cb99b9391c59624f379fbba60d7111d54"
-
-lodash.pick@^4.4.0:
-  version "4.4.0"
-  resolved "https://registry.yarnpkg.com/lodash.pick/-/lodash.pick-4.4.0.tgz#52f05610fff9ded422611441ed1fc123a03001b3"
 
 lodash.set@^4.3.2:
   version "4.3.2"
@@ -6788,10 +6711,6 @@ lodash.templatesettings@^4.0.0:
 lodash.throttle@^4.0.0:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/lodash.throttle/-/lodash.throttle-4.1.1.tgz#c23e91b710242ac70c37f1e1cda9274cc39bf2f4"
-
-lodash.topairsin@^4.3.0:
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/lodash.topairsin/-/lodash.topairsin-4.3.0.tgz#1a6966d46484898fca42522286f1529a4397ad3b"
 
 lodash.unescape@4.0.1:
   version "4.0.1"
