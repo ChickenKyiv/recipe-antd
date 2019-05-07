@@ -18,3 +18,10 @@ Should this knowledgebase be free or we need to have some sort of private club w
 It may help with crowdfunding. Or food incubators can see profiles of those statups and get a better understanding about what tool is cool.
 Maybe some big companies can `eat` small companies, or people cross-invest money in small companies, or exchange their stocks. Maybe teams can share their developers for building some opensource tools or move them between companies.
 Maybe we can have a deals page.
+====
+
+
+
+One goal for FA is to reduce costs of development a website, related to "food tech". Another idea is related to promoting small projects, foodies profiles. One of websites, that I was built with my help, was went out from business at 2018. it has a great software behind it(no joking, I mean it). Usually I don't like my code -> `cause it can be (there is) always a room for improvement. But that software still not sucks(after a few years). But she don't have skills in promoting it. But that code is dead now. (!) because she is a chef. Costs was high for her budget, she got a loan from bank, and then decided to close it. And this situation making me feel sad. I don't want to have similar stories in future. And I have a will to try to change it. I don't want to think that it is my failture. I mean I was just a contractor. Actually, we did more than was expected from us. But i cannot leave it behind. I still have an idea to meet someone, who will understand a quality of that software, and make her an offer and buy a full working project for 50-70 grands and raise it from the ashes.
+
+============
