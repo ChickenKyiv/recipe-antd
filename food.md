@@ -41,3 +41,28 @@ Goal is to launch a project, a npm package, that will give foodies or developers
 I have repositories, I have list of articles, I have plans at Github issues and also some stack of papers with details. In the end, first release will be published + website on Githhub and will have a separated docusaurus(documentation space).
 By my plan we need to post a very basic version(I call it "clean" data release). But later we'll show all "dirty" data, that we are currently working on. It also have a minimalistic and clean code, so in my mind is to make it very easy to install and use. And as code is simple - my interns with low coding skills are being able to contribute to it. We actually using that modules in our different projects. So it's a bit cross-technology at the moment. RIght now we're using it with: Nodejs+express server, React components, graphQL server, plain VanillaJs is available too. It's not limited to JS only actually. Static files right now have JSON format, so people can grab it and use at their tech stack as well.
 As I worked on Recipe-api some time ago(db architecture + schemas, I find out that REST is good, but it has some disadvantages and with rise of GrapgQL in last three years I'm switching our development to building a graphql server and I have a lot of data for it as well). Links for beginners as myself. https://github.com/ChickenKyiv/awesome-graphql-beginner-links
+
+===
+
+Major ways of making money for foodie blogs are:
+- personalized ads at sidebar, giveaways/daily deals, promoted articles, affialite purchases(like personalized Amazon from products/kitchen tools). And selling cooking books. Cooking book doesn't cost a lot, and usually, girls, that publish recipes frequently -> can just grab a similar recipes by some topic, or based on occasions aka holiday specials("Christmass food for small budgets", "SuperBowl sneaks for big company"). Each book have a price around 5 buck(online doc) and have a pretty similar content/layout. About author page, intro page, message from an author, list of recipes with notes from chef, TOC, outro. And only some of foodies knows how it's easy right now to create design/layout for recipe book, or weekly menu or something similar, like flyers, etc. Only content is a hard part. And as I'm aware about this thing, one of my ideas is related to helping them to publish their books. A lot of publishing DIY platforms are awailable right now.
+Quick google search
+- https://www.lulu.com/
+- https://www.hongkiat.com/blog/self-publishing-services-for-books/
+- https://www.millcitypress.net/
+- https://www.createmybooks.com/BE/en/
+Dran-d-drop builders are dominating right now and it can give you an ability to create a document, you can publish it and also have a printed verions as well. You can get a discount, related to amount of books that you want to print at paper.
+Foodies also needed a separated landing page, with countdown, text with information about book, book preview, maybe an advertising video, or crowdfunding/pre-order page. + cover image with food background and white/black title.
+As you see, not a rocket science or blockchain.
+
+If we're simplifying it to a really low level - recipe book can have this layout, food image on right/left side, recipe content with fancy "girly" font + page numbers. And it's done. Document format is PDF, add price for some payment gateway and secure a file from unpurchased/expired downloading. It will be cool to create an Import/Export tool, that can export recipe data and then automatically prepare pages with illustrations into a draft version of book. And later client can drag-n-drop block as she wish. and use maybe draft.js for content.
+
+Canva is good example of what i mean.
+
+Landing page builders - cheaper that developer and with good taste
+- https://www.leadpages.net
+- https://mailchimp.com/features/landing-pages/
+- https://unbounce.com
+- https://instapage.com
+
+================
