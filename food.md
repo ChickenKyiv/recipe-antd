@@ -88,6 +88,6 @@ And this is nothing a new here. "Diets" is a term that selling easily, than a "m
 - https://medium.com/groceristar/what-is-meal-planning-62a950f89036
 - https://medium.com/@arthurtkachenko/ways-to-promote-healthy-lifestyle-in-kids-c2fcb047486d
 - https://medium.com/groceristar/meal-planning-calendar-8526754813cc
--
+- https://medium.com/groceristar/junk-food-whats-inside-it-12896eb0afd0
 
 When you try to convince user to use a meal planning service -> get confused. Not everyone understand a reason why to use it. And pay for it. And here is a good place for use a static website generator as well. I send message to a lot of nutritionists. Nobody understands me. Or what I want from them. One girl only was interested. It was a year ago. I create a specification for her project(all was free, just in sake of being helpful). She realized that this is a complex thing, and she is busy to deal with it. But! I have that specification, so when I'll back to this idea -> I have data to start with.
