@@ -66,3 +66,13 @@ Landing page builders - cheaper that developer and with good taste
 - https://instapage.com
 
 ================
+
+
+One of my code projects is Groceristar.
+It's about working with grocery lists, we decided to create an OCR script, and it's very hungry for data. Like a lot of data. I went to Pinterest and collected about 200 different grocery lists at least. Maybe we need to sort them and share with people as well. So anyone can benefit from it. It will be a cool time, when we will convert them in digital versions(There also a copyright problem - I don't know how to credit an owners properly and handle it right now)
+I also have a set of articles, about this OCR script []
+- https://medium.com/groceristar/ocr-project-part1-simple-introduction-ab7b64bf1864
+- https://medium.com/groceristar/ocr-project-part2-details-85739239f42
+- https://medium.com/groceristar/ocr-project-part3-links-collection-2cfc58904caf
+
+---
