@@ -100,7 +100,7 @@ So we're doing it a bit differently. Doing from simple to complex structures. Th
 
 ------------
 
-filtration/recipe search
+**12.** filtration/recipe search
 One interesting question for me personally is filtration/search of recipes/meals. It may looks, that task is not a very custom functionality. Search, from database is a very basic but complex work from database architect point of view - > nothing very new. But each time recipe search is building from scratch again and again. I think it's stupid. or I hate it! I understand that there is 'custom cases', but most part are the same. And we started to dig into this problem. We didn't finish it, because of my busyness. Main goal here is: give an ability for user to reduce number from recipes pool and make it very easy to use. I mean UX problem, for comphort search. This is why diets making more hype -> there is a lot of restrictions and you don't have a lot of options to choose. I think a good example for search is Yummly search => I think that restrictions working well for them.
 For simplifying work on search, I created a fork of recipe-api, created a test data only with a few recipes. I created a separated place for that test data. so it's like a to-do part of tester.
 
