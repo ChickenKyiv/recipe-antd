@@ -61,6 +61,8 @@ In my prev company, I teach my employees WordPress, JavaScript, and Bootstrap. I
 
 
 
+
+
 Right now my students/interns/juniors are weak. And a lot of them not ready to be included in real projects, so I decided to create separate repositories, where I can work personally with each member. In the beginning, they learn via basic tutorials, and when they're ready - I gave them small real tasks. This is how we manage the workflow.
 
 
@@ -68,6 +70,9 @@ Right now my students/interns/juniors are weak. And a lot of them not ready to b
 
 
 You can see these tutorial repositories at Github. We didn't hide anything, so feel free and read how we communicate inside our team.
+
+
+
 
 links in the bottom of the message
 
