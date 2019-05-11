@@ -20,3 +20,38 @@ Open-source section with listing of projects that are part of our alliance, that
 
 https://hackernoon.com/why-theres-so-much-burnout-in-software-and-what-to-do-about-it-4ef0297ca7cc
 https://medium.freecodecamp.org/how-i-started-my-open-source-journey-after-being-demotivated-for-two-years-db4ebc6ecb84
+
+
+---
+Generator is a huge thing. So maybe details is necessary.
+
+Graphql subproject.
+our task for it is to generate about 5-8 files, that we're generating here.
+Methods we actually grabbing and moving from `fetch` module.
+
+ChickenKyiv - it's using recipe-antd, fake-api
+Groceristar - used at groceristar-showcase, main groceristar-backend server.
+
+Units - Wahaj started to work on it. We generated files. We need methods for it.
+Recipe Search - it's part of recipe-api, so it's used a similar db-schema. Same data used in our recipe-box React Components, aka Selects, Website blocks.
+
+We also need to move some (not all) tests from `fetch`, because it's part of our current functionality. We just making our code, better and simplier.
+
+Cups.js, that was created by Elnur from scratch(thanks for this). It's
+actually part of measurements system, that will be later integrated together.
+
+Meal Calendar: it's actually part of recipe-api server(groceristar is actually part of recipe-api as wel, but right now we're not ready to merge them)/
+
+calendar will display recipes by days. Right now it's low level of priority, but maybe by simplifying our code, we will be able to able to make it work faster.
+
+Measurements/Unit Convertion is also part of recipe-api and partially to groceristar, later will be integrated with recipes objects.
+
+Nutritions it's also a part of recipe-api and it's important
+ for projects. that rely on nutritional values, like diets.
+
+ JsonValidator - > we didn't implement it yet. But it very important
+  part of generator. Because we need to validate our file schemes, especially while files have data inside in minified way(which is good)
+
+  Separation like how we did it -> will help us later to work on translating this data to other languages.
+  Because right now we only working with English and this is
+  not cool. like if  someone from Frensh - he wouldnt be able totally use it and benefit from our work
