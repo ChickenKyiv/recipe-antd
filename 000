@@ -285,28 +285,6 @@ From tech point a lot of websites with recipes content are similar, so why to bu
 gallon.json -> add variable ```"name":"gallon"``` to object,
 so later we can easily connect them.
 ---
-"null" is not a null.
-jsonlint will/should help to catch similar issues, to these files.
-
-SD -> rename folders that was created by Elnur - so we don't need numbers.
-
-We also need to upgrade our logic, related to groceristar.
-
-Departments maybe should be updated as well, because tree structure is better, than linear.
-
-We also not fnished working on some data, related to ingredients.
-
-Groceristar after adding Product Prices, will be albe to handle tasks, like budget planner.
-
-So, some files will be generated like grocery_calendar, recipes_nutritions, etc.
-
-Items
-Favorites
-Ingredients
-Departments
-Grocery
-UserGrocery
-Purchased
 
 
 https://www.linkedin.com/company/olio-the-food-sharing-revolution/
