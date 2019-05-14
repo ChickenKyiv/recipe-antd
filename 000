@@ -327,6 +327,14 @@ https://medium.com/@eytanmessika/how-to-hack-and-kill-your-first-tech-internship
 https://www.quora.com/How-does-one-get-an-internship-in-software-engineering-at-Google-if-they-dont-have-more-than-two-projects-on-GitHub-What-if-someone-doesnt-have-good-projects-on-GitHub
 https://www.quora.com/How-can-I-get-a-software-engineering-internship-for-next-year
 
+
+
+
+HL https://landing.jobs/jobs?country=NL&page=1&hd=false&t_co=false&t_st=false
+
+
+https://mail.google.com/mail/u/0/#inbox/FMfcgxwCgfsLvVppJZvlhvrBXLrDkMXq
+
 -------------
 
 
@@ -350,3 +358,66 @@ https://github.com/ChickenKyiv/awesome-food-db-strucutures/blob/master/unit-conv
 https://github.com/schollz/parseingredient
 
 old specification that i have for diets project: https://github.com/ChickenKyiv/stayfit-monica/issues/14
+
+
+your porject is similar to mine: https://github.com/yafeunteun/meal_plan_template
+and i also aware about pdf problem, so i tailoring a custom frontend component, that using most awesome pdf generator that i was be able to find.
+Yep, it's not ideal, but good.
+I can also use that pdf library in order to create a pdf template, similar to layout that you want.
+
+
+
+------
+
+
+
+
+
+
+1) Please provide your github username
+2) Link to your resume/portfolio
+) Will you give up after first complex thing that you approach?
+When you're ready to start?
+This is non-paid internship. Are you ok with it?
+Tell me your wishes(e.g. What do you want to learn during the programm)
+Name
+LastName
+Linkedin profile
+How do you handle pressure?
+Additional notes that you want to mention.
+Open letter messsage
+Duration of hours, that you can spend during a week?
+List of your questions.
+---
+
+
+Measurements is an inportant and huge topic for me. I can split it by places, where I want to use them.
+
+MealPlanning project + Groceristar. It's about having different recipes, with different units/ingredients.
+And giving an ability to create a grocery list from a set of recipes automatically.
+I explain it partially here:[link]
+
+Where we working on database scheme. At my prev. projects it was working, but not elegant/ideal solution. So i'm aware about some problems that it have. Some difference between measurement system, number of servings, etc.
+
+It also require some thinking about replacing some ingredients inside recipe/meal.
+Like replacing ingredient because of allerge, or replacing item because it's not vegan-friendly.
+
+Foodlog - inspired by opensourced app from NASA, they track astranauts on ISS, how they eating.
+
+Diets -> calories and nutritions are crucial for this project. But it have a lot of intersections with previous mentioned problems.
+
++ we have some cool dataset: [] and maybe I need to serach and re-organize my notes about this topic as well.
+Because if we cannot quickly find it, then it's time to clean up.
+
+at sd(static data repository - i talk about it few posts before) - we actually started to work on measurements part.
+Not finished. But my students working on it right now. Just saw a commit today.
+I was creating a reverse documentation, focused on meal planing from doctors perspective. And I have that specification at my Google Docs.
+
+
+Надеюсь запуск прошел успешно.
+Добрый день
+Я делаю онлайн проект связанный с темой "food tech".
+Т.к. текущий прогресс идет медленно, я решил сделать проект/коммьюнити под названием FoodAlliance.
+Когда писал текст для этого проекта - решил что надо написать вам.
+Ничего от вас особо нехочу. Если интересны детали - могу рассказать больше.
+заранее спасибо
