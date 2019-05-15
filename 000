@@ -520,3 +520,18 @@ and all tests there should work well.
 How I can review the end result? It's simple.
 I'll run a graphql server and check results of different queries to database.
 if all works fine - then this task is closed.
+----
+
+Yesterday I pulbish a request for FA collaboration to Startup Product launches Group on Facebook.
+And it went successful. I just got 3 friend requests from people that interested in this kind of collaboration.
+But one guy ask me a question, that perfectly illustrates a problem(or opportunity for us).
+His team building an iOS app, and using a different stack than we. And maybe he will quit.
+it's fine - i understand him, but if you go to the "ion level", under the different stacks, you'll see that we all using similar structures, like arrays, objects, requests to database, etc.
+
+Someone builds a RubyOnRails server, someone use Python or JS as we do.
+Before I start to code at JS I code 2 meal planning saas at PHP and the syntax is maybe different, but logic of food are the same.
+maybe it's should be one of my aritcle, because everyone code at what he likes/prefer, but core, especially with current state of project development, management, testing, documentation are the same.
+And it only convincing me about making small/separated/independent/solving-only-one-problem module.
+because it can be easy for people that code on different languages to read code and use it or transfer logic to another language.
+
+Maybe next step will be to have few microservices, that can be technology agnostic. But we'll see in future.
