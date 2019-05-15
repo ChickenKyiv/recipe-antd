@@ -90,10 +90,4 @@ When you try to convince user to use a meal planning service -> get confused. No
 
 ---
 
-Frontend pages.
-One of the "problems" of websites with recipes are html/css/js are usually part of whole project. it's not separated entity. Usually pages with recipes data are part of some designs/templates. But blocks/elements are usually pretty similar.
-So we're doing it a bit differently. Doing from simple to complex structures. Them making very simple to simple version. :) We createad a few repositories, where we are crafting a new code/features/project style, by learning from big developers. Our task -> create a set or reusable components, based on React, that can be reusable and extendable. Or being like a quick foundation in order to create a MVP for starters. We want to build a full layout as well, make it with flexboxes, adaptive to screens and make a set of major basic pages: react-recipe-pages/screens. So it will be like an admin dashboard templates. You can grab and use them. We started it year ago, so this is a work in progress right now. But I feel that my frontend skills are not perfect, but I'm understand a basic needs/requirements and tasks are actually very clear for me. I need to find someone who will help me, so we can started to push it and it can be done quickly. At the begining I decided to use Bootstrap, we installed a reactstrap library, but after some time this life forced me to migrate into more advanced antdesign: and right now this library is important part of our coding process. #1 actually.
-
-------------
-
 ------------
