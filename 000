@@ -500,3 +500,23 @@ https://opendata.ch/organisation/contact/
 
 https://okfn.org/network/switzerland/
 https://www.google.com/search?q=nutritional+value+for+diabetes&rlz=1C1GGRV_enUA751UA751&oq=nutrituional+value+diabe&aqs=chrome.3.69i57j0l5.18901j0j7&sourceid=chrome&ie=UTF-8
+
+
+
+--------------
+
+GraphQL functions
+another important thing is how exactly you will did it.
+For example: all is done with this part of functionality. And I decided to add two more files, that will extend the logic of our work.
+How quickly you will be able to handle it?
+
+1) we finished our changes at sd repository. tests of this part is working fine. Vadim confirmed it.
+2) Vadim/Eugene publishing sd module at npm. Someone install it(an updated version)  at `groceristar-fetch`
+and run tests there too.
+3) all is working at `groceristar-fetch` fine, and Vadim/Eugene publishing that module at npm.
+4) someone update module(`gs-fetch`) at groceristar-graphql-server repository[link]
+and all tests there should work well.
+
+How I can review the end result? It's simple.
+I'll run a graphql server and check results of different queries to database.
+if all works fine - then this task is closed.
