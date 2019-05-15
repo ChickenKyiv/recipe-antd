@@ -535,3 +535,12 @@ And it only convincing me about making small/separated/independent/solving-only-
 because it can be easy for people that code on different languages to read code and use it or transfer logic to another language.
 
 Maybe next step will be to have few microservices, that can be technology agnostic. But we'll see in future.
+
+----
+
+Одним из движущих мотивов по созданию кодинг скул является негативная реакция на то потраченное время на скиллшейр. То время себя не окупило. И я реалайз, что скорее всего, есть еще несколько учителей, которые бы хотели иметь их собственный вебсайт, на котором бы они могли продавать/монетизировать свои курсы. Если даже на больших платформах вам необходимо заниматься маркетингом и продавать свои курсы(*продвигать), то получается что нет большой разницы между своим сайтом и educational platform. I'm a big fan of LM/Learning managemen system. лет 9-10 назад, я прогуливал некоторіе уроки в моей Кодинг Академии. Мне нужно біло сдать єкзамен по пхп. Конечно, я меня біли книги(did you remember big coding books/printed with about 1000 pages? O`Rielly maybe? I got a few of them, and in 3-5 years they we're killed by PDF versions of the same books)/ So i sing up at Russian Online University(pretty progressive thing at that time.) Some courses have also video recorders with professors lectures. And I started 3 different PHP courses. They have different complexity, level of knowledge but actually help me very well to prepare to my PHP exam. I got a practice task to scrap all <a> tags from one of big news websites by using regex. I pass on exam.
+Я также участвовал в создании нескольких проектах, которіе работали с educational content + quizes. One was at college --> big idea with lack of skills give me an A`s, but it wasn't implemented as part of process. Few projects I was working as team lead with quizing systems and one was an actual LMS. So I think that I have some background here as well. And my mother and aunt is a teachers, did you remember that? Btw, here is a parallel thread, where I explain about food projects[link] and there I have an idea about creating website generator. If(when) i'll learn how quickly to setup and tweak it - using a same script but for another type of content - is not a big problem.
+Pages/posts, recurring payments, restricted access, etc.
+
+
+For sure, with my current
