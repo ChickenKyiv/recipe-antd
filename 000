@@ -564,3 +564,89 @@ A lot of ways to do it actually. Глубже в эту дебри я нехоч
 (Yep, we can find an investor and do it better and quicker).
 But it's not a simple option at this moment. So let's see how it goes. Later, maybe in a few years.
 Скорее всего есть также много NO CODE movement solutions, services, которые можно использовать, или be inspired by. And yeah, no WordPress - it's sucks.
+
+----------------
+
+Мне кажется, что я где то уже говорил об єтом, но я немогу найти єтот текст. Если ві читали мои статьи об интернах, ві знаете что ко мне обращались много студентов, с частью из них я проводил достаточно длительніе интервью. И я частично могу судить не только о каких то локальніх проблемах. Я общался со студентами
+worldwide и все понимают что опіт необходим реальнім опіт.
+Вы также можете знать, что только один локальный студент из тех, с кем я работа и со мной из Украины.
+У нас нету(в Укр) такой привычки, традиции, чтобы самому искать практику. Это и традиции и менталитет и бюрократия.
+Один парень из группы Вадима(мой сотрудник и т.д. он показывает большой прогресс -Ю я хочу предложить ему долю.
+Его друг он отличник и он тоже был заинтересован в практике, но потом он понял, что его первая задача не получение опыта, а получение хороших оценок, и это реально очень разные задачи.
+I know it because I have all A`s in my college).
+ (Я даже не буду начинать говорить о том, что programming language teachers quite often(95%))
+ they don't have a commercial coding experience and don't following the latest trends.
+ И у нас много бюрократии, я писал в университеті(as I don't have shame to ask something)
+ большинство просто не ответило. Два других учителя/начальника  сказали мне, что я должен предоставлять презентацию, а потом они проверят меня и мои документі/паспорт, чтобі я не
+ біл какой то scummer, I should be reliable, because any issues can harm to their univercity name...
+ Только один учитель was progressive enough to hear me and give me an opportunity to talk with their 10 best students.
+ И я біл рад, но друзья, я через интернет могу поговорить с гораздо большим количеством/сотнями людей,
+ и єто гораздо проще біло для меня.
+ Я даже не должен поднимать свою ass from My table in order to do it.
+
+ В США ситуация другая.  Ukraine has "free" education + corruption. In US loan dept is huge things[link]
+and anyone, who get a loan, understand, что он должен будет много денег. И времени думать особо нет.
+(Поєтому и online education in US is a big thing) -> because it saves cash
+
+And each US student spend summer on internships and 0 students in my country wish or think about doing it.
+They better will go to MacDonalds, have their hands
+burn(anyone knows tht if someone have scars at hands
+ - he was working and burn hands by making fries in oil)
+
+ И через месяца 3 работы там, они себе купят новый телефон. При этоб
+ US student that care -> before finishing and getting degree - has a few recors about wroking in comanies, from Fortune 500 list.
+
+ Другая история: меня нашел на Анджеллист парень, віигравший Олимпиаду по программированию в Украине. Я думал, что он хочет join us, но он біл просто любопітен узнать о том, как украинская компания делает на єтом сайте.
+ И тут я должен сказать, что он еще и біл и общался со мной с вісока, чем немного зшыы ьу щааю
+ Так вот, я считаю, что куча Олимпиад по coding in Ukraine is a bullshit.
+ (Ok, OK, don't kill me please. my opinion. Again, coding, not schience like physics, mathematics) У меня
+
+ У меня есть много хороших друзей из Индии, они популярніе студенті. Как так получилось --Ю они участвовали в хакатонах от Амазон и кодили ботов для Амазон Эко. И они решали реальные задачи, работали в команде и выборов, забрали few grands(USD) in their hands and became an Amazon Influencer Students.
+ And it in 1000 times more important, needed and
+ prestigious that on our Olimpiads.
+ Свои знания они могут сразу начать применять, продавать их и идти на работу, получать зарабатівать деньги и меть возможность поддержитьва
+ свои семьи. или они могут просто создать компании и начав продавать код, которій они напишут. вот такие вот истории. єто при том, что у нас в Украине
+ Ukraine very cool tech education. But at next steps -> we sucks.
+
+
+ Еще история. У Вадим(мой локальній интерн) была официальный период практики в колледже.
+ Там нужно было предоставлять документы, печати и other boring papershit.
+ Я решил -- ему надо помочь -- my teammate, becayse he rocks. Nad i have a lot of connections in our Ukrainian coding companies. And I send message to major in HR department in town near him.
+ My aim was simple -- it's a top manager, and if I reach her -- she will understand a value of an asset that i giving to her...
+ Long story short -- they humiliate him with 3 interviews and refuse in internship(he-he).
+ My reaction -> LOL(really???) Angain no problems, but this is a good illustration about our problems with internships and HR processes(Shame on YOu!)
+ ----
+
+ React Cookbook project. We chat about it before, here. But I want to focus here at my modular approach, that can help with thhis project.
+ - React components
+ - static food dataset
+ - website generator
+ - JS open libraries
+ - basic components, for a quick dashboard
+ - graphql as backend
+
+ В большинстве мелких проектах основа одна и таже. Возможно все єти проекті неособо интересніе, но если мі будем их все поднимать и основному скелетону, чтото обязательно прийдется менять или улучшать, поєтому
+ Если у нас код разрабатівается под 1 проект, он будет  100% иметь неточности
+ и tech debt. but noone ideal, for sure.
+
+ ----
+
+ Today i get a question, what I'll do if coding school will be a failture. but i was ready to it and shout lougle, that content marketing is a cool thing, so we'll publish more content at HN.
+ And i tell - that if 10 ariticles wouldn't be enough - i'll create another 10. and remember, that I decide to google a practice tasks, I start to google practical tasks in JS, becuase it most simple that i  can find.
+
+ Article: Practical articles for people, that want to learn or learned and watn to sharpen things. like tasks, similar that i create for people that want to learn flexboes.
+
+ + I have a dumb, but working cool for git+github task for promises, at ES6, tasks after learning Nodejs+express, tasks graphql, React, forms, HTNMKL/CSS, Grids.
+
+ При єтом, как оценить успех/результат?
+ Неподойдет относительніе состояние, нужно подогнать более четкие КПИ. Если 1) будет увеличенение команді интернов за месяц в 2 раза -- єто результат.
+ Если вістрелят
+ 2) Companies page, that is awesome!
+ Если за 2-3 месяца будет затишься, а потом результат -- єто просто отложеное, не мимолетній ник, связанній с правильными действиями и ростом от этого growthhack.
+
+ ""
+ Article: Why github is better that any profiles for software engineers
+ Aritable form with slack notify.
+ Think how get to Real Product Market Fit.
+
+ 
