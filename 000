@@ -534,6 +534,13 @@ if all works fine - then this task is closed.
 и в близжайшее время я планирую выложить данные, которыми мы манипулируем в этом модуле на продукт хант, чтобы другие люди могли тоже восмользоваться плодами нашей работы.
 
 
+--------------
+
+https://opencollective.com/wwcode
+https://www.womenwhocode.com/kyiv
+https://opencollective.com/wwcodekyiv
+
+
 ----
 
 Одним из движущих мотивов по созданию кодинг скул является негативная реакция на то потраченное время на скиллшейр. То время себя не окупило. И я реалайз, что скорее всего, есть еще несколько учителей, которые бы хотели иметь их собственный вебсайт, на котором бы они могли продавать/монетизировать свои курсы. Если даже на больших платформах вам необходимо заниматься маркетингом и продавать свои курсы(*продвигать), то получается что нет большой разницы между своим сайтом и educational platform. I'm a big fan of LM/Learning managemen system. лет 9-10 назад, я прогуливал некоторіе уроки в моей Кодинг Академии. Мне нужно біло сдать єкзамен по пхп. Конечно, я меня біли книги(did you remember big coding books/printed with about 1000 pages? O`Rielly maybe? I got a few of them, and in 3-5 years they we're killed by PDF versions of the same books)/ So i sing up at Russian Online University(pretty progressive thing at that time.) Some courses have also video recorders with professors lectures. And I started 3 different PHP courses. They have different complexity, level of knowledge but actually help me very well to prepare to my PHP exam. I got a practice task to scrap all <a> tags from one of big news websites by using regex. I pass on exam.
@@ -541,4 +548,19 @@ if all works fine - then this task is closed.
 Pages/posts, recurring payments, restricted access, etc.
 
 
-For sure, with my current
+For sure, with my current resources, it will be hard, maybe imposible, but ... we'll see it later :)
+If money flow will coming - I'm pretty sure that something is really doable. I'm hoping on my research and laziness skills. So maybe, by learning how to build a some sort of coding school -> I'll be able to learn more how to help other as well.
+Начать как всегда можно с малого и самого простого. Если гооврить о фуд проекте, maybe there is demand on teaching cooking classes too, who knows. Если с вебсайт генератор я решу проблему(а в интернете есть куча всего готового и бесплатного)), то саміми большими проблемами здесь я вижу структуру базі данных on late stages).
+At first stages, website can be pretty simple. And it will be static website, and video for courses can be hosted at Youtube/Vimeo. nothing complex, again.
+
+And frontend can be from scratch. Thanks god, that Education DB schemes can be easily googled.
+Благо в том, что более умніе и опытные архитекторы сложных систем, заниматься этими схемами минимум лет 30.
+
+Frontend can be an issue too. And it can be done by hands from scratch or maybe a wide licence for some ThemeForest HTML template will work fine too.
+Or some frontend blocks modules, that are free. So I think all of options are good and can be applied at different stages of work.
+First version it's easily can be opensourced for free. I like OSS btw.
+And it can have some premium/freemium options, by selling modules, cloud services setup, an advanced versions...
+A lot of ways to do it actually. Глубже в эту дебри я нехочу влазить, но это тоже looks like achivable thing, by applying my current skillset.
+(Yep, we can find an investor and do it better and quicker).
+But it's not a simple option at this moment. So let's see how it goes. Later, maybe in a few years.
+Скорее всего есть также много NO CODE movement solutions, services, которые можно использовать, или be inspired by. And yeah, no WordPress - it's sucks.
