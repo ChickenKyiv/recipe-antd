@@ -10,30 +10,6 @@ I was also having a lot of fun, because i'm coding it too, so we interact with t
 
 ---
 
-Where to learn code for free.
-
-Short answer is everywhere: you just need to know "what exactly to google". [My story about pagination]
-At my case --> when I got first testing project, for applying to my first coding job -- i don't know about term - pagination.
-So it was hard to google. I know how it looks, i understand the logic. but i reinvent the wheel in order to do it. and i failed my assement, because experience developers was confused why i did it in my way.
-
-FreebootCamp. Sad story, that Medium pushing articles under paywall. And soon a lot of articles(new articles) will be hidden for free readers.
-I hope Quincy will do something about it, because I receiving a Medium articles(digest) & I get only paywallable links, so free coding movement will have some problems.
-
-Ok, back to story.
-Stackoverflow for asking questions and searching
-Google for searching
-Youtube for coding tutorials
-CSS tricks, Mozilla MDN, google developers (But i dont hear about it frequently)
-
-Paid
-Lynda/linkedin
-Threehouse
-Udemy/Udacity
-
-
-
-aT medium - there a lot of small publications(read magazines, inside Medium that also have coding tutorials)
-
 ----
 
 
@@ -108,6 +84,8 @@ Pleaseeeee, don't hesitate and do it.
 Когда моя пред компания зафейлила --- я смотрел отчеты, фин информацию, чтобы найти причину. И я считал, что вместо того, чтобы делать проф ролики, которые будут работать 24/7 и каждый день без больничных --- я пытался учить и учится, потом я понял, что за те же деньги, получилось бы если не лучше, то как минимум не хуже.
 И я сам могу делать это, хотя сейчас есть куча способов для автоматизации.
 
+
+
 ---
 
 For a lot of cases interns inside of companies working on something that is not very important(usually). And it company decide, that code can be easily go to trash.
@@ -122,8 +100,11 @@ Basic steps Are
 
 2) forking a repository. don't forget that your leader can be busy and reply slow this shouldn't be an issue/excuse, where you can chill and wait for help. nothing bad at all ---> questions are good and reasonable.
 
-1) yes, please fork a repositoy and code at local machine.
-2) shortway: remove/comment methods from this lines. try to run tests and see what is going on.
+1) yes, please fork a repository and code at local machine.
+2) short way: remove/comment methods from this lines. try to run tests and see what is going on.
+
+
+
 
 ====
 ====
@@ -162,29 +143,6 @@ Marketing -> Let's do it in hardware way
 Act right now -> because if we'll have big demand and simple task will be fixed -> we'll raise a bar in order to improve quality of beginner interns. Right now, entering is easy, later - i don't know - because demand is high.
 ====
 
-
-
-
-
-Nodejs Example article
-Updates in a small modules(I need a name for it)
-1) I requested changes few times, small things only
-Usually it's about creating a few functions, export them from file, write a few tests, etc.
-2) then I want to hear his suggestion, about how to improve our code. It's cool and I want to promote "thinking" of our interns, so each one became an engineer that can raise questions and his feedback are important
-3) we're cleaning up our code. It's a static module with json files, that will later became imported to db. So it's like a db emulator.
-Then we'll jump into expressjs server and connect our module(install there). Server is a fake-api right now -> we don't have a db and we dont need it. Only routes.
-Then we will increase number of custom nodejs skills and works with file system -> we'll generate some json arryas and save them into few new files.
-
-then we'll remove few static files, at new static food module
-then we'll think about moving everything to public
-what intern will learn
-* Git
-* constants
-* have to include files
-* recode an old code
-* generate improvements
-* moving similar functions to utils.js
-simple tests, how to run and relay on tests. how to work with team members.
 
 
 
@@ -505,21 +463,6 @@ https://www.google.com/search?q=nutritional+value+for+diabetes&rlz=1C1GGRV_enUA7
 
 --------------
 
-GraphQL functions
-another important thing is how exactly you will did it.
-For example: all is done with this part of functionality. And I decided to add two more files, that will extend the logic of our work.
-How quickly you will be able to handle it?
-
-1) we finished our changes at sd repository. tests of this part is working fine. Vadim confirmed it.
-2) Vadim/Eugene publishing sd module at npm. Someone install it(an updated version)  at `groceristar-fetch`
-and run tests there too.
-3) all is working at `groceristar-fetch` fine, and Vadim/Eugene publishing that module at npm.
-4) someone update module(`gs-fetch`) at groceristar-graphql-server repository[link]
-and all tests there should work well.
-
-How I can review the end result? It's simple.
-I'll run a graphql server and check results of different queries to database.
-if all works fine - then this task is closed.
 ----
 
 
@@ -615,6 +558,7 @@ burn(anyone knows tht if someone have scars at hands
  My aim was simple -- it's a top manager, and if I reach her -- she will understand a value of an asset that i giving to her...
  Long story short -- they humiliate him with 3 interviews and refuse in internship(he-he).
  My reaction -> LOL(really???) Angain no problems, but this is a good illustration about our problems with internships and HR processes(Shame on YOu!)
+
  ----
 
  React Cookbook project. We chat about it before, here. But I want to focus here at my modular approach, that can help with thhis project.
