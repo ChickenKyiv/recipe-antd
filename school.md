@@ -199,25 +199,6 @@ My assumption is: если interview will be more serious, and i will be more "b
 
 еще я бы хотел всем share big dump of data, но при этом я нехочу чтобы они только читали. Моя главная задача - code practice, not reading.
 
-====
-
-
-Text to Zoe
-
-Потом рассказать как меня пригласили а потом отгласили в акселератор
-
-О том, что делаю static food module,
-I also have a lot of un published testm but it will require an additional touch
-
-3 articles was published on hackernoon -> 3 in production right now
-one was submitted to publication few hours ago
-
-I need to create Why nobody will use my coding school startup.
-I also thinking about creating a site generator for courses, using markdown as main format...
-
-
-
-насчет твоего вопроса по gs - что у нас есть. думаю что надо тебе больше дать инфы и может тебя подключить к этому. первое что мы запустим(надеюсь скоро) - 1) это сайт, который просто дает пользователь к данным, которые есть у нас внутри fetch. тоесть просто json в котором есть данные по еде. я думаю что мы соберем некоторые сливки, когда эта штука будет онлайн и люди увидят что у нас есть. 2) потом должен быть recipe-antd c подключением к моему старому серваку. там многое готово, многое еще нет, но зато у меня есть четкое виденье как это будет 3) потом мы попробуем лайтово сделать coding school. вохможно это будет просто быстрый сайт на коленке за 2-8 дней. потому что если например запущена coding school и пройдет 2-3 месяца и оттуда пойдут деньги - это сильно все ускорит. но как минимальный результат - я надеюсь что появится больше народу в команде. сейчас кстати команда тоже растет, но все равно все делается очень медленно 4) может быть мы просто запустим gs как превью GL которые у нас есть. небудем заморачиваться вообще и сделаем все статическим - потому что я устал делать долго - мне хочется быстрого результата
 ----
 
 1) I need to share stuff that i collected in the last few years. Or my head will explode ;)
