@@ -1,7 +1,6 @@
-
 ----
 
-By default, students love to be teached to code via tutorials.
+By default, students love to learn to code via tutorials.
 But it's not a real project, with a real challenges, deadlines, team members, etc.
 
 And before my team members have a good hire rate. So i'm proud to help them I think it's also cleaning my karma --> so benefits are mutual.
@@ -175,6 +174,8 @@ I know JS, HTML, CSS, Java, .Net, Python.
 Как сделать процесс onboarding еще проще?
 Писать больше статей? Рассказать логику работы GitHub, Github issues, Github labels, github milestones?
 Рассказать о том, как взаимодействовать с таском, pull request?
+
+
 ---
 Только небольшой процент интернов доживают до отметки работы со мной over 3 months. Первое может быть связанно с тем что они actually actively seeking a salary from work, not experience
 second is about laziness, third is about complexity of tasks, boredom tasks that they cannot solve.
@@ -206,7 +207,8 @@ if you don't want to join us, but your friends may want it. You can pass that li
 
 ===
 
-And experience is different. always different. When you working with experienced developer is one thing. When you building an open-sourced library -> a lot of things should be done differently.
+And experience is different. always different. When you working with experienced developer is one thing.
+ When you building an open-sourced library -> a lot of things should be done differently.
 Same for working as service provider(code websites for money) or building your own product.
 
 Just imagine this: Instead of building each screen of page or view in app -> people can grab an use default modules
@@ -226,9 +228,6 @@ so later we can easily connect them.
 
 https://www.linkedin.com/company/olio-the-food-sharing-revolution/
 https://www.linkedin.com/feed/update/urn:li:activity:6532675269231161344/
-
-
-
 
 
 
@@ -281,8 +280,6 @@ https://medium.com/groceristar/database-schema-of-groceristar-current-release-20
 https://medium.com/groceristar/chickenkyiv-database-logic-intro-part-1-b2c449d92aa3
 https://medium.com/groceristar/chicken-kyiv-recipe-db-schema-part3-b80f33ec5d96
 
-
-
 sd:
 
 
@@ -303,7 +300,8 @@ sd:
 
 потом мы будем изменять структуру этого большого сложного объекта.
 у нас данные хранятся неочень правильно - аккуратно.
-у нас и числа и текст находятся в одной строке. но это неудобно, особенно при работе с числами только. поэтому нам нужно будет внутри слоэного цикла - вытаскивать несколько филдов объхекта и их разбивать на части.
+у нас и числа и текст находятся в одной строке. но это неудобно, особенно при работе с числами только.
+поэтому нам нужно будет внутри слоэного цикла - вытаскивать несколько филдов объхекта и их разбивать на части.
 
 
 
@@ -312,10 +310,13 @@ sd:
 
 Интересній аппроач для меня -- оказалось собрать часть джаваскрипт разработчиков в один репозиторий/ в один таск и посвятить их в большие планы: т.е. я неуверен в результате как для команды
 (если например сравнить результаты работы команды до и после этого таска) - мы не сделали еще большого прироста.
-Но лично для меня - это позволяет структурировать мои мысли, связанным с работой определенного функционала и выложить их на всеобщее обозрение.
-Если я не сижуза ПК, или у меня отсутствует интернет, я пишу планы в тетрадь. Первая версия обычно очень сумбурная, плохое описание, только тезисы, 0 деталей. Это тесис стейдж.
+Но лично для меня - это позволяет структурировать мои мысли, связанным с работой определенного функционала и
+выложить их на всеобщее обозрение.
+Если я не сижуза ПК, или у меня отсутствует интернет, я пишу планы в тетрадь. Первая версия обычно очень
+сумбурная, плохое описание, только тезисы, 0 деталей. Это тесис стейдж.
 Потом, переписівая єтот таск заново, в виде, когда я могу прочитать мой текст чреез несклько дней.
-Компьютер обічно мне мешает в такой работе. Я могу создать таск в состоянии єксайтмента. Но єта версия задачи сложна для проглатівания моей командой. Поєтому вторая стейдж закончена. Стейдж3 собрать несколько задачь для одного интерна. Получается что он будет делать Таск1, потом Таск2, потом Таск3
+Компьютер обічно мне мешает в такой работе. Я могу создать таск в состоянии єксайтмента.
+Но єта версия задачи сложна для проглатівания моей командой. Поєтому вторая стейдж закончена. Стейдж3 собрать несколько задачь для одного интерна. Получается что он будет делать Таск1, потом Таск2, потом Таск3
 Такми макаром, я могу планировать его загруженноть на несколько недель вперед.
 Потом уже время переноса в гитхаб, обычно на этом этапе я придумываю еще парочку задач.
 Like add some details to Readme file, in order to improve our documentation, etc. Кстати надо больше внимания уделить документации.
@@ -446,27 +447,7 @@ https://opencollective.com/wwcodekyiv
 
 ----
 
-Одним из движущих мотивов по созданию кодинг скул является негативная реакция на то потраченное время на скиллшейр. То время себя не окупило. И я реалайз, что скорее всего, есть еще несколько учителей, которые бы хотели иметь их собственный вебсайт, на котором бы они могли продавать/монетизировать свои курсы. Если даже на больших платформах вам необходимо заниматься маркетингом и продавать свои курсы(*продвигать), то получается что нет большой разницы между своим сайтом и educational platform. I'm a big fan of LM/Learning managemen system. лет 9-10 назад, я прогуливал некоторіе уроки в моей Кодинг Академии. Мне нужно біло сдать єкзамен по пхп. Конечно, я меня біли книги(did you remember big coding books/printed with about 1000 pages? O`Rielly maybe? I got a few of them, and in 3-5 years they we're killed by PDF versions of the same books)/ So i sing up at Russian Online University(pretty progressive thing at that time.) Some courses have also video recorders with professors lectures. And I started 3 different PHP courses. They have different complexity, level of knowledge but actually help me very well to prepare to my PHP exam. I got a practice task to scrap all <a> tags from one of big news websites by using regex. I pass on exam.
-Я также участвовал в создании нескольких проектах, которіе работали с educational content + quizes. One was at college --> big idea with lack of skills give me an A`s, but it wasn't implemented as part of process. Few projects I was working as team lead with quizing systems and one was an actual LMS. So I think that I have some background here as well. And my mother and aunt is a teachers, did you remember that? Btw, here is a parallel thread, where I explain about food projects[link] and there I have an idea about creating website generator. If(when) i'll learn how quickly to setup and tweak it - using a same script but for another type of content - is not a big problem.
-Pages/posts, recurring payments, restricted access, etc.
 
-
-For sure, with my current resources, it will be hard, maybe imposible, but ... we'll see it later :)
-If money flow will coming - I'm pretty sure that something is really doable. I'm hoping on my research and laziness skills. So maybe, by learning how to build a some sort of coding school -> I'll be able to learn more how to help other as well.
-Начать как всегда можно с малого и самого простого. Если гооврить о фуд проекте, maybe there is demand on teaching cooking classes too, who knows. Если с вебсайт генератор я решу проблему(а в интернете есть куча всего готового и бесплатного)), то саміми большими проблемами здесь я вижу структуру базі данных on late stages).
-At first stages, website can be pretty simple. And it will be static website, and video for courses can be hosted at Youtube/Vimeo. nothing complex, again.
-
-And frontend can be from scratch. Thanks god, that Education DB schemes can be easily googled.
-Благо в том, что более умніе и опытные архитекторы сложных систем, заниматься этими схемами минимум лет 30.
-
-Frontend can be an issue too. And it can be done by hands from scratch or maybe a wide licence for some ThemeForest HTML template will work fine too.
-Or some frontend blocks modules, that are free. So I think all of options are good and can be applied at different stages of work.
-First version it's easily can be opensourced for free. I like OSS btw.
-And it can have some premium/freemium options, by selling modules, cloud services setup, an advanced versions...
-A lot of ways to do it actually. Глубже в эту дебри я нехочу влазить, но это тоже looks like achivable thing, by applying my current skillset.
-(Yep, we can find an investor and do it better and quicker).
-But it's not a simple option at this moment. So let's see how it goes. Later, maybe in a few years.
-Скорее всего есть также много NO CODE movement solutions, services, которые можно использовать, или be inspired by. And yeah, no WordPress - it's sucks.
 
 ----------------
 
