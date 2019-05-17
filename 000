@@ -561,17 +561,41 @@ burn(anyone knows tht if someone have scars at hands
 
  ----
 
- React Cookbook project. We chat about it before, here. But I want to focus here at my modular approach, that can help with thhis project.
+ React Cookbook project. I post about it before, here.
+ But I want to focus here at my modular approach, that can help with this project.
  - React components
- - static food dataset
- - website generator
- - JS open libraries
- - basic components, for a quick dashboard
- - graphql as backend
+https://github.com/GroceriStar/cards-wrapper-component
+https://github.com/GroceriStar/antd-second-components
+https://github.com/GroceriStar/pdf-export-component
+https://github.com/GroceriStar/antd-showcase-components
+https://github.com/GroceriStar/react-shopping-list-template
+https://github.com/GroceriStar/select-component
+https://github.com/GroceriStar/grocery-react-component
+https://github.com/GroceriStar/routes-layouts
+https://github.com/GroceriStar/calendar
+https://github.com/ChickenKyiv/meal-form-component
+https://github.com/ChickenKyiv/recipe-search-react
+https://github.com/ChickenKyiv/recipe-antd
+https://github.com/ChickenKyiv/recipe-box
 
- В большинстве мелких проектах основа одна и таже. Возможно все єти проекті неособо интересніе, но если мі будем их все поднимать и основному скелетону, чтото обязательно прийдется менять или улучшать, поєтому
- Если у нас код разрабатівается под 1 проект, он будет  100% иметь неточности
- и tech debt. but noone ideal, for sure.
+ - static food dataset
+https://github.com/GroceriStar/sd
+https://github.com/GroceriStar/groceristar-fetch
+
+ - website generator [research phase]
+
+ - JS open libraries [mentioned in prev posts]
+
+ - basic components, for a quick dashboard creation
+ I propose to use Ant Design or lazy way is to connect ForestAdmin
+
+ - graphql as backend
+Because it looks promising and it's best choice that I research for now.
+https://github.com/ChickenKyiv/stripe-recurring-membership
+
+In major small project there one solid foundation. In my view, there should be one main skeleton but with ability to change things quickly.
+It can be not very interesting work, but it will help us to reduce different small bumps and lower level of tech debt. But noone is ideal, for sure.
+
 
  ----
 
