@@ -285,7 +285,7 @@ QA? Know Jest -> create simple tests with React -> test our components. Improve 
 
 Статья - мой concept - about school stuff.
 
----
+ ---
 
 What I propose to do: instead of just matching courses and code default assesments(which is not so bad) -> you can really help with your current skills. It can be small improvement at the first time, but later -> you'll be able to do more.
 
