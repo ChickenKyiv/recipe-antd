@@ -197,31 +197,10 @@ second is about laziness, third is about complexity of tasks, boredom tasks that
 
 
 ---
-What I don't like in my work with interns.
-I'm working on my mistakes here.
-1) I think I limiting them frequently. Especially at the begining. I know that students can be sitracted. And I'm forcing them to work on some tasks.
-And I didn't connect them together in our Slack channel. It's a bad for team building and getting "feeling" that you're part of a big team.
 
-2) Usually I'm assigning tasks, that don't give an ability for creativity. It's always a simple, solid task.
-I don't spend as much as I should times in my projects at GitHub. It's because I'm coding frequently myself, and busy or lazy. We don't setup a proper git-flow.
-I give a bad leadership here.
 
-I need to apply an Issue templates and always follow that rules...
 
-I give a bad role-model with bad task description, bad commit messages, empty descriptions at pull requests. I always don't have time for it.
-4) I can spend more time at the begining and do a better analysis of their skills at the begining.
-5) I can spend more time on explaining tasks. Sometimes I do this on purpose. In order (I want sometimes to provoke a discussion)
-and member will ask what exactly is not clear at this task. Sometimes I'm just lazy to put more time on it.
 
-I should increase lifespan with each team members. it will give me more abilities to teach then working with us, then I'll be able to focus to extend their skillset, based on their wishes.
-Many students give up, when they find something more interesting(Ex.: we started to work on graphQL server with one girl)
-When complex tasks arrived and she was not able quickly solve them -> she stuck and she switched to help project, that makes a memes database.
-And I understand her. I also love memes. [put some memes]!
-
-I think about extending/ adding complexity of interview of job-seekers. My assumption is: if interview will be more serious, and I will be more "bossy" and i will ask 10 complex questions during the interview.
-
-And make them sweat - and hard to answer quickly --- people will be more paying attention(ценить) and be grateful for being part of this programm.
-And I always for love to share big dump of data, before anyone will join, but I don't want that they will read only. My main goal/task - code practice, nor reading.
 ---
 if you don't want to join us, but your friends may want it. You can pass that links to them or star us on Github.
 
@@ -310,27 +289,6 @@ sd:
 
 
 ---
-Measurements is an inportant and huge topic for me. I can split it by places, where I want to use them.
-
-MealPlanning project + Groceristar. It's about having different recipes, with different units/ingredients.
-And giving an ability to create a grocery list from a set of recipes automatically.
-I explain it partially here:[link]
-
-Where we working on database scheme. At my prev. projects it was working, but not elegant/ideal solution. So i'm aware about some problems that it have. Some difference between measurement system, number of servings, etc.
-
-It also require some thinking about replacing some ingredients inside recipe/meal.
-Like replacing ingredient because of allerge, or replacing item because it's not vegan-friendly.
-
-Foodlog - inspired by opensourced app from NASA, they track astranauts on ISS, how they eating.
-
-Diets -> calories and nutritions are crucial for this project. But it have a lot of intersections with previous mentioned problems.
-
-+ we have some cool dataset: [link] and maybe I need to serach and re-organize my notes about this topic as well.
-Because if we cannot quickly find it, then it's time to clean up.
-
-at sd(static data repository - i talk about it few posts before) - we actually started to work on measurements part.
-Not finished. But my students working on it right now. Just saw a commit today.
-I was creating a reverse documentation, focused on meal planing from doctors perspective. And I have that specification at my Google Docs.
 
 
 
@@ -420,7 +378,9 @@ And I was like: why I'm teaching/learning it? I made a decision to be a PHP dev,
 because it's more efficient and less stupid htat i did with previous students. And I agree with their ideas/feedbacks, they right, but when it comes to connect their ideas to code, it's hard to do.
 And this is not only with code problem. In my country there a big perspective on doing electronic devices. Companies like Codisoft, PetCube, Concepter, Akax doing a cool devices(design and then produce in china and sell at USA)
 because there a big pile of people - old people, that have alow level of expectations/salaries that can really make a cool hardware and that hardware more complex than just an arduino schemes.
-like pole that trying to save money on TV programms, building a settelie receivers, in order to watch TV for free :))
+like people that trying to save money on TV programms, building a settelie receivers, in order to watch TV for free :))
+
+
 
 ------------------
 
@@ -560,41 +520,6 @@ burn(anyone knows tht if someone have scars at hands
  My reaction -> LOL(really???) Angain no problems, but this is a good illustration about our problems with internships and HR processes(Shame on YOu!)
 
  ----
-
- React Cookbook project. I post about it before, here.
- But I want to focus here at my modular approach, that can help with this project.
- - React components
-https://github.com/GroceriStar/cards-wrapper-component
-https://github.com/GroceriStar/antd-second-components
-https://github.com/GroceriStar/pdf-export-component
-https://github.com/GroceriStar/antd-showcase-components
-https://github.com/GroceriStar/react-shopping-list-template
-https://github.com/GroceriStar/select-component
-https://github.com/GroceriStar/grocery-react-component
-https://github.com/GroceriStar/routes-layouts
-https://github.com/GroceriStar/calendar
-https://github.com/ChickenKyiv/meal-form-component
-https://github.com/ChickenKyiv/recipe-search-react
-https://github.com/ChickenKyiv/recipe-antd
-https://github.com/ChickenKyiv/recipe-box
-
- - static food dataset
-https://github.com/GroceriStar/sd
-https://github.com/GroceriStar/groceristar-fetch
-
- - website generator [research phase]
-
- - JS open libraries [mentioned in prev posts]
-
- - basic components, for a quick dashboard creation
- I propose to use Ant Design or lazy way is to connect ForestAdmin
-
- - graphql as backend
-Because it looks promising and it's best choice that I research for now.
-https://github.com/ChickenKyiv/stripe-recurring-membership
-
-In major small project there one solid foundation. In my view, there should be one main skeleton but with ability to change things quickly.
-It can be not very interesting work, but it will help us to reduce different small bumps and lower level of tech debt. But noone is ideal, for sure.
 
 
  ----
