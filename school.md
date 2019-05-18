@@ -114,7 +114,11 @@ if dev has basic JS skills, but don't have time to master more by working on sid
 
 Также расскзать о flexbox course + Add links from readme.
 
-Retrospective того, что я давал изучать developers and my observations.
+
+
+
+
+Retrospective of what tech i teached my students during last 16 months and my observations.
 
 1) Вначале это был Loopback course. Почему прошло обучение около 14 человек.
 
@@ -135,19 +139,17 @@ Loopback it is an expressjs + ORM(briefly)
 
 + React Meal collection articles. About 30 people.
 
+
 2) React + Loopback
 3) Plain JS/ES6 module
 4) React
 5) React + custom react modules between projects
 6) Testing via Jest
-7) flexbox
+7) Flexbox
 8) GraphQL
 9) Git
 10) ML practice
 
-И нужно сделать чтото вроде темплейта, который будет Airtable + forms that submit message to Slack. Нам нужно вырасти как, по числу людей, также и по уровню начальных, базовых Skills.
-
-А еще по объему работы, который каждый будет выполнять. + hours per week
 
 Then hire a normal person(not me), that want to help.
 
@@ -160,20 +162,41 @@ Dashboard for management issues/interns
 Create reports, based on their work. List of tests, my comments.
 
 10 articles about interns
-Не просто наблюдения, а мои какие то вопросы, описание процессов.
+Not just my observatons, but explaining interesting questions or show how some processes work from the inside.
 
-Например как удобнее управлять базой интернов --- Hubspot CRM(not just replying to emails.)
+For example to show how to setup a recruiting flow via Hubspot CRM(and not just replying to email and read full conversaton again and again)
 
 
-Как быстрее реагировать на их Code changes. GitPod + automatization on repositories + Maybe some of students after learning basics can became a leaders/maintainers, reviewers of code changes too. But it work not well right now.
+How i can react quickly on code changes? Or how to do a quick code review?
+GitPod and automatization on repositories(Tests + CI) + Maybe some of students after learning basics can became a leaders/maintainers, reviewers of code changes too. But it work not well right now. Can be better.
 
-Нужны четкие релизы со стороны работы проекта.
-Планы из серии на будущюю неделю или две.
+We also need to have a very understandable and strict releases of our modules.
+I need to have plans for doing work for next few weeks.
 
-Большее количество людей означает большее количество заявок, которое надо обрабатывать и преобразовывать быстро.
+More people will result in more enquiries. And I'll need to manage them and reply all times
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 Можно рассказать, показать наши компоненты и вынос их нахуй из общего проекта.
 
+
+
+И нужно сделать чтото вроде темплейта, который будет Airtable + forms that submit message to Slack. Нам нужно вырасти как, по числу людей, также и по уровню начальных, базовых Skills.
+
+А еще по объему работы, который каждый будет выполнять. + hours per week
 
 =======
 
