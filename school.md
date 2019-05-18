@@ -118,39 +118,11 @@ if dev has basic JS skills, but don't have time to master more by working on sid
 
 
 
-Retrospective of what tech i teached my students during last 16 months and my observations.
-
-1) Вначале это был Loopback course. Почему прошло обучение около 14 человек.
-
-[links to share]
-Loopback it is an expressjs + ORM(briefly)
-
-Тоесть с точки зрения обучения DB architect + backender it is good starting point
-
-Минус в том, что он подразумевает знание и свободное использование уникального набора(unique for student, not a real dev)
-
-- advanced express development
-- dev should jnow ES6 structure
-- testing(Mocha/Chai)
-- MongoDB
-- Pug engine - promises + callbacks
-
-+ DB skills, aka tables composition(1-to-1, 1-to-manym PK, FK) -> they struggle here.
-
-+ React Meal collection articles. About 30 people.
 
 
-2) React + Loopback
-3) Plain JS/ES6 module
-4) React
-5) React + custom react modules between projects
-6) Testing via Jest
-7) Flexbox
-8) GraphQL
-9) Git
-10) ML practice
 
 
+-----------------------------------
 Then hire a normal person(not me), that want to help.
 
 Share this shit through differnt places or marketing or Ads?
@@ -174,7 +146,7 @@ We also need to have a very understandable and strict releases of our modules.
 I need to have plans for doing work for next few weeks.
 
 More people will result in more enquiries. And I'll need to manage them and reply all times
-
+-----------------
 
 
 
