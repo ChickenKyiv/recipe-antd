@@ -9,3 +9,8 @@ Right now, we can connect 2-3 projects into it, they have a same basic foundatio
 That works with different sets of our food data and fake-api is a good and simple layer for receiving/sending data.
 Also I want to use it for debug a default methods, that later can be moved out to separated modules. like to our graphql server.
 it's also pretty simple project, so everyone can understand that logic.
+
+
+https://hackernoon.com/the-future-of-software-development-modular-intelligent-and-rickety-e24de6d5102f
+
+https://futurism.com/the-byte/robots-taste-chinese-food
