@@ -1,0 +1,11 @@
+Fake API -  это сервер для ленивых. В итоге я думаю выложить его, потому что есть спрос на такие мелкие проекты-тулзы, а во вторыхх пока у меня не будет готов мой/переделан мой основной recipe api server или его
+graphql version -> I need to have a server, that can be able to give data.
+For connection with our frontend pages. Idea is to create basic routes and return a basic data, by calling that routes.
+But there is no real server behind it(No DB right now. Only static data that we have at our fetch and static data module).
+
+By connecting React Components with fake-api we can test independently our components or have it as converter of our data.
+Main goal is to display data at React pages, that use our React Components. We didn't use or update it quite often right now, but soon, we'll start to do it.
+Right now, we can connect 2-3 projects into it, they have a same basic foundation.
+That works with different sets of our food data and fake-api is a good and simple layer for receiving/sending data.
+Also I want to use it for debug a default methods, that later can be moved out to separated modules. like to our graphql server.
+it's also pretty simple project, so everyone can understand that logic.
