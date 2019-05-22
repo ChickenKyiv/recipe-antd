@@ -14,3 +14,33 @@ it's also pretty simple project, so everyone can understand that logic.
 https://hackernoon.com/the-future-of-software-development-modular-intelligent-and-rickety-e24de6d5102f
 
 https://futurism.com/the-byte/robots-taste-chinese-food
+
+----
+
+1) When Eugene will deploy latest changes to `fetch`, you will be able to connect to that files(that you worked before).
+As you saw that all files for measurements. And you see a similarities.
+2) I want to merge all that files together into one big object. So later we will be able to use it at our servers. This will be our first task.
+3) Extract data from that measurements files and merge into one `entity`.
+Then we will create some sort of an array/method, so we will be able to filter that data by different "keywords".
+For example, create a separated  method, that will display only gallon, or only cooking times from that object.
+4) Later, we will change structures of that big, complex object. Some of our data have not an ideal structure inside.
+Like -> we have integers and string at one field. This is not best solution. Not easy to manage, operate.
+Usually if we will multiply numbers together. So for this current case - it's better to separate data.
+So here, we will create a method, with a few loops -> then get data from a few fields and split them into pieces.
+
+
+About Python as backend
+I don't think that it's a best/quick choice.
+1) if will require a lot of work for setup from scraatch.
+2) Nodejs servers are evolving pretty fast, so it will give an ability to use other completed modules,
+that available right now at market.
+3) I'm building modular backend system at nodejs and it will be awesome if you can use it at your project.
+Heroku is awesome choice. It's cheap and easy to work for developers
+
+---
+
+
+Coding school service is my top priorities because it can be a quick source of money, but during that time, my students(interns)
+actually coding food projects, so it still moving forward this goal too.
+
+В близжайший месяц я буду переезжать, и наверное сам я несмогу кодить, но в это вреия я планирую заниматься документаций.
