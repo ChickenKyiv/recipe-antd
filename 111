@@ -17,17 +17,6 @@ https://futurism.com/the-byte/robots-taste-chinese-food
 
 ----
 
-1) When Eugene will deploy latest changes to `fetch`, you will be able to connect to that files(that you worked before).
-As you saw that all files for measurements. And you see a similarities.
-2) I want to merge all that files together into one big object. So later we will be able to use it at our servers. This will be our first task.
-3) Extract data from that measurements files and merge into one `entity`.
-Then we will create some sort of an array/method, so we will be able to filter that data by different "keywords".
-For example, create a separated  method, that will display only gallon, or only cooking times from that object.
-4) Later, we will change structures of that big, complex object. Some of our data have not an ideal structure inside.
-Like -> we have integers and string at one field. This is not best solution. Not easy to manage, operate.
-Usually if we will multiply numbers together. So for this current case - it's better to separate data.
-So here, we will create a method, with a few loops -> then get data from a few fields and split them into pieces.
-
 
 About Python as backend
 I don't think that it's a best/quick choice.
