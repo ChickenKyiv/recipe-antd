@@ -1,4 +1,5 @@
-Fake API -  это сервер для ленивых. В итоге я думаю выложить его, потому что есть спрос на такие мелкие проекты-тулзы, а во вторыхх пока у меня не будет готов мой/переделан мой основной recipe api server или его
+Fake API -  это сервер для ленивых.
+В итоге я думаю выложить его, потому что есть спрос на такие мелкие проекты-тулзы, а во вторыхх пока у меня не будет готов мой/переделан мой основной recipe api server или его
 graphql version -> I need to have a server, that can be able to give data.
 For connection with our frontend pages. Idea is to create basic routes and return a basic data, by calling that routes.
 But there is no real server behind it(No DB right now. Only static data that we have at our fetch and static data module).
@@ -17,14 +18,6 @@ https://futurism.com/the-byte/robots-taste-chinese-food
 
 ----
 
-
-About Python as backend
-I don't think that it's a best/quick choice.
-1) if will require a lot of work for setup from scraatch.
-2) Nodejs servers are evolving pretty fast, so it will give an ability to use other completed modules,
-that available right now at market.
-3) I'm building modular backend system at nodejs and it will be awesome if you can use it at your project.
-Heroku is awesome choice. It's cheap and easy to work for developers
 
 ---
 
