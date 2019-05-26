@@ -17,11 +17,15 @@ https://medium.freecodecamp.org/how-i-started-my-open-source-journey-after-being
 
  + I have a dumb, but working cool for a git+github task for promises, at ES6, tasks after learning Nodejs+express, tasks graphql, React, forms, HTML/CSS, Grids.
 
- При єтом, как оценить успех/результат?
- Неподойдет относительніе состояние, нужно подогнать более четкие КПИ. Если 1) будет увеличенение команді интернов за месяц в 2 раза -- єто результат.
- Если вістрелят
- 2) Companies page, that is awesome!
- Если за 2-3 месяца будет затишься, а потом результат -- єто просто отложеное, не мимолетній ник, связанній с правильными действиями и ростом от этого growthhack.
+But how to count success/failure?
+We cannot just have some state about it. We need to have KPI -> this will help us.
+If 1) I will see growth in numbers of new interns at first months in 2x - it will a good result.
+2) if companies will be interested to use our services - it's awesome and
+ will show to me that this idea is viable and can be monetized
+ 3) if for the first 3 months I will see "emptiness" and later i'll see result-> this is just paused not first momentup, so with a right actions and using basic growthhacking actus in order to increase numbers that we have.
 
- ""
+
+
+ ---
+
  Article: Why GitHub is better than any profiles for software engineers
