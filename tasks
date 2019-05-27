@@ -2,22 +2,6 @@
 https://hackernoon.com/why-theres-so-much-burnout-in-software-and-what-to-do-about-it-4ef0297ca7cc
 https://medium.freecodecamp.org/how-i-started-my-open-source-journey-after-being-demotivated-for-two-years-db4ebc6ecb84
 
----
-
- Today I get a question, what I'll do if coding school will be a failure.
- but I was ready to it and shout loudly, that content
- marketing is a cool thing, so we'll publish more content at HN.
- And I tell - that if 10 articles wouldn't be enough - I'll create another 10. and remember, that I decide to google a practice tasks, I start to google practical tasks in JS, because of it most simple that I can find.
-
-But how to count success/failure?
-We cannot just have some state about it. We need to have KPI -> this will help us.
-
-1) If I will see growth in numbers of new interns at first months in 2x - it will a good result.
-2) If companies will be interested to use our services - it's awesome and
- will show to me that this idea is viable and can be monetized
-3) If for the first 3 months I will see "emptiness" and later i'll see result-> this is just paused not first momentup, so with a right actions and using basic growthhacking actus in order to increase numbers that we have.
-
-
 
  ---
 
@@ -35,48 +19,7 @@ We cannot just have some state about it. We need to have KPI -> this will help u
 Config Generator -- why we comment a few things, methods?
 if we don't need them. lets then add and comment more objects. and hide them for next times?
 
-for generator -- we need to create a folder as well.
+for generator -- we need to create folders for each generated file as well(compare with `src/data`).
 
 filesES5 -- we have very long paths
 we should make it less long. we can update to ```var { resolve } = require('path') and make files easy to read again.
-
-====
-
-
-First of all - sure, you are a founder and make a decision.
-I'm always open to help and ready to conversation. Especially if it will help to community members.
-
-If we loock back(i have more detailed explanation at this post)
-you will find out that for your project you
-1) will need a database -> recipe/meal storage
-2) in order to give an ability users to watch your content -> you'll need users/profile section
-3) if you need to receive payments you'll need to connect your project with payment gateweay
-4) You'll also need most common thing like sign in/sing up forms/reset password form/payment form, order tof purchases/refunds, etc.
-
-You can doin on your own for sure. But as you not a
-person with tech skills, you'll have to face a common problems, that facing each founder that want to build  an online tool(website/app/voice assistant)
-But all of this things are in future for you.
-Let's go to a simple things. I saw your project Homepage.
-I'm sure that you understand that it can look better. The easiest/quick/cheap way to update it is:
- - create and host a landing page that can be done by drag-n-drop at some of this simple services:
- -
- -
- -
-
- it will cost you some money, but it's way cheaper than hiring a designer/developer/website administrator.
- You will be able to connect your mailchimp form and good locking and optimized page will boost your convertion without a doubts.
- ============
-
-
- I'm still confliced. What project size/team size is an ideal in our case? How detailed description should be, in order to people can start quickly? What size of description should we keep everyhint at Readme?
- Before I did a few complex and detailed description, loud Readme, but with myinterns. I didn't feel it myself. like I made X work on docs and will it give Y increase and feedback from students.
- As manager, I think I'll forced to extend my skills with operating of remote team. I should make calls, create videos with tasks explanation.
- What is also not cool, that we have only a progress with tasks, modules, that I have high priority and focus. So, if I think that some module are not important at this moment --> so nobody working on it, which is strange and stupid. Because at this moment we don't need it, but in 2 months it can be ready and we'll be able to work, using that codebase.
-
- ====
-
-
- Quite not sure about geo location. I understand what do youwant. and maybe simple "Home mode" is easy to do. Next part is more complex:
- 1) with latest release of iOS they rewrite policy about privacy/sharing
- 2) with this kind of feature you'll have to be ready for a long approval process. Each new release can take months from code review.
- 3) it better to overcome with same outside things like QR scans or other. but it will require a lot of data. Maybe by starting with hyper-local community like 1 town only. at other cases you'll drown with changes, so you'll need a huge and flexible team.
