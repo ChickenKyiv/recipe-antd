@@ -29,3 +29,41 @@ We cannot just have some state about it. We need to have KPI -> this will help u
 
 
   + I have a dumb, but working cool for a git+github task for promises, at ES6, tasks after learning Nodejs+express, tasks graphql, React, forms, HTML/CSS, Grids.
+
+---
+
+Config Generator -- why we comment a few things, methods?
+if we don't need them. lets then add and comment more objects. and hide them for next times?
+
+for generator -- we need to create a folder as well.
+
+filesES5 -- we have very long paths
+we should make it less long. we can update to ```var { resolve } = require('path') and make files easy to read again.
+
+====
+
+
+First of all - sure, you are a founder and make a decision.
+I'm always open to help and ready to conversation. Especially if it will help to community members.
+
+If we loock back(i have more detailed explanation at this post)
+you will find out that for your project you
+1) will need a database -> recipe/meal storage
+2) in order to give an ability users to watch your content -> you'll need users/profile section
+3) if you need to receive payments you'll need to connect your project with payment gateweay
+4) You'll also need most common thing like sign in/sing up forms/reset password form/payment form, order tof purchases/refunds, etc.
+
+You can doin on your own for sure. But as you not a
+person with tech skills, you'll have to face a common problems, that facing each founder that want to build  an online tool(website/app/voice assistant)
+But all of this things are in future for you.
+Let's go to a simple things. I saw your project Homepage.
+I'm sure that you understand that it can look better. The easiest/quick/cheap way to update it is:
+ - create and host a landing page that can be done by drag-n-drop at some of this simple services:
+ -
+ -
+ -
+
+ it will cost you some money, but it's way cheaper than hiring a designer/developer/website administrator.
+ You will be able to connect your mailchimp form and good locking and optimized page will boost your convertion without a doubts.
+ ============
+ 
