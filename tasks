@@ -66,4 +66,17 @@ I'm sure that you understand that it can look better. The easiest/quick/cheap wa
  it will cost you some money, but it's way cheaper than hiring a designer/developer/website administrator.
  You will be able to connect your mailchimp form and good locking and optimized page will boost your convertion without a doubts.
  ============
- 
+
+
+ I'm still confliced. What project size/team size is an ideal in our case? How detailed description should be, in order to people can start quickly? What size of description should we keep everyhint at Readme?
+ Before I did a few complex and detailed description, loud Readme, but with myinterns. I didn't feel it myself. like I made X work on docs and will it give Y increase and feedback from students.
+ As manager, I think I'll forced to extend my skills with operating of remote team. I should make calls, create videos with tasks explanation.
+ What is also not cool, that we have only a progress with tasks, modules, that I have high priority and focus. So, if I think that some module are not important at this moment --> so nobody working on it, which is strange and stupid. Because at this moment we don't need it, but in 2 months it can be ready and we'll be able to work, using that codebase.
+
+ ====
+
+
+ Quite not sure about geo location. I understand what do youwant. and maybe simple "Home mode" is easy to do. Next part is more complex:
+ 1) with latest release of iOS they rewrite policy about privacy/sharing
+ 2) with this kind of feature you'll have to be ready for a long approval process. Each new release can take months from code review.
+ 3) it better to overcome with same outside things like QR scans or other. but it will require a lot of data. Maybe by starting with hyper-local community like 1 town only. at other cases you'll drown with changes, so you'll need a huge and flexible team.
