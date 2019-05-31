@@ -53,26 +53,7 @@ Who is this problem? He have skills, and should easily jump into this code. But 
 Good plan will be also a good helpful hand for quick onboarding.
 
 
-In order to improve our process
---- mark tasks in progress
---- create a few milestones and assign tasks to mathematics
---- use Projects, for better understanding
 
-3 points for tests
---- Travis CI
---- JSONLint
---- tests for/from data folders
---- tests for generator folder
-
-we run `code-fix` (ESLint) at build, so small issues will be fixed automatically or show warning.
-
-by using tests we need to answer these questions
-- How better to cover `data` folder
-- measurements contain a few files, how tests dealing with it
-- Elnur add a few files, and tests to them -> what and how it works....
-
-Readme improvement
-tests discussion
 
 
 Article about articles for new developers[strange title, yep]
@@ -90,12 +71,15 @@ Not only code by yourself, but more tasks to other developers. It might be easy 
 
 ---
 
-complex recipe + tests
-grocery_calendar.json
-
-recipes_nutrition.json
-
 JSON validator is an actually a good thing
 standard --> awesome and 0 coding/0 configuration ESLint
 
 Travis CI --> for builds, great works and helps me a lot, code at master works and module has a good test coverage(tests passing green)
+
+
+====
+
+Separate methods for generation of files.
+Like these methods for measurement system, these for Grocery Lists only.
+
+Upgrade both files.js files? remove repetition, and make it works at all places. And re-check results 3 times at least, because all our functionality is evolving to much complext structures
