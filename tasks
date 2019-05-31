@@ -35,3 +35,41 @@ Cooler than our Olympiads. More prestigious as well. They can use their knowledg
 They can sell their skills and get a job. Make money. And be able to support their families. Or they can create a company, sell their products.
 End of this story. And I'm upset about it. In Ukraine, we have a great STEM education. But at the next steps: buildings worldwide useful products, promote and sell it => we suck.
 Hope it will change in the future. Hoping for changes.
+
+
+
+In order to onboard new students and work on some quick and simple tasks -> we need to improve our system of labels/tags/milestones in our repositories. Maybe data/good idea will be to merge some of our modules together into mono repository on one roof.
+Maybe it will help to update packages.
+It will also reduce number of our repositories/ releases and interns woudln't need to jump between repositories(but it can be a good thing)
+
+But labels are most important improvement for me. it's great because will reduce number indeis of projects, will reduce level of knowledge, while new student will enter point to this project.
+Tags/Milestones for different things: tests/work with arrays, work with objects, promises, React components, etc.
+
+"Help us to build a next generation of engineers together with you!" - can be our slogan
+
+
+Introducing new member into team working at project is a hard thing. It not changing if member are experienced ornot. This is why maybe everyone like to start a new project. Project strucutre/logic can be simple ==> but it wouldn't reduce problems at the begining. This is why planning is important. I also need timemanagement myself and spend more time for project documentation. Readme file will be our first point of information. Next stage will be related to long term planning. Month ago my friend decide to join us. He is experienced, and grab to work on one module. By mistake, he grab one of modules, with bad documentation and complex strucutre.
+Who is this problem? He have skills, and should easily jump into this code. But it's my problem. So each member need some time and good explanation.
+Good plan will be also a good helpful hand for quick onboarding.
+
+
+In order to improve our process
+--- mark tasks in progress
+--- create a few milestones and assign tasks to mathematics
+--- use Projects, for better understanding
+
+3 points for tests
+--- Travis CI
+--- JSONLint
+--- tests for/from data folders
+--- tests for generator folder
+
+we run `code-fix` (ESLint) at build, so small issues will be fixed automatically or show warning.
+
+by using tests we need to answer these questions
+- How better to cover `data` folder
+- measurements contain a few files, how tests dealing with it
+- Elnur add a few files, and tests to them -> what and how it works....
+
+Readme improvement
+tests discussion
