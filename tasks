@@ -24,7 +24,7 @@ for generator -- we need to create folders for each generated file as well(compa
 filesES5 -- we have very long paths
 we should make it less long. we can update to ```var { resolve } = require('path') and make files easy to read again.
 ------------------
-Another story. One guy finds me at AngelLIst. We are a bright guy and won Coding Olympiad in Ukraine. I think that he wants to join us, but he was just curious to know about what Ukrainian company doing at AngelList. And here I should mention that he was "talk down" with me.
+Another story. One guy finds me at AngelList. We are a bright guy and won Coding Olympiad in Ukraine. I think that he wants to join us, but he was just curious to know about what Ukrainian company doing at AngelList. And here I should mention that he was "talk down" with me.
 And it pisses me off a bit. So, I think that I need to share this. I think that coding Olympiads in Ukraine is bullshit.
 (Ok, Ok, don't kill me quick, please - it's my opinion). Again, coding, not science Olympiad, like physics, mathematics.
 Why? I have a lot of good friends from India. They are bright people and it's an honor to know them. They are popular students at their university.
@@ -38,35 +38,34 @@ Hope it will change in the future. Hoping for changes.
 
 
 
-In order to onboard new students and work on some quick and simple tasks -> we need to improve our system of labels/tags/milestones in our repositories. Maybe data/good idea will be to merge some of our modules together into mono repository on one roof.
+In order to onboard new students and work on some quick and simple tasks -> we need to improve our system of labels/tags/milestones in our repositories. Maybe data/good idea will be to merge some of our modules together into a mono repository on one roof.
 Maybe it will help to update packages.
-It will also reduce number of our repositories/ releases and interns woudln't need to jump between repositories(but it can be a good thing)
+It will also reduce the number of our repositories/ releases and interns wouldn't need to jump between repositories(but it can be a good thing)
 
-But labels are most important improvement for me. it's great because will reduce number indeis of projects, will reduce level of knowledge, while new student will enter point to this project.
+But labels are the most important improvement for me. it's great because will reduce numbers of these projects, will reduce the level of knowledge, while a new student will enter point to this project.
 Tags/Milestones for different things: tests/work with arrays, work with objects, promises, React components, etc.
 
-"Help us to build a next generation of engineers together with you!" - can be our slogan
+"Help us to build the next generation of engineers together with you!" - can be our slogan
 
 
-Introducing new member into team working at project is a hard thing. It not changing if member are experienced ornot. This is why maybe everyone like to start a new project. Project strucutre/logic can be simple ==> but it wouldn't reduce problems at the begining. This is why planning is important. I also need timemanagement myself and spend more time for project documentation. Readme file will be our first point of information. Next stage will be related to long term planning. Month ago my friend decide to join us. He is experienced, and grab to work on one module. By mistake, he grab one of modules, with bad documentation and complex strucutre.
-Who is this problem? He have skills, and should easily jump into this code. But it's my problem. So each member need some time and good explanation.
-Good plan will be also a good helpful hand for quick onboarding.
+Introducing a new member into the team working at the project is a hard thing. It not changing if the member is experienced or not. This is why maybe everyone like to start a new project. Project structure/logic can be simple ==> but it wouldn't reduce problems at the beginning. This is why planning is important. I also need to time management myself and spend more time on project documentation. Readme file will be our first point of information. Next stage will be related to long term planning. A month ago my friend decides to join us. He is experienced, and grab to work on one module. By mistake, he grabs one of the modules, with bad documentation and complex structure.
+Who is this problem? He has skills, and should easily jump into this code. But it's my problem. So each member needs some time and a good explanation.
+A good plan will be also a good helping hand for quick onboarding.
 
 
 
 
 
 Article about articles for new developers[strange title, yep]
-One month ago my Internet was shutdown. I don't have cash for it. I plan to move out. My intern, Vadim take responsibilities for team management. And here I start to saw problems in my process.
+One month ago my Internet was shut down. I don't have cash for it. I plan to move out. My intern, Vadim take responsibilities for team management. And here I start to saw problems in my process.
 One of the quick improvements that we did after -> issues & pull request templates.
 I teach him bad habits: make short task description, pull requests without details, etc. He should automate this thing. I also forgot to put data at Readme,
-and this is a black hole for time when each level of project.
+and this is a black hole for a time when each level of the project.
 Anyone don't understand what we're doing.
-This is my practical findings. More later.
-Right now I just watching, how Vadim manage process. Don't interrupting, so he can realize,
-how it hard to work with new people and have responsibility for work of other teammates.
-Not only code by yourself, but more tasks to other developers. It might be easy work, but it's a new for him, and complex to start from the begigning. But i'm sure he can handle that.
-
+This is my practical findings. Later.
+Right now I just watching, how Vadim manages the process. Don't interrupt, so he can realize,
+how it hard to work with new people and have responsibility for the work of other teammates.
+Not only code by yourself, but more tasks to other developers. It might be easy work, but it's new for him, and complex to start from the beginning. But I'm sure he can handle that.
 
 
 ---
@@ -78,8 +77,8 @@ Travis CI --> for builds, great works and helps me a lot, code at master works a
 
 
 ====
-Next Story - How my intern tried to get an internship at Ukrainian outsourcing company.
-Vadim(my 1st Ukraining intern) has an official period of practice in college. After that period, he should provide a documents, stamps and other boring papershit.
+Next Story - How my intern tried to get an internship at the Ukrainian outsourcing company.
+Vadim(my 1st Ukrainian  intern) has an official period of practice in college. After that period, he should provide documents, stamps and other boring papershit.
 As I cannot provide it for him - I decided - I should help, because he is my teammate and because he rocks.
 And I have a lot of connections in our Ukrainian tech companies.
 
@@ -88,10 +87,10 @@ And I have a lot of connections in our Ukrainian tech companies.
 
 FA
 app templates/
-This is an item where I don't want toreinvent the wheel. But maybe we'll should.
-I want to use what web is full - samples and modify or evolve an app designs or app code templates that are selling on the marketplaces and they are just static, not evolving during a time, not providing an additional value for customers. They just isset as it is.
-I saw a lot of duplicates, some of them better than other, but always they require a lot of work to do. I have a very good list of apps/website templates, designs for meals, maybe some sketches/tries at Dribbble. Making something simple and free - that designers on Dribble get a cool experience, and I want to try to simplify process(read life) or all parts of this process.
-it can also bring some clients to that designers - promote their work.
+This is an item where I don't want to reinvent the wheel. But maybe we'll.
+I want to use what web is full - samples and modify or evolve app designs or app code templates that are selling on the marketplaces and they are just static, not evolving during a time, not providing additional value for customers. They just are set as it is.
+I saw a lot of duplicates, some of them better than others, but always they require a lot of work to do. I have a very good list of apps/website templates, designs for meals, maybe some sketches/tries at Dribbble. Making something simple and free - that designers on Dribble get a cool experience, and I want to try to simplify the process(real life) or all parts of this process.
+it can also bring some clients to those designers - promote their work.
 
 
 =================
@@ -102,9 +101,9 @@ it can also bring some clients to that designers - promote their work.
 
 
 
-Here is a set of different websites that can help you to get a job in tech company.
+Here is a set of different websites that can help you to get a job in a tech company.
 They are maybe not very popular right now. Or very local. But there you'll have less competition, so it worse exploring.
 
 
 
-If you also want to get more information about working in tech(right now there a lot of changes) - below i put a list of articles, that might be interested for you to read.
+If you also want to get more information about working in tech(right now there a lot of changes) - below I put a list of articles, that might be interested for you to read.
