@@ -23,3 +23,15 @@ for generator -- we need to create folders for each generated file as well(compa
 
 filesES5 -- we have very long paths
 we should make it less long. we can update to ```var { resolve } = require('path') and make files easy to read again.
+------------------
+Another story. One guy finds me at AngelLIst. We are a bright guy and won Coding Olympiad in Ukraine. I think that he wants to join us, but he was just curious to know about what Ukrainian company doing at AngelList. And here I should mention that he was "talk down" with me.
+And it pisses me off a bit. So, I think that I need to share this. I think that coding Olympiads in Ukraine is bullshit.
+(Ok, Ok, don't kill me quick, please - it's my opinion). Again, coding, not science Olympiad, like physics, mathematics.
+Why? I have a lot of good friends from India. They are bright people and it's an honor to know them. They are popular students at their university.
+Why? They took part at Amazon Hackathon and code bots/assistants for Amazon Echo.
+They worked on real practical problems. They work in a team and compete at the tough competition. And win. Took first places and get few USD grans at their hands.
+Become an Amazon Influencer Students. And it's in 1000 times more important and valuable.
+Cooler than our Olympiads. More prestigious as well. They can use their knowledge right now.
+They can sell their skills and get a job. Make money. And be able to support their families. Or they can create a company, sell their products.
+End of this story. And I'm upset about it. In Ukraine, we have a great STEM education. But at the next steps: buildings worldwide useful products, promote and sell it => we suck.
+Hope it will change in the future. Hoping for changes.
