@@ -15,44 +15,9 @@ https://medium.freecodecamp.org/how-i-started-my-open-source-journey-after-being
   + I have a dump, but working cool for a git+github task for promises, at ES6, tasks after learning Nodejs+express, tasks graphql, React, forms, HTML/CSS, Grids.
 
 ---
-
-Config Generator -- why we comment a few things, methods?
-if we don't need them. lets then add and comment more objects. and hide them for next times?
-
-for generator -- we need to create folders for each generated file as well(compare with `src/data`).
-
-filesES5 -- we have very long paths
-we should make it less long. we can update to ```var { resolve } = require('path') and make files easy to read again.
 ------------------
-Another story. One guy finds me at AngelList. We are a bright guy and won Coding Olympiad in Ukraine. I think that he wants to join us, but he was just curious to know about what Ukrainian company doing at AngelList. And here I should mention that he was "talk down" with me.
-And it pisses me off a bit. So, I think that I need to share this. I think that coding Olympiads in Ukraine is bullshit.
-(Ok, Ok, don't kill me quick, please - it's my opinion). Again, coding, not science Olympiad, like physics, mathematics.
-Why? I have a lot of good friends from India. They are bright people and it's an honor to know them. They are popular students at their university.
-Why? They took part at Amazon Hackathon and code bots/assistants for Amazon Echo.
-They worked on real practical problems. They work in a team and compete at the tough competition. And win. Took first places and get few USD grans at their hands.
-Become an Amazon Influencer Students. And it's in 1000 times more important and valuable.
-Cooler than our Olympiads. More prestigious as well. They can use their knowledge right now.
-They can sell their skills and get a job. Make money. And be able to support their families. Or they can create a company, sell their products.
-End of this story. And I'm upset about it. In Ukraine, we have a great STEM education. But at the next steps: buildings worldwide useful products, promote and sell it => we suck.
-Hope it will change in the future. Hoping for changes.
 
-
-
-In order to onboard new students and work on some quick and simple tasks -> we need to improve our system of labels/tags/milestones in our repositories. Maybe data/good idea will be to merge some of our modules together into a mono repository on one roof.
-Maybe it will help to update packages.
-It will also reduce the number of our repositories/ releases and interns wouldn't need to jump between repositories(but it can be a good thing)
-
-But labels are the most important improvement for me. it's great because will reduce numbers of these projects, will reduce the level of knowledge, while a new student will enter point to this project.
-Tags/Milestones for different things: tests/work with arrays, work with objects, promises, React components, etc.
-
-"Help us to build the next generation of engineers together with you!" - can be our slogan
-
-
-Introducing a new member into the team working at the project is a hard thing. It not changing if the member is experienced or not. This is why maybe everyone like to start a new project. Project structure/logic can be simple ==> but it wouldn't reduce problems at the beginning. This is why planning is important. I also need to time management myself and spend more time on project documentation. Readme file will be our first point of information. Next stage will be related to long term planning. A month ago my friend decides to join us. He is experienced, and grab to work on one module. By mistake, he grabs one of the modules, with bad documentation and complex structure.
-Who is this problem? He has skills, and should easily jump into this code. But it's my problem. So each member needs some time and a good explanation.
-A good plan will be also a good helping hand for quick onboarding.
-
-
+---
 
 
 
@@ -81,7 +46,6 @@ Next Story - How my intern tried to get an internship at the Ukrainian outsourci
 Vadim(my 1st Ukrainian  intern) has an official period of practice in college. After that period, he should provide documents, stamps and other boring papershit.
 As I cannot provide it for him - I decided - I should help, because he is my teammate and because he rocks.
 And I have a lot of connections in our Ukrainian tech companies.
-
 
 ----
 
