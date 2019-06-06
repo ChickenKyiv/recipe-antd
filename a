@@ -1,0 +1,128 @@
+An interesting and surprisingly correct/unpredictable approach for me - was to move all JS develoers into one repository, introduce them at one main task and explain them our plan for that repository(I'm not actually sure, that this explanation helps from PM perspective, but it 100% works for team buidling)
+
+But for me - explaining a lot of details i'm one place helps to structure my thoughts,
+related to plan of one of our modules, that we plan to release to public soon.
+If i'm not working near PC or I don't have internet, I wrote my plans to paper notepad. First version always very crazzy, and hard to read. I wrote major tesises, 0 details. It's a thesis strange
+Then, I'm rewriting that content again, so I can easily to read my notes understand what I wont and what I mean in the next few days. PC usually cannot help me with management.
+And don't work well for PM work. Because I can create tasks in "excitementfeeling."
+
+But students will struggle to digest that task description. The second stage is done.
+
+
+Stage 3 related to combining few tasks for one intern. So he can know that he will work on Task1, then Task2, then Task3...
+With this approach I can plan his workload for a weeks in future.
+
+Later, when I'll move my tasks from paper, to GitHub, I also will create few simple tasks from scratch.
+
+
+Like "to add details to Readme file", "improve documentation", "add some tests",
+Fix todos or remove duplicates, etc.
+
+Also! I need to have more focus at documentation. [I worte an article about documentation]
+
+So, reducing time on my PC desk or without Internet I make more complex and detailed tasks explanation for my interns.
+
+It helps to my team members. So at this summer I should spend more time hiking and work on a fresh air without laptop and email distractions ;)
+
+
+I'm not just moving my tasks from paper to github issue,s and creating big common tasks, like
+
+[intern name][week number][title] links to tasks -> it's also improving my workflow and whole development process, so I can assign a one main task then add in-process label to one subtask link with opened PR....
+
+I'm sure it can expand team and reduce my work for 20% (maybe
+
+Then I'll be able to get back to planning our work for a whole milestones forward. Be very happy when it happens. At notebook I'm creating tasks by this templates
+[repo name] -> [intern name] -> [task name] - [simple description]
+
+Then I can add tasks to Kanban boards - so it'll be a really good project manager work.
+
+
+
+
+
+
+
+
+
+
+
+
+
+===================
+
+Our major part of communication are going via GitHub. If i'm online, and intern write a comment, create a task, mention me -> then I receiving a email notification about it.
+When I will have time -> i'll reply quickly.
+
+But please try maximally return to me an information, or why do you asking my help. because I'm chatting in the same time with a lot of people.
+So when I reply to you - in a few minutes - I'll forget about what we were taslking about.
+
+Example of how to communicate better.
+
+"I cannot do it" - sucs.
+"I cannot to do A, because I tried B. Also C,D,E options - nothing works as it should be."
+
+This is my code, this is a link to task/ pull request, this is a link to codeline with an error(don't share link to whole file)
+
+
+How it looks from my side: when I assign task to my teammate. I close that tab and switch to other tasks.
+
+- I assign you a task
+- You write comments inside at that tasks in comments section
+- I'll need to open that task online, check code at next tab, understand what do you want from me. etc...
+
+All of this moves can be solved via code branches, pull requests, or pull drafts -> then I'll be able to see your changes and at pull request comment sections we can taslking
+Dont forget to mention task number, like #task_name(#100) -> task number and apply checkboxes at pull request description.
+
+Sad thing is -> code review/changes requests is not a very understandable thing for interns/new developers.
+
+Sometimes I just accept bad code(yep, sad) and then I create a separated task, mention same person that should fix that problem.
+
+It's simple and quick way for me but it's bad for process ;)
+
+How I solve this problem? I add Travis CI, ESLint, CodeClimate into our PullRequests workflow.
+So robots generating error logs that tells me and team members what should be done next, in order to make code better.
+
+You may notice that I'm a bit hateful/against to basic courses and"default coding learning process.
+
+In my country(Ukraine) courses are usually meaning an entertainment. Their goal is to play with attendies, have fun and play.
+
+My friend were a student at some local popular hard-core courses. It was about learning English. She pass them, pay big amount of money(husband money - so nobody cares, right?)
+
+But she still have a habit to watch translated movies on native language, not at English.... Is this a problem of that course?
+I don't think so. The main problem is a making a habit.
+Instead of pushing a big pile of information at busy people in their heads. People, attending this courses should form a habit. People with habit will be able to continue.
+a learning process later.
+So they can benefit not only from 2 months of courses -> they will have a recurring benefts from it. Imagine someone(me) who want to lose weight.
+You offering to me a few free training sessions from trainers of Spartan race. At first train I was exsausted, my muscles burn, etc.
+
+
+At that time I was a pretty fit and prepared to excercises. I ran about 500 miles before it and completed full marathon
+
+But if they will not have(If i don't have) a lot mental power to come back to you and continue training - they still will be fat. Because you didn't form a good new strong habit. Actually, you maybe make it worse, because you showing(themselves that they are not capable to be like you or other fat people.
+
+
+I hired a sales manager after completion of "famous outsourcing sales" courses in Ukraine. Actually they teaching good things. But they were playing in sales managers"",
+so he was not ready to generate a result as sales team member. He talks a lot and doesn't listen(hear) me, while I learned how to sale on preactice only.
+
+I don't have a backup or option NOT to do sales deals.
+If I don't close a deal then I woudln't have meals in a few next weeks. And you cannot be a sales manager, after reading sales""
+blogposts with a fancy titles "how and why and what and 5 habits of succes" [screen from hubspot sales blog.
+
+]
+
+
+So I'm only about practice. At least at first times, in order to start.
+
+Here is another story.
+
+[ We didn't offer you an air if you want a result, pay attention you can see what  was done and how, and decide what to do next(and how to do it). This is a 2 side problem. ]
+
+
+The first problem is to teach a sutdent to think as developer
+2nd problem is to figure out what skills and how someone "solves real-life" problems
+
+
+I'm watching movies on English not because it's cool. Brad Pit have millions salaryy for a movie.
+He bust his ass in order to act great. Facial Expressions, voice tones, bad words.
+- each of this is part of his work. It draws a picture, a character that director tried to show to consumer. Using translations, you like moving 50% of it.
+Yes, we have good voice actors. But their salary will be a few grands per role, so you cannot compare a result and whole picture + voice frame...
