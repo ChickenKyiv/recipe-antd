@@ -1,37 +1,37 @@
-An interesting and surprisingly correct/unpredictable approach for me - was to move all JS develoers into one repository, introduce them at one main task and explain them our plan for that repository(I'm not actually sure, that this explanation helps from PM perspective, but it 100% works for team buidling)
+An interesting and surprisingly correct/unpredictable approach for me - was to move all JS developers into one repository, introduce them at one main task and explain them our plan for that repository(I'm not actually sure, that this explanation helps from PM perspective, but it 100% works for team building)
 
-But for me - explaining a lot of details i'm one place helps to structure my thoughts,
-related to plan of one of our modules, that we plan to release to public soon.
-If i'm not working near PC or I don't have internet, I wrote my plans to paper notepad. First version always very crazzy, and hard to read. I wrote major tesises, 0 details. It's a thesis strange
-Then, I'm rewriting that content again, so I can easily to read my notes understand what I wont and what I mean in the next few days. PC usually cannot help me with management.
-And don't work well for PM work. Because I can create tasks in "excitementfeeling."
+But for me - explaining a lot of details I'm one place helps to structure my thoughts,
+related to the planning of one of our modules, that we plan to release to the public soon.
+If I'm not working near PC or I don't have internet, I wrote my plans to paper notepad. The first version always very crazy, and hard to read. I wrote a major thesis, 0 details. It's a thesis strange
+Then, I'm rewriting that content again, so I can easily to read my notes understand what I want and what I mean in the next few days. PC usually cannot help me with management.
+And don't work well for PM work. Because I can create tasks in "excitement feeling."
 
 But students will struggle to digest that task description. The second stage is done.
 
 
-Stage 3 related to combining few tasks for one intern. So he can know that he will work on Task1, then Task2, then Task3...
-With this approach I can plan his workload for a weeks in future.
+Stage 3 related to combining a few tasks for one intern. So he can know that he will work on Task1, then Task2, then Task3...
+With this approach, I can plan his workload for weeks in the future.
 
-Later, when I'll move my tasks from paper, to GitHub, I also will create few simple tasks from scratch.
+Later, when I'll move my tasks from paper to GitHub, I also will create a few simple tasks from scratch.
 
 
 Like "to add details to Readme file", "improve documentation", "add some tests",
 Fix todos or remove duplicates, etc.
 
-Also! I need to have more focus at documentation. [I worte an article about documentation]
+Also! I need to have more focus on documentation. [I wrote an article about documentation]
 
 So, reducing time on my PC desk or without Internet I make more complex and detailed tasks explanation for my interns.
 
-It helps to my team members. So at this summer I should spend more time hiking and work on a fresh air without laptop and email distractions ;)
+It helps my team members. So at this summer I should spend more time hiking and work on a fresh air without laptop and email distractions ;)
 
 
-I'm not just moving my tasks from paper to github issue,s and creating big common tasks, like
+I'm not just moving my tasks from paper to GitHub issue,s and creating big common tasks, like
 
-[intern name][week number][title] links to tasks -> it's also improving my workflow and whole development process, so I can assign a one main task then add in-process label to one subtask link with opened PR....
+[intern name][week number][title] links to tasks -> it's also improving my workflow and whole development process, so I can assign one main task then add an "in-process" label to one subtask link with opened PR...
 
-I'm sure it can expand team and reduce my work for 20% (maybe
+I'm sure it can expand the team and reduce my work for 20% (maybe
 
-Then I'll be able to get back to planning our work for a whole milestones forward. Be very happy when it happens. At notebook I'm creating tasks by this templates
+Then I'll be able to get back to planning our work for whole milestones forward. Be very happy when it happens. A notebook I'm creating tasks by these templates
 [repo name] -> [intern name] -> [task name] - [simple description]
 
 Then I can add tasks to Kanban boards - so it'll be a really good project manager work.
