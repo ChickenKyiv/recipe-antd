@@ -122,34 +122,7 @@ Search service - просто вывод данных в search form
 generator - move out. Eugene should do it? maybe move out everything at separated repo
 
 ---
-School
 
-What developers will learn to work in my company?
-- collaborate with Team Lead
-- use GitHub issues as a source of information and place for communication with the project manager
-- work at different projects, different git branches, open pull requests, merge code together and resolve merge conflicts on practice.
-- will try to work remote and organize themselves
-- try their skills at real projects. Example. if you know how to work with arrays !== to understand how to operate with data, that was received from the server.
-- will be able to use Summer/Spring/Winter time at an internship
-- collaborate with someone reviewing their code and apply changes on request
-'- discuss plans or create a plan of solving problems
-- will work at stressful startup environment - it's a very important and good experience.
-Will learn to code by solving real problems on real projects. Not just building another calculator of the phone book in 2019.
-I understand that a calculator is a great project to try a lot of different things and test your skills, but really - Calculator? Let's do something more cool with us.
-
-- I saw a demand of people that looking for coding experience
-- Spend a lot of time of thinking about how to solve it
-- Create a plan
-- pick a lot of data together at one place
-- simplify a process
-- add content marketing in order to promote this project
-- think about the automation process - CRM/sales processes
-- publish my idea at different places like hackernoon, product hunt, indie hackers and start to collect valuable feedback
-- screens of how I'm creating a new company at AngelList, entering data, etc. creating jobs - displaying my articles there...
-- adding to my main profile, adding Linkedin - measure results in 5-10 days, months.
-
-As a lot of default work(labor) will be automated soon - there will be a lot of mature people, that will learn to code and as mature people don't have troubles in working - they will need another process, that will be different from the basic learning process.
-They will want to gain skills that soon can be monetized - so they will easily skip a lot of important data, that you cannot to teach in a small amount of time. Usually, it requires years for learning. But they don't' have a lot of time to do it.
 ---
 Основной наш подход - это модулярность. Т.е. данный проект является не одним проектом(как может показаться).
 В данный момент я хочу делать схему отдельно от JS. Может в дальнейшем мы чтото и поменяем, т.к. JS + GraphQL это очень мощная связка. Но это будет в будущем.
