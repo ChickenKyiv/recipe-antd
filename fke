@@ -1,0 +1,363 @@
+Инвестор.
+
+Красота моего технического подхода также позволяет уменьшить скиллы будущих фуллтайм разработчиков.
+С одной стороны - команды могут иметь различные небольшие знания в программировании и быстро двигать наш код вперед.
+С другой стороны низкий скилл создает проблемы по надзору и контролю над работой команды.
+Это также разширяет тип сотрудников, которые внутри команды. Нужен будет и ПМ и тестировщик и лидер, который будет принимать коде изменения. Писать новые задачи и частично, вместе с ПМ сделить за ходом их исполнения.
+Но сейчас мне не нужен разработчик с зарплатой в 3000 долларов - это эквивалент 5-8 лет работы.
+Это сеньйор Энжинер, поработавший в больших компаниях.
+На данном этапе работы мне будет достаточно несколько разноплановых миддл девелоперов и каждая из таких команд, работая фуллтайм
+ сможет делать и выкладывать мелкие проекты.модули за несколько месяцев.
+
+Еще и цена ошибок ошибки тут не велика. Ничего большого.сложного, что может сломаться и заморозить процесс разработки сейчас отсутствует.
+При наличии нескольких проджект менеджеров и людей, которые помогут мне или полностью заберут у меня процесс создания технической документации - позволит командам работать в более простом процессе - этот процесс будет более кристал клеар для
+разработчиков и нас, главных менеджеров, которые следят за полным процессом....
+
+---
+
+Danielle's Project is a pretty similar from the begining steps that we're taking with Ashley project.
+
+She also will be able ()by my opinion to help us with DB improvements(later) for now(think we will prepare some data for her, using the same scripts, that my team created for my project)
+Then we will create a backend system for her project, similar to approach, proposed to both Ashley/Arthur rpojects.
+Then I understand that first frontend pages/views should be also similar logic as well.
+
+----
+
+What is bothering me -- Italian language of data. if we just add it and display - no problems here. But it will add an additional level of complexity, if we'll decivede to add localization functionalty.
+It can be solved with small steps, by improving my code modules, but it's definately a part that I know how to do, but we
+never started it. Only in my head for future. It may not a big problem but will take an additional time to do.
+
+---
+Frontend - that will display data and search/filtration functionality.
+
+Ashley -- how we can, need to implement search module at your project - but please keep it simple. Because whole search is another big topic to discuss together later.
+
+---
+Examples index file with long information about what items, connected to what files. Maybe also connection to projects.
+
+Right now I move only one teammate - she will work with DB+backend system. it will be slow from the begining, but we can extend team, working on that part in the future.
+
+Danielle --> will you be able to export Italian DB into JSON file or csv file to me? This will save some time for me and for my company.
+
+----
+Ashley
+Ok, your data in process right now. With my next approach that data will be transfered into backend, based on graphql server(before uploading data into database, we will create a scheme that will work with that data should be improved, extended, in order to meet your project requirements)
+
+---
+We can discuss few blocks from your schema. But not all of them. Because MVP is our goal. We cannot think about all aspects.
+---
+
+We need to split your functionality into small and understandable blocks/modules. They should work independently. It will help to limit our work and start to work on a few modules in parallel and independently.
+If we will do a good documentation like as part of our collaboration - it will save huge amount of time of my team mmembers.
+So let's start to work together closely and have a lot of small chitchats, that can make picture of your project as clear as possible.
+
+Think about what will be next and how to explain it to developers. Next steps, assuming that they don't know a lot about food data theory.
+So annything should have a detailed explanation.
+----
+SOme teammates have troubles, working in remote environment. But what i see right now - future in remote work. So mastering skills
+related to working independently - it's 100% novice should have. Sure, standups and meetings is a cool thing, but it's just a small part of work as developer.
+Most times you will be dealing with code problems on your own. 1-to-1, nobody will be able to help you. So it's also important side of being independent, master discipline of working remote and taking with your teammates online.
+It will help at any cases - you'll became more solid as developer and be able to deal with code problmes more efficiantly//
+
+From my point of view - it's a similar routine, that can help later. Like a workout. You need to be focused and motivated in a long term goals. Another problem, related to passing interviews for an entry level jobs.
+Failing an anterview can upset an after graduated engineer. He/she can give up and switch into another profession. I saw it alot in my country.
+So it's very important to разжечь огонь внутри at future engineers hearts. And later he will be grateful to you for his whole life.
+Так как я благодарен тем, кто помог мне в начале пути.
+My first inspiration was Ruslan. He converted a whole autoparts factory into e-docs/online processes. He create a system from cratch in just 8 month working there.
+They pay him a good money and he brought an appartment after completing a contact. Then they hire him as CTO.
+He give me an opportunity to attend a practice with him as my team leader.
+
+Or Gleb Pyatin - srazy sociopath, that helps me to get my first shity coding job and start as developer on commercial projects.
+It was very hard period for me - I was devastated(no money, fiance left me).
+He was a shitty team lead, bad poker player with lydomany problems, but this is a names that I never forget.
+Maybe he teach me how to be a better manager on his example.
+
+My partner, Constantine - he shows me that I can raise my head, dream and implement my ideas into something real. He really was a booster for me --> all businesses, that i'm doing right noww - it's still upon his enfulence. Fuck you, Constantine!
+
+I hate you for closing our collaboration --> but it was my decision as well.
+Hope that in a few years we will fix our problems - that we generated being young and stupid, and maybe we will co-found something amazing together again.
+
+---
+SD website
+
+If you like our project, you can help us to spread a word. Please start our repository at GitHub. We need to have 100 stars at Github in order to submit our application to OpenCollective.com
+So we can collect payments and make our finances open. Because I don't want to have something hidden. especially finances.
+
+Как можно помочь джуну студенту найти работу? Можно собрать их портфолио - создать генератор портфоли у меня из ресурса github
+profile image - face
+resume at markdown format
+create slack channel #work
+
+Contribute to OSS projects.
+List of repositories, that we working on or worked before.
+Good and bad skills
+Time of working with me
+Reports: what was done, what he knows, what tasks working with us.
+List of PRs and how he communicate inside of our repositories.
+---
+Assistant
+Вначале ваши скиллы должны помочь мне быстрее обрабатывать контент который я создаю и при этом помочь мне выдавать готовые статьи чаще и быстрее.
+Тоесть у меня есть много контента, но он не закончен. Его нельзя сейчас выкладывать на всеобщее обозрение. It's very raw and not ready to publish online.
+Я думаю что мы с вами должны выложить около 5 статей вместе а потом уже будем думать о новых действиях.задачах. Т.к. у меня не было ассистанта с ноября - мы будем настраивать наш процесс взаимодействия заново.
+---
+GS
+View Grocery -- full/short
+View Recipe -- full/short
+
+Display all groceries
+Display all recipes
+Display random grocery list
+Display random recipe
+
+Display complex recipe
+Display complex grocery list
+
+GS - simple micro for displaying data
+Calendar - simple micro for displaying data
+Recipe - simple micro for display data at frontend
+
+Описание базовых методов для каждого файла позволит ускорить вывод и улучшить sd для внешних проектов.
+
+Search service - просто вывод данных в search form
+generator - move out. Eugene should do it? maybe move out everything at separated repo
+
+---
+School
+
+What developers will learn working in my company?
+- collaborate with Team Lead
+- use github issues as source of information and place for communication with project manager
+- work at different projects, different git branches, open pull requests, merge code together and resolve merge conflicts on practice.
+- will try to work remote and organize themself
+- try their skills at real progects. Example. if you know how to work with arrays !== to understand how to operate with data, that was received from server.
+- will be able to use Summer/Spring/Winter time at internship
+- collaborate with someone who reviewing their code and apply changes on request
+'- discuss plans or create a plan of solving problems
+- will work at stressful startup environment - it's very important and good experience.
+Will learn to code by solving real problems on a real projects. Not just building another calculator of phone book at 2019.
+I understand that calculator is a great project to try a lot of different things and test your skills, but really - Calculator? Let's do something more cool with us.
+
+- I saw a demand of people that looking for coding experience
+- Spend a lot of time of thinking about how to solve it
+- Create a plan
+- pick a lot of data together at one place
+- simplify a process
+- add content marketing in order to promote this project
+- think about automation process - CRM/sales processes
+- publish my idea at different places like hackernoon, product hunt, indie hackers and start to collect valuable feedback
+- screens of how i'm creating a new company at AngelList, entering data, etc. creating jobs - displaying my articles there...
+- adding to my main profile, adding Linkedin - measure results in 5-10 days, months.
+
+As a lot of default work(labour) will be automated soon - there will be a lot of mature people, that will learn to code and as mature people don't have troubles in working - they will need another process, that will be different from basic learning process.
+They will want to gain skills that soon can be monetized - so they will easily skip a lot of important data, that you cannot to teach in small amount of time. Usually it require years for learning. But they dont' have a lot of time to do it.
+---
+Основной наш подход - это модулярность. Т.е. данный проект является не одним проектом(как может показаться).
+В данный момент я хочу делать схему отдельно от JS. Может в дальнейшем мы чтото и поменяем, т.к. JS + GraphQL это очень мощная связка. Но это будет в будущем.
+Представьте себе такую ситуацию - Есть одна схема, потом мы меняем быстро схему на другую. И все при этом должно работать без особых ошибок. Может показатсья сейчас этот подход будет сложным, но в дальнейшем вы поймете то удобство, к которому мы должны прийти.
+еще я должен буду настроить работу наших роботизированных скриптов, которые должны обеспечить нам помощь, для работы многих разработчиков на одном проекте. Эдебо, Эльнур, Эвген - могут подключится к этому сервису.
+
+Food DB as service wit an ability to deploy at AWS as separated instance.
+
+Первая наша цель - иметь возможность вытаскивать данные. Мы не будем их модифицировать вначале.
+При следующих итерациях, когда система будет отлажена, и нам не нужно будет ее очень часто модифицировать -- мы перейдем к модификации данных.
+Right now our sorce of data - > it's just a json. Сделанно это специально, чтобы data layer was very easy to modify and have a high level of abstraction. In the next releases, we will use a handwired MongoDB or other NoSQL like DynamoDB.
+
+Вынос генератора также облегчит работу с graphql server - и мы бы могли генерировать файлы outside of sd. Using promises and callbacks -- чтобы мы могли генерировать файлы сразу внутри нашего сервера.
+Первым шагом для расширения схемы будут Айтемы
+Отдельно от них мы протестируем структуру Measurements systems.
+Отдельно мы пробуем взять целую большую базу USFoodAsociation и создать схему для нее.
+Чуть позже один из наших интернов закончит работу со списком констант, которые помогут описать основные методы, которые у нас были в прошлой версии и которые выдают.изменяют данные в фронтенд.
+
+Нам также необходимо будет просмотреть задачи внутри github repository и понять, какие задачи уже были сделанны, а какие нет и их нужно описать более детально, чтобы вам было понятно, что именно нужно делтьа в дальнейшем.
+
+еще у нас есть итальянская база, для которых мы сделаем схему и попробуем настроить поиск по ней.
+В дальнейшем посик будет дублирован для других схем.систем.проектов, поэтому его нужно делать хорошо и выносить функционалЮ, который сможет переиспользоваться в других модуляхю.
+
+Еще у нас есть большая база рецептов, которая еще не готова к использованию
+
+Локализация очень важная часть, но она должна быть частично независима, потому что ее же прийдется добавить по всем таблицам, имеющимся у нас и хранящая текстовые данные о еде.
+
+Фильтрация - будет нужна хорошая часть, отдельная также. Потому что этот функционал будет очень разноплановый в наших проектах.
+
+Сложный рецепт - это тоже большая и сложная задача. особенно при соединении рецептов и автоматической генерации гросери листов.
+
+Конвертация данных между schemas entity will be a complex thing as well.
+
+Есть неплохая документация в моих Readme with releases plan. Ее конечно недостаточно, но это может позволить понять некоторы функционал который мы делаемю
+Вот также список функций предыдущего сервера нашего. Моджет быть мы можем взять эти функции и начать их пошагово добавлять в наш сервер.
+
+Для таких больших частей как поиск.фильтрация.локализация.
+Юниты скорее всего нужны будут отдельные server instances - so it will be much easier for us to operate development process of this functionality.
+
+---
+I think that I explain this before. But I cannot find that text. If you read my articles about interns you knows that i was contacted by a lot of students. And I made a long interviews with them.
+And I think I can judge not only about local problems, that this students facing.
+I've talked with students worldwide and everybody realizing that real experience matters most.
+You also need to know that only one local intern are actually from Ukraine.
+It's so sad. In Ukraine we don't have a habit/tradition, wgere students looks for practice in a spare time between semesters.
+It's about mentality, traditions, buerocracy...
+Vadim(@vadim.putrov) showing a really big progress at my team. Another guy, from his college group was also interested to join my team. Btw, I propose an equity to Vadim, because I think it's important to motivate and support talent and praise hard work.
+So that second guy was interested in practice, but later he realized, that his main goal is not to get a real experience. His goal is to get A`s at college and this is two different kind of tasks.
+While we learn in last year - Vadim received most of my attention and worked on so different tasks/modules/technologies - so he know a coding machine. For sure, he need to improve his skills, no doubt to that. But in last year he master a lot of things and his experience have a good raising bar.
+
+I know how hard is to get A`s in college. I have all A`s in my college diploma. It didn't help me to get a coding job, but was a good foundation later. I even wouldn't start to talk about local teachers of programminglanguages. Their skills quite ofter outdated and very limited. They don't read latest coding news, or explore new tools.(I'm talking about most of them ~95%)
+They didn't follow trends and don't have a real commercial experience.
+We also have a lot of buerocracy in our education system in Ukraine. When I was searching for local interns I wrote to a few univercities as I don't have shame to ask something.
+
+Most of them just don't reply to me. Other 2 teachers or coding professors told me to prepair a fancy presentation. So they can start a meeting, review my application, check my credentials(passport) - because they are scared. I can be a scummer. So I should be very RReliable, because any issues with me can harm to their univercity brand. So they more interested to not start anything rather than fail.
+Cave rules, so old fashion, you know...
+
+Only one teacher was progressive enough to listen me, hear my ideas and give me an opportunity to talk offline with their 10 best coding students. And I was happy to be there. But friends, via Internet I can reach more people, talk with them via email.
+It's not about tens people, it's hundreds of people, girls and boys worldwide. And it's more easy for me. I don't need to up my ass from my table in order to do it.
+[link to student loan debt website]
+
+I see a different situation in USA. Ukraine have a "free" education + corruption in education as well. Teachers have a small offending salary and some of them cannot refuse to convert money into good marks.
+
+In US loan dept is a huge problem. And anyone, who decides to get a degree and got an educational loan, realize that in 5 years he will должен a lot of money. And they don't have a lot of time for picking different career strategies or wait for a miracle.
+
+This is why an online education in USA is a big thing. It is delivering result, skills, degree and save a lot of cash.
+It's not only about college costs. It's also living and eating costs. I was talking with one student from USA - he found a food delivery startup to campuses.
+Usually students eating at pretty unstable schedule. And food in campuses costs them ~$1500 per months. He want to disrupt this market and with a big number of students that want  to subsribe to monthly delivery of food - he being able to deliver food from restaurants.
+a lot of restaurants don't have a lot of users - and it raise a cost of food there. But they can lover prises if they will have a lot of users. And students will be able to eat food with a better quality, always warm and delivered in preferable time. Hope his project doing well - it's a pretty good idea and market that is very profitable.
+
+Actually, paid education in Ukrainians univercities costs equally to Udemy`s nano degree program in computer science.
+It also gives a pretty unique opportunity - people that finished nano degree can also pass examps in Alabama Tech Univercity. So people can have a computer science degree - it's a huge and very competitive opportunity in the current tech market.
+
+
+This is why there a lot of difference between US students and Ukrainian students. Each student in US spend summers attending internships and 0 students wish or think about doing it.
+They better will go to work to MacDonalds, have their hards burn and in a few months(2-3) will be able to purchase a new smartphone or laptop. Anyone knows that if someone have scars at hands - he was working at MD and burn hands by making friels in oil.
+So US student that care - before finishing univercity/college and getting a degree - has a few records at resume about working in companies, from Fortune 500 list.
+
+----
+
+
+With this "school" i see good signs. Because practical approach(especially for a low level of coding) working better, than a default "studying process" - by remembering.
+Example: At Coding Academy, where I was learning, I need to pass a coding patterns exam - C# language.
+
+And only at examp I realized that I know how to solve my task at PHP better than on C#. Because I code at PHP more often. And I was like: Why I'm teaching/learning how to do it on C#? I made a decision to be a PHP deve, I don't want to play with C#... And a lot of my current interns like hey, let's do my projects differently. Let's remove Blah Blah and add Blah Blah.
+Because it's more efficient and less stupid to do - that we did before with our previous interns. And I agree with their ideas/feedbacks. They are right, but when it comes to realization their bright ideas into code - it's usually hard to do.
+And it's not only about solving coding problems. In my country I see a huge opportunities on creating a custom electronic devices.
+Companies like Codisoft, PetCube, Concepter, Ajax doing a pretty good devices, that sold worldwide. Design them locally and produce mass-market in China. And selling in USA.
+Because we have a pretty big pile of people with good STEM education. Some of them old and have a low level of expectations/salaries. They can make a cool hardware and that hardware are more complex that just an Arduino scheme. Example: Some people in order to save money on TV programms, building a sattelite receivers, in order to steal data from satellite and watch a TV for free ;)
+
+---
+[one of my next article to publish]
+
+I got list of questions from TechStar company investor. I don't know if I can mention his name, but I will share this article to him.
+Again, these questions helps a lot to understand a problems, that this project can face in a real world.
+I think it's time to share my concept. I want to open a coding school. Idea is to teach students, that have a basic coding knowledge on practice. Only practice. Hardcore hands on board, coffee in cup and start to use your brain to deal with problems.
+Btw, we actively discussing this project with awesome HN community section. You definately should to register there: [link to sign up]
+[link to my thread]
+
+This article is the 4th in my series, so for a previous parts, go here. [links to articles]
+[list of questions]
+
+## Source of 'real tasks' at scale?
+Source of real tasks at scale is not an easy thing for sure. I was struggling with onboarding to my backend project and getting first tasks done. Maybein future, I will need to have help from another project manager that will track the progress of interns teammates. Another way is to promote one of interns to that module Team Leader.
+Documentation is also crucial part of the process [link]
+
+I split our code at small parts. Each has separated space at GitHub.
+
+After failing my first interns I find a solution I start to understand how to improve my process and reduce level of entry of them. Interns usually stuck at setting up a local environment and other preparation that is important to start. So everything should be as simple as possible to do. If you want to add interns into a big ongoing project - you will get a lot of pain. Everybody knows it, but I didn't realize that onboarding is so important.
+At the begining.
+In order to deal with this kind of problems - I split my project into small modules/chunks.
+To be honest - these modules are the cleanest code that I have ;)
+
+I alos added some "robotic" scripts. Whne interns push their code changes --> we have tests and builds. We use Jest module for Q&A and Travis CI that help us to fight bugs.
+Then completed modules are published at npmjs.org and imported into our projects.
+It also created very easy to understand development workflow.
+Example: you can assign a file uploader form as signle task(both frontend and backend) or you can split it into 5-10 small tasks. You will get a better solution, that intern can do really easy.
+
+Second way is more preferable. But it takes more time from my side.
+
+
+## How to monetize this project?
+It will be free for students, small fee for companies that want to teach their team members. Maybe we will launch small jobboard with "featured" section --> where companies can post their jobs.
+
+I don't want to make money by charging students. At least for now. Maybe we will change our process and will have paid plans in future. But I don't want to do it. I'm getting some of tasks done at my projects. So it is like an exchange between students and me.
+We will need money for hiring other teachers or pay stipend to our students. But it is long term goals. By paying stipend to our students I will feel "guilt free" (because some people think that I'm using this students, by not paying them).
+But it is only can be done when this idea start to be profitable only. I'm interested to explore projects like GitCoin and OpenCollective.
+Both of these projects also will help us to improve our management process. It is open to everyone and you should have good tasks descriptions, in order to use GitCoin system.
+So documentation is also important. And I like to know that this approach will make out finances open. It's cool and good move.
+
+Major part of my interns are from developing countries. So I don't want to reduce number of people, by adding a price tag.
+It is better to helping them to learn for free. It is my official position.
+Also, there a lot of cool and free places for learn coding. Or some of them costs very cheaply.
+But if you know what to google, you can find tons of free content. Medium, YouTube, are some places where I'm learning each day something new.
+
+But to be honest - I want to think about monetization only when basic steps will be finished. I'm sure there will be a lot of pivots at the next 6 months. We have saying: "Don't think how you'll use a bear fur, before killing him"
+(Don't kill bears, please -- they cute and adorable) [picture]
+
+I think right now I can easy handle 20-30 people at the same time. It is require part of my time. If I didn't code myself frequently - I can manage even more. Assign tasks, make code review, etc.
+
+If I will have more people at the same time, for example with 50 people I will add more branching/hierarchy.
+Interns that spend more time with me will became leaders: review code changes and handle basic questions from newbies of our small projects.
+
+In future, when I will see that number of interns will be overwhelming for me. I will add additional qualification it will lover number of people that we need to onboard and increase thier skill level.
+More skilled developers --> less time to spend. It will be very happy time for me, actually.
+
+I have an assumption that companies will limited resources like mine also looking for coding help. Maybe we can forward some of interns to that companies. It will be like a recommendation from me -> certificate that this candidate can be a good asset.
+
+Enabling a jobboard can also help people that looking for an entry level job. There a lot of jobboards for sure, but it can make is some bucks.
+[link to article]
+
+If companies want to test-drive their future employees can be a source of money too. It is like a remote employee validation service - if you not ready to put intern into your office right now. So I will train their developers. I think with our price model it will be very competitive.
+They will lover level costs for HR, onboarding, electricity, PC, chair, coffee, etc.
+
+
+Company also can save time. Because I will be responsible for training. I will handle skill check of that people.
+And if I find out some lack of skills --> I will teach tehem.
+
+We keep everything open to public at GitHub. So it can be easy to see an actual progress that was done. Commits cannot lie, you know.
+
+
+## How to overcome the hesitation of real customers?
+
+I'm testing this approach at my own projects. So it's doable. But it require some homework for sure.
+Big and small companies hiring after-grads(entry level jobs). I see this trend and assume there a lot of possibilities.
+
+It can work if code has a good structure.
+Good documentation and manager -- it can work. If someone want to incorporate interns but if it is hard to od - it can be a good sign that your code base actually has a big tech dept and noone(skilled or not) as new employee will be able to deal with it.
+Trust me -- even experienced developers will burn your money with bad structure. So it's not related to experience.
+
+More details should melt this ice of fear to deal with entry level developers.
+I still think that some companies, that have small amount of money is a good way yo understand if they need to hire a new people or not. This test drive can help to figure it out.
+
+
+## How can you maintain QA on a project.
+- i don't have a simple answer here. It's related to previous questions and project configuration. Yes, I agree that QA will save a lot of time.
+I'm trying to figure it out on practice, receving feedback and making improvements in our process.
+
+For tests we having a separated place for them. Right now it's hard to cover all of our functionality with good tests. But we're aware about it and making small improvements.
+
+This question require more time to think about it.
+---
+New version of answers. As I create a bunch of posts at this forum - I realize what problems we have and how management process should be improved and solve some of that issues.
+Maybe part of conversations should be reduced at our GitHub tasks. If I'll create a lot of tasks in bulk and someone helping me with management - I can have more easy workflow.
+
+1) Interns don't work fulltime. So it is less moves that managing full time people [at scale]
+2) with a proper documentation, a lot of their questions can be replied with links only to documentation
+3) sometimes, if not to reply to their questions immediately - they can handle it without my input. Instead of replying quickly -> it's better to extend documentaion.
+As our process evolving, I'm became more confident to keep big number of contributors. I mean if they can chat together and help each other.
+They will spend similar amount of time, working on tasks, but my time can be reduced
+
+So, new approach is: with each new intern you should prepare at least 5-10 tasks ahead.
+And notify a teammember about it. With proper tasks description and help from experienced members -- onboarding can be less time consuming for me.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+So for me it can be a side stream of income and interns will help to build my projects.
+And some talented and hard working people will have an opportunity to start their developer career.
