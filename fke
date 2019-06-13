@@ -163,55 +163,18 @@ Right now our sorce of data - > it's just a json. Сделанно это спе
 Юниты скорее всего нужны будут отдельные server instances - so it will be much easier for us to operate development process of this functionality.
 
 ---
-I think that I explain this before. But I cannot find that text. If you read my articles about interns you know that I was contacted by a lot of students. And I made long interviews with them.
-And I think I can judge not only about local problems, that these students facing.
-I've talked with students worldwide and everybody realizing that real experience matters most.
-You also need to know that only one local intern is actually from Ukraine.
-It's so sad. In Ukraine, we don't have a habit/tradition, where students look for practice in spare time between semesters.
-It's about mentality, traditions, bureaucracy...
-Vadim(@vadim.putrov) showing really big progress at my team. Another guy, from his college group, was also interested to join my team. Btw, I propose equity to Vadim, because I think it's important to motivate and support talent and praise hard work.
-So that second guy was interested in the practice, but later he realized, that his main goal is not to get a real experience. His goal is to get A`s at college and this is two different kinds of tasks.
-While we learn in last year - Vadim received most of my attention and worked on so different tasks/modules/technologies - so he knows a coding machine. For sure, he needs to improve his skills, no doubt to that. But in last year he masters a lot of things and his experience have a good raising bar.
-
-I know how hard is to get A`s in college. I have all A`s in my college diploma. It didn't help me to get a coding job but was a good foundation later. I even wouldn't start to talk about local teachers of programming languages. Their skills are quite ofter outdated and very limited. They don't read the latest coding news or explore new tools. (I'm talking about most of them ~95%)
-They didn't follow trends and don't have a real commercial experience.
-We also have a lot of bureaucracy in our education system in Ukraine. When I was searching for local interns I wrote to a few universities as I don't have shame to ask something.
-
-Most of them just don't reply to me. Other 2 teachers or coding professors told me to prepare a fancy presentation. So they can start a meeting, review my application, check my credentials(passport) - because they are scared. I can be a scummer. So I should be very reliable because any issues with me can harm to their university brand. So they more interested to not start anything rather than fail.
-Cave rules, so old fashion, you know...
-
-Only one teacher was progressive enough to listen to me, hear my ideas and give me an opportunity to talk offline with their 10 best coding students. And I was happy to be there. But friends, via the Internet I can reach more people, talk with them via email.
-It's not about tens people, it's hundreds of people, girls, and boys worldwide. And it's more easy for me. I don't need to up my ass from my table in order to do it.
-[link to student loan debt website]
-
-I see a different situation in the USA. Ukraine has a "free" education + corruption in education as well. Teachers have a small offending salary and some of them cannot refuse to convert money into good marks.
-
-In the US loan debt is a huge problem. And anyone, who decides to get a degree and got an educational loan, realizes that in 5 years he will должен a lot of money. And they don't have a lot of time for picking different career strategies or wait for a miracle.
-
-This is why online education in the USA is a big thing. It is delivering result, skills, degree and save a lot of cash.
-It's not only about college costs. It's also living costs and costs for preparing food. I was talking with one student from the USA - he found a food delivery startup to campuses.
-Usually, students eating at a pretty unstable schedule. And food on campuses costs them ~$1500 per months. He wants to disrupt this market and with a big number of students that want to subscribe to a monthly delivery of food - he is able to deliver food from restaurants.
-a lot of restaurants don't have a lot of users - and it raises the cost of food there. But they can lower prices if they will have a lot of users. And students will be able to eat food with better quality, always warm and delivered in a preferable time. Hope his project doing well - it's a pretty good idea and market that is very profitable.
-
-Actually, paid education in Ukrainians universities costs equally to Udemy`s nano degree program in computer science.
-It also gives a pretty unique opportunity - people that finished nano degree can also pass exams in Alabama Tech University. So people can have a computer science degree - it's a huge and very competitive opportunity in the current tech market.
-
-
-This is why they're a lot of difference between US students and Ukrainian students. Each student in the US spend summers attending internships and 0 students wish or think about doing it.
-They better will go to work to MacDonalds, have their hards burn and in a few months(2-3) will be able to purchase a new smartphone or laptop. Anyone knows that if someone has scars at hands - he was working at MD and burn hands by making fries in oil.
-So US student that care - before finishing university/college and getting a degree - has a few records at resume about working in companies, from Fortune 500 list.
 
 ----
 
 
-With this "school" i see good signs. Because practical approach(especially for a low level of coding) working better, than a default "studying process" - by remembering.
+With this "school" I see good signs. Because practical approach(especially for a low level of coding) working better than a default "studying process" - by remembering.
 Example: At Coding Academy, where I was learning, I need to pass a coding patterns exam - C# language.
 
-And only at examp I realized that I know how to solve my task at PHP better than on C#. Because I code at PHP more often. And I was like: Why I'm teaching/learning how to do it on C#? I made a decision to be a PHP deve, I don't want to play with C#... And a lot of my current interns like hey, let's do my projects differently. Let's remove Blah Blah and add Blah Blah.
-Because it's more efficient and less stupid to do - that we did before with our previous interns. And I agree with their ideas/feedbacks. They are right, but when it comes to realization their bright ideas into code - it's usually hard to do.
-And it's not only about solving coding problems. In my country I see a huge opportunities on creating a custom electronic devices.
-Companies like Codisoft, PetCube, Concepter, Ajax doing a pretty good devices, that sold worldwide. Design them locally and produce mass-market in China. And selling in USA.
-Because we have a pretty big pile of people with good STEM education. Some of them old and have a low level of expectations/salaries. They can make a cool hardware and that hardware are more complex that just an Arduino scheme. Example: Some people in order to save money on TV programms, building a sattelite receivers, in order to steal data from satellite and watch a TV for free ;)
+And only at the exam, I realized that I know how to solve my task at PHP better than on C#. Because I code at PHP more often. And I was like: Why I'm teaching/learning how to do it on C#? I made a decision to be a PHP dev, I don't want to play with C#... And a lot of my current interns like hey, let's do my projects differently. Let's remove Blah Blah and add Blah Blah.
+Because it's more efficient and less stupid to do - that we did before with our previous interns. And I agree with their ideas/feedbacks. They are right, but when it comes to realizing their bright ideas into code - it's usually hard to do.
+And it's not only about solving coding problems. In my country, I see huge opportunities for creating custom electronic devices.
+Companies like Codisoft, PetCube, Concepter, Ajax doing pretty good devices, that sold worldwide. Design them locally and produce mass-market in China. And selling in the USA.
+Because we have a pretty big pile of people with good STEM education. Some of the old and have a low level of expectations/salaries. They can make cool hardware and that hardware are more complex than just an Arduino scheme. Example: Some people in order to save money on TV programs, building satellite receivers, in order to steal data from satellite and watch a TV for free ;)
 
 ---
 [one of my next article to publish]
