@@ -48,11 +48,11 @@ We can discuss few blocks from your schema. But not all of them. Because MVP is 
 ---
 
 We need to split your functionality into small and understandable blocks/modules. They should work independently. It will help to limit our work and start to work on a few modules in parallel and independently.
-If we will do a good documentation like as part of our collaboration - it will save huge amount of time of my team mmembers.
-So let's start to work together closely and have a lot of small chitchats, that can make picture of your project as clear as possible.
+If we will do good documentation like as part of our collaboration - it will save a huge amount of time of my team members.
+So let's start to work together closely and have a lot of small chitchats, that can make a picture of your project as clear as possible.
 
 Think about what will be next and how to explain it to developers. Next steps, assuming that they don't know a lot about food data theory.
-So annything should have a detailed explanation.
+So anything should have a detailed explanation.
 ----
 SOme teammates have troubles, working in remote environment. But what i see right now - future in remote work. So mastering skills
 related to working independently - it's 100% novice should have. Sure, standups and meetings is a cool thing, but it's just a small part of work as developer.
@@ -124,18 +124,18 @@ generator - move out. Eugene should do it? maybe move out everything at separate
 ---
 School
 
-What developers will learn working in my company?
+What developers will learn to work in my company?
 - collaborate with Team Lead
-- use github issues as source of information and place for communication with project manager
+- use GitHub issues as a source of information and place for communication with the project manager
 - work at different projects, different git branches, open pull requests, merge code together and resolve merge conflicts on practice.
-- will try to work remote and organize themself
-- try their skills at real progects. Example. if you know how to work with arrays !== to understand how to operate with data, that was received from server.
-- will be able to use Summer/Spring/Winter time at internship
-- collaborate with someone who reviewing their code and apply changes on request
+- will try to work remote and organize themselves
+- try their skills at real projects. Example. if you know how to work with arrays !== to understand how to operate with data, that was received from the server.
+- will be able to use Summer/Spring/Winter time at an internship
+- collaborate with someone reviewing their code and apply changes on request
 '- discuss plans or create a plan of solving problems
-- will work at stressful startup environment - it's very important and good experience.
-Will learn to code by solving real problems on a real projects. Not just building another calculator of phone book at 2019.
-I understand that calculator is a great project to try a lot of different things and test your skills, but really - Calculator? Let's do something more cool with us.
+- will work at stressful startup environment - it's a very important and good experience.
+Will learn to code by solving real problems on real projects. Not just building another calculator of the phone book in 2019.
+I understand that a calculator is a great project to try a lot of different things and test your skills, but really - Calculator? Let's do something more cool with us.
 
 - I saw a demand of people that looking for coding experience
 - Spend a lot of time of thinking about how to solve it
@@ -143,13 +143,13 @@ I understand that calculator is a great project to try a lot of different things
 - pick a lot of data together at one place
 - simplify a process
 - add content marketing in order to promote this project
-- think about automation process - CRM/sales processes
+- think about the automation process - CRM/sales processes
 - publish my idea at different places like hackernoon, product hunt, indie hackers and start to collect valuable feedback
-- screens of how i'm creating a new company at AngelList, entering data, etc. creating jobs - displaying my articles there...
+- screens of how I'm creating a new company at AngelList, entering data, etc. creating jobs - displaying my articles there...
 - adding to my main profile, adding Linkedin - measure results in 5-10 days, months.
 
-As a lot of default work(labour) will be automated soon - there will be a lot of mature people, that will learn to code and as mature people don't have troubles in working - they will need another process, that will be different from basic learning process.
-They will want to gain skills that soon can be monetized - so they will easily skip a lot of important data, that you cannot to teach in small amount of time. Usually it require years for learning. But they dont' have a lot of time to do it.
+As a lot of default work(labor) will be automated soon - there will be a lot of mature people, that will learn to code and as mature people don't have troubles in working - they will need another process, that will be different from the basic learning process.
+They will want to gain skills that soon can be monetized - so they will easily skip a lot of important data, that you cannot to teach in a small amount of time. Usually, it requires years for learning. But they don't' have a lot of time to do it.
 ---
 Основной наш подход - это модулярность. Т.е. данный проект является не одним проектом(как может показаться).
 В данный момент я хочу делать схему отдельно от JS. Может в дальнейшем мы чтото и поменяем, т.к. JS + GraphQL это очень мощная связка. Но это будет в будущем.
