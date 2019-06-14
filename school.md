@@ -196,12 +196,8 @@ My assumption is: если interview will be more serious, and i will be more "b
 
 ----
 
-1) I need to share stuff that i collected in the last few years. Or my head will explode ;)
-2) Money independence. After failing my prev company I decide to not go to 9-5 job and my friends supporting me financially. So I need to make it work :)
-3) Health/fitness. I need to get in shape. At least 1/5 of my best form will be enough for now. Soon or later I should complete my 4th marathon.
-4) I need to focus on money-making moves(it was a taboo for a few years) Find investors, incorporate company at EU
-5) Continue to write my articles. Soon it will be 80. And hope before June 1st It will be around 100.
-6) Launch my school, in order to strike back to Skillshare. details: https://hackernoon.com/skillshar...
+
+
 ----
 QA? Know Jest -> create simple tests with React -> test our components. Improve our code quality and make our projects.
 ----
