@@ -11,6 +11,6 @@ const fetchUserData = (userId, accessToken) => {
       .catch((error) => {
         reject(error)
       })
-    })
+  })
 }
 export default fetchUserData

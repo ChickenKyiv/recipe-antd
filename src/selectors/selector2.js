@@ -1,4 +1,4 @@
-import axios from 'axios';
+import axios from 'axios'
 
 // we're using this file in order to organize our api calls.
 // later we'll use this file as source for moving into selector3.js - because it's have a better approach of handling our api calls
@@ -8,32 +8,27 @@ import axios from 'axios';
 
 import { API_ROOT } from './api-config'
 
-const serverURL = '';
-
-
-
-
+const serverURL = ''
 
 // aka chickenKyiv.getRandomRecipe()
-function getRandomRecipe(){
+function getRandomRecipe () {
   return ''
 }
 // aka chickenKyiv.getFirstFiveRecipes();
-function getFirstFiveRecipes(){
+function getFirstFiveRecipes () {
   return ''
 }
 
 // aka chickenKyiv.getFiveRandomIngredients();
-function getFiveRandomIngredients(){
+function getFiveRandomIngredients () {
   return ''
 }
 
-//@TODO i don't like this name too
+// @TODO i don't like this name too
 // aka chickenKyiv.getRecipe()[id];
-function getRecipeChickenKyivById( id ) {
+function getRecipeChickenKyivById (id) {
   return ''
 }
-
 
 let chickenKyivAPI = {
   getRandomRecipe,
@@ -42,13 +37,11 @@ let chickenKyivAPI = {
   getRecipeChickenKyivById
 }
 
-
 let GroceristarAPI = {
 
-};
+}
 
-
-// 
+//
 //
 //
 // GroceristarAPI.methodA = function() => {
@@ -58,5 +51,4 @@ let GroceristarAPI = {
 // };
 //
 
-
-export default GroceristarAPI;
+export default GroceristarAPI
