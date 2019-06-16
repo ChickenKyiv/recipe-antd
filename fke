@@ -13,47 +13,12 @@
 При наличии нескольких проджект менеджеров и людей, которые помогут мне или полностью заберут у меня процесс создания технической документации - позволит командам работать в более простом процессе - этот процесс будет более кристал клеар для
 разработчиков и нас, главных менеджеров, которые следят за полным процессом....
 
----
 
-Danielle's Project is a pretty similar from the begining steps that we're taking with Ashley project.
 
-She also will be able ()by my opinion to help us with DB improvements(later) for now(think we will prepare some data for her, using the same scripts, that my team created for my project)
-Then we will create a backend system for her project, similar to approach, proposed to both Ashley/Arthur rpojects.
-Then I understand that first frontend pages/views should be also similar logic as well.
+====================
+Examples index file with long information about what items, connected to what files. Maybe also a connection to projects.
+=============
 
-----
-
-What is bothering me -- Italian language of data. if we just add it and display - no problems here. But it will add an additional level of complexity, if we'll decivede to add localization functionalty.
-It can be solved with small steps, by improving my code modules, but it's definately a part that I know how to do, but we
-never started it. Only in my head for future. It may not a big problem but will take an additional time to do.
-
----
-Frontend - that will display data and search/filtration functionality.
-
-Ashley -- how we can, need to implement search module at your project - but please keep it simple. Because whole search is another big topic to discuss together later.
-
----
-Examples index file with long information about what items, connected to what files. Maybe also connection to projects.
-
-Right now I move only one teammate - she will work with DB+backend system. it will be slow from the begining, but we can extend team, working on that part in the future.
-
-Danielle --> will you be able to export Italian DB into JSON file or csv file to me? This will save some time for me and for my company.
-
-----
-Ashley
-Ok, your data in process right now. With my next approach that data will be transfered into backend, based on graphql server(before uploading data into database, we will create a scheme that will work with that data should be improved, extended, in order to meet your project requirements)
-
----
-We can discuss few blocks from your schema. But not all of them. Because MVP is our goal. We cannot think about all aspects.
----
-
-We need to split your functionality into small and understandable blocks/modules. They should work independently. It will help to limit our work and start to work on a few modules in parallel and independently.
-If we will do good documentation like as part of our collaboration - it will save a huge amount of time of my team members.
-So let's start to work together closely and have a lot of small chitchats, that can make a picture of your project as clear as possible.
-
-Think about what will be next and how to explain it to developers. Next steps, assuming that they don't know a lot about food data theory.
-So anything should have a detailed explanation.
-----
 
 
 
