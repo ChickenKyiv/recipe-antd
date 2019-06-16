@@ -1,7 +1,7 @@
 inspired by https://github.com/vishalpatel2890/recipeapp
 
-https://www.npmjs.com/package/react-image
-https://www.npmjs.com/package/react-image-overlay
+- https://www.npmjs.com/package/react-image
+- https://www.npmjs.com/package/react-image-overlay
 
 [![Build Status](https://travis-ci.org/ChickenKyiv/recipe-antd.svg?branch=master)](https://travis-ci.org/ChickenKyiv/recipe-antd)
 
@@ -52,17 +52,17 @@ Stretch goals:
 
 
 
-https://github.com/ant-design/ant-design-pro/blob/master/src/components/Ellipsis/index.js
-https://preview.pro.ant.design/form/basic-form
-https://pro.ant.design/components/AvatarList
-https://ant.design/components/tree/
-https://ant.design/components/calendar/
+- https://github.com/ant-design/ant-design-pro/blob/master/src/components/Ellipsis/index.js
+- https://preview.pro.ant.design/form/basic-form
+- https://pro.ant.design/components/AvatarList
+- https://ant.design/components/tree/
+- https://ant.design/components/calendar/
 
-https://ant.design/docs/spec/cases
+- https://ant.design/docs/spec/cases
 
-https://codeburst.io/ant-design-by-example-part-2-f006f7f34328
+- https://codeburst.io/ant-design-by-example-part-2-f006f7f34328
 
-https://ant.design/component docs
+- https://ant.design/component docs
 s/form/#components-form-demo-register
 
 ---

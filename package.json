@@ -1,6 +1,6 @@
 {
   "name": "recipe-antd-frontend-react-pages",
-  "version": "0.1.0",
+  "version": "0.1.6",
   "private": true,
   "dependencies": {
     "@groceristar/antd-showcase-components": "1.0.43",
