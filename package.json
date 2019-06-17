@@ -40,5 +40,8 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "snyk": true
+  "snyk": true,
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
 }
