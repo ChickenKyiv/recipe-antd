@@ -42,6 +42,6 @@
   ],
   "snyk": true,
   "devDependencies": {
-    "eslint": "5.16.0"
+    "eslint": "6.0.0"
   }
 }
