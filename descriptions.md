@@ -114,3 +114,37 @@ For static files we use js schemes for validation of our JSON files. Потом 
 
 После создание схзем мы сможем быстро перейти к gs-gql, ck-gql. еще мы сможем потом настроить связи между сущностями.
 Тесты помогут разобраться, какие компоненты fetch неработают в routes.  
+
+
+
+===
+Separation of inner  projects at sd/fetch at small projects. Having similar entry points, less includes, less cross-modules sections.
+
+Cool coding worflow for testing, error checking, management, etc.
+
+Code has ES6 style.
+
+Updated/limited description / short explanation of how modules/packages works.
+
+Separated point for play.js file, where you can console.log your methods and see how they react to you ;)
+
+Add methods, add comments to each method
+
+Add @TODO as place, where people can extend code as homework.
+
+Create a place for Glitch as online editor/entity to run your code. - JS Fiddle, CodePen, etc.
+
+
+Separated and more clear understanding of tests.
+
+Moving partially help us to conquer a Big Problems, Code Debt, that we faced with.
+
+Simple code helps to make quick process, releases, without static brain -> because everything all of our work is simple and clear.
+
+Index.js as starting point for exporting.
+
+All of our methods to the outside of our modules.
+
+
+ESLint keeping code clean. Husky keeping our code better
+Code Climate search for duplicates, todos, complex logic, etc.
