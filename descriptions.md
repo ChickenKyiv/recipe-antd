@@ -148,3 +148,134 @@ All of our methods to the outside of our modules.
 
 ESLint keeping code clean. Husky keeping our code better
 Code Climate search for duplicates, todos, complex logic, etc.
+
+
+===========
+
+
+вынос генератора out
+вынос парсера out
+как разбить sd файлы на более мелкое количество частей?
+
+вначале можно вынести проекты в отдельные модули в micro repo?
+как можно вернуть fetch в процесс разработки?
+то же микро позволит его облегчить и позволяет перейти на es6
+sd
+- Fetch
+  -- fake-api
+    --- react projects/ react components
+  -- graphql
+    --- react projects
+  -- showcase GL
+  -- showcase recipe
+
+JSON validator -- separated entity as well???
+
+SD -> projects -> separated, generated, validated files with tests, CI ???
+
+можно сделать статью, как мы готовим backend is JSON datasets
+
+convert to JSON using csv parser
+validate json
+create a new structures, if needed
+npm publish
+using generator, for creating a new structures, that can be used in code development
+
+файлы, генерируемые generator -> в fetch micro, чтобы все отдельно лежало с тестами вместе отдельными
+
+схемы сложных структур там тоже валидируются
+
+это уже можно подключать в React componetns, которые работают на вывод
+
+Потом идет генерация graphql schema потом соединение json c graphql для bzckend
+потом создание resolvers и мутации, которые уже будут изменять данные
+
+sd -> graphql micro that return complex files. fetch -> graphql methods that grab that JSON files and return via get methods
+
+SD - graphql micro with that methods, that change our structure at stages
+
+maybe then we can use our graphql-server repository
+
+JSON Validator install to all sd/projects -- Done???
+
+tests SD -- to GraphQL
+data
+src -> index.js utils.js
+travis
+tests
+json validator
+
+CI sd latest install
+CI sd projects/ generator
+fetch projects creation build
+graphql start --> connect with frontend
+
+чтобы работали react прроекты - - нужно иметь отдельные проекты в sd, потом отдельные модули уже использоваться
+
+сделать автоматические actions(husky)???
+которые бы подтягивали наши последние релизы из fetch/sd и сразу все ломалось бы в PRs
+
+recipe-antd
+ - sd/projects/recipes
+   -- fetch/projects/recipes
+
+ - graphql/recipes connect with React
+
+ GL Showcase
+  - sd/projects/gs
+    -- fetch/projects/gs
+  - graphql/gs
+
+fake-api
+ - sd/projects/gs
+   - fetch/projects/gs
+ - sd/projects/recipes   
+   - fetch/projects/recipes
+
+ - meal calendar?
+ - USFA?
+ - FoodComposition
+
+ попробывать использовать showcase для 5-10 подпоректов
+ GL/ recipes/ MealCalendar/ Units/ Measurements, Nutritions
+ потом уже для более сложных проектов и структур
+
+ Search
+  - sd/rpojects/Search
+    - fetch/projects/searcg
+
+selectFields
+ - sd/projects/attirbutes
+   -- fetch/rpoejcts select
+
+PDF
+ - sd/projects/recipes
+    = fetch/projects recipes
+  - sd/projects/GL
+     = fetch/projects GL
+
+     можно и display set of recipes
+     Meal Calendars
+     weekly menu
+     different random recipes inside of weekly menu
+
+GraphQL
+ - sd/projects/gs
+  == fetch/projects/gs
+
+
+
+  generator/projects/attributes / health labels
+  generator/ measureemnts
+  generator/nutritions --> same data with different structures
+
+  MealCalendar React
+   -- sd/rpojects/MC
+      --- fetch/projects/MC
+
+  -- graphql/ MC
+
+  Search for GL, search for Recipes, for ingredients
+
+
+  generator поможет создавать правильные данные из separated GL в сложные объекты      
