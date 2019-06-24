@@ -3,9 +3,9 @@ import {
   BrowserRouter, Switch, Route
 } from 'react-router-dom';
 
-import HomeView   from './views/HomeView'
+import HomeView  from './views/HomeView'
 // import HomeView   from '@groceristar/antd-showcase-components'
-// import SearchView from '@groceristar/antd-showcase-components'
+import {Header} from '@groceristar/antd-showcase-components'
 
 
 // import RecipeListCards from './views/RecipeListCards'
@@ -31,7 +31,7 @@ import RecipeDetailsView  from './views/RecipeDetails'
 const RR = () => {
   return (
     <Fragment>
-
+      
       <Route path="/" exact component={HomeView} />
 
       <Route path="/recipelist" exact component={RecipeListView} />
@@ -51,8 +51,9 @@ class Router extends Component {
 
     return (
       <BrowserRouter>
+        <Header />
         <Switch>
-
+        
           <Route path="/"  component={HomeView} exact/>
           {/*<Route path="/s2"  component={SearchView} exact />*/}
           <Route path="/recipelist"  component={RR} />

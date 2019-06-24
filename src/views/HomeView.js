@@ -31,11 +31,9 @@ class HomeView extends Component {
     return (
       <Fragment>
         <div className="main">
-
-            <HeaderShowcase />
-
-            <ListWrapper list={list} />
-            <Cards />
+            
+             {/* <ListWrapper list={list} /> */}
+            {/* <Cards />  */}
         </div>
       </Fragment>
 

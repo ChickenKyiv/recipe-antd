@@ -1,11 +1,13 @@
 import React, { Component, Fragment } from 'react';
 
 import {
-  Router,
+  // Router,
   ListWrapperEmpty,
-  HeaderRecipes
+  HeaderRecipes,
+  Header
 } from '@groceristar/antd-showcase-components'
 
+import { Router }  from './Router'
 import { ListWrapper, Em } from '@groceristar/cards-wrapper';
 
 import {
@@ -50,10 +52,11 @@ class App extends Component {
     return (
 
       <Fragment>
-        <HeaderRecipes data={recipe} />
-        {/*<Router />*/}
+        {/* <HeaderRecipes data={recipe} /> */}
+        {/* <Header /> */}
+        <Router />
 
-        <ListWrapperEmpty list={list}/>
+        {/* <ListWrapperEmpty list={list}/> */}
         {/*}<Cards /> */}
 
         {/* <ClearCardsExample /> */}
