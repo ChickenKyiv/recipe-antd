@@ -21,7 +21,7 @@
     "react-router": "5.0.1",
     "react-router-dom": "5.0.1",
     "react-scripts": "3.0.1",
-    "snyk": "1.181.0"
+    "snyk": "1.183.0"
   },
   "scripts": {
     "start": "react-scripts start",
