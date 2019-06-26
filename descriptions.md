@@ -279,3 +279,131 @@ GraphQL
 
 
   generator поможет создавать правильные данные из separated GL в сложные объекты      
+
+
+---
+---
+
+
+#### csv parser
+csv files может быть даже обкатать еще несколько datasets, которые есть Плюсы -- рассказываю как парсить данные, как их можно собирать, переделывать.
+
+Он должен быть отдельным модулем, со своей инфраструктурой.
+
+Можно и статью из картинок для курса.
+И readme separated to create
+Goal - simplify script, split it into 10-20 functions, that will be simple and easy to understand
+
+## generator
+using parser as module. или тоже независимая сущность, который создает сложные и не сложные структуры.
+его методы должны вызываться извне. поэтому что иначе все очень сильно ухудшает его структуру.
+
+Создание унифицированного вида для projects
+
+USFA -- данные есть, их соединять в один dataset? get's для возврата данных.
++ validator JSON
+- separated module, в котором уже есть error reports, также как и функции для jest tests.
+
+т.о. есть schema, есть examples (random?) и при этом осн. логике всех файлов тестов сильно упрощается.
+
+--
+Одинаковые методы, изменяющие струкруту -- можно вынести из projects at generator
+--
+увеличив количество duplicates at projects я пойму какие из методов потом тоже вынести в извне.
+мы сделаем our boilerplate, когда там есть и generator & csv parser & tests folder + files and major structure.
+
+#### static files boilerplate
+index.js
+files.js
++sd-wrapper
+/tests
+/raw
+/data
+play.js
+
+scripts for lint/husky, etc.
+
+а потом будем его клонировать, может быть и отдельный курс для этого.
+
+Цель для всех projects: понятная и простая структура.
+Добивание этих проектов до ума. Завершение основных работ над мелкими проектами. решение вопросов внутри fetch and etc...
+
+Videos folder + readme в ней краткий текст для записи видео.
+
++ отдельно список для slides + TOC
+Нажал на title --> перешел в slide
+потом это перейдет в docusaurus without a problems
+
+Развить несколько статей на слайды, чтобы потом один сет слайдов -- одному видео.
+делать тайтлы для слайдов, видое, картинки позволит потом быстрее заливать туториал.
+
+---
+
+упростить текст внутри слайдов, чтобы их было проще читать / рассказывать на видео.
+
+отформатировать тексты так, чтобы было более визуальнее .
+
+---
+
+Секция с практическими заданием.
+5 простых homework, чтобы улучшить знания.
+
+Курсы помогут улучшить документацию, улучшает код + article can be published.
+---
+Настроить CI, чтобы on build small modules publish them automatically / install and try inside at other projects.
+
+CI publish npm automatically with merge of PRs
+----
+
+SD разбивается на 10 modules
+Validator
+csv parser
+projects
+boilerplate
+код простой и логичный - learna are we ready?
+
+---
+
+Recipes separately
+Nutritions separately
+Unit convertions separately
+GL separately
+
+все модули работают ok with nodejs + express + React
+
+Кажыдй курс помогает сфокусироваться на отдельны мелких проектах, чтобы недумать потом о них.
+
+## SD
+доводим до ума структуру файлов. Улучшаем документацию, чтобы выложить sd-plain
+## fetch
+разбивание его на части, нормальная работа с sd. ES6 конвертация
+## fake-api
+- позволяет ему быть рабочей лошадкой в процессе работы с нашим разными structures и вывод данных в React Projects
+## generator
+вывод в отдельных проект. улучшение его кода, чтобы он легко работал для многих наших cases
+
+## csv parser
+отдельный модуль, чистый, понятный код, функции описанны в readme documentation
+
+везде images, везде stretch goals, везде описание как использовать module
+
+еще внутри проектов можно применять design patterns, чтобы мне было интереснее.
+так я улучшаю свойства проектов, вывожу их логику на новый level.
+
+convert generator task main to article at HN
+
+---
+
+Microservices as extension of our modular approach
+
+generator try to create GL with a different structure from what we have right now, using our generator script
+
+or try to combine measurements files together as one entity
+
+or meal calendar updates similar how we create weekly menu or free menu files
+
+
+microservices
+- recipe -- next -- next - aka random thing from file data
+- food composition by country
+-- failory - 10 articles about meals/ food projects 
