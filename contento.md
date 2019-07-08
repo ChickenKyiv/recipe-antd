@@ -1,24 +1,29 @@
-Beauty(at least I see it in this way) of my technilac approach -  of coding project at mu company really helping me with using limited employee resourcess(interns with small coding experience).
+Coding education system is broken in my country.
+There is a very low chance to get hired, after completing just a university. It is maybe fine, but youngsters have very tought times. So, topics that I can elaborate at A4 list each.
 
-It helping me in future as well --> because I'll be able to hire less experienced developers full-time. From one side - teams might have different small chunks of knowledge in coding and still be able to move our code forward.
+* IT Step Academy block story
+* Different outsourcing companies entertain people at our local colleges(story of how i chat with teachers from Pavlograd college)
+* After begining of our war with Russia, it was a "movement" that IT people will help refuges to get a job in tech(part of the story of how my aunt was not able to land a low entry job with 2 degrees, skills of working as teacher for developers and readiness to work, but rejected by age(~40))
+* Recruiting process issues(companies are growing and evolving, but workflow are old and not managemeble.)It can be managemeble, but people don't want to make changes and prefer comforting old reading CV stuff.
+* Nobody(ok, bad way to put it without numbers) wants to hire a small developers and raise them. Because lifetime of developer at one company is 18 max. Usually it's lower. So it's cheaper and easier for a company to re-hire(steal employee) quickly, whne a new rich client will be able to pay as much as that employee want.
 
-From the other side --> small skilled(experienced) team members create a lot of problems with reviewing code and control of what team actually doing. But, it also diversity a type of employees, that can be inside at our team. There needs to have a PM, testers and project leaders, that can make decisions and apply code changes.
-Leader will create new tasks, partially together with PM and actually watch for the progress.
+* Aging shit & Sexism
+* Story about one of the "Fathers" of software development companies owners was picked as main Principe at college.
+He started to change a defualt education process inside of that college to be profitable for all sides. He hired more expereienced developers as teachers, fire old teachers that don't know english or coding, fundraise money from companies and make a building repair so it start to look inspiring, install new PC stands, create a new opportunities for hiring entry-level students. He also clean up a students line, lazy people get fired. nephew of my partner goes fired from it and siwtched into military education because he was lazy to learn coding.
 
-But right now I don't  necessary required to hire a Senior developers. In my country, salary for developer with 5-8 years of experience ~ $3500(can be more, depending on hype around technologies). It's a developer that worked before in large projects and companies.
+** next part of this story. - Then he was voted to become a main principal in Kharkiv Tech Universite(Place where I was fired 2 times). First time I was bored and for the 2nd time I have an argue with teacher about databases explanation at Wikipedia.
+So he was promoted to be Top 5-10 principals in tech Universities in Ukraine. Sure thing, he started doing the same thing there. Fire people, raise salaries, hire more young teachers. It was a year when this university moves with a big steps forward. Then he got a huge strike back from an old system that find a legal way to fire him.
 
-At the current stage of our project - it will be enough to hire a few middle developers(1-2 years) and each of teams, working full time, separated by working on different modules will be able to do and ship small projects/modules in a few months.
+* Huge migration of employees between companies. Hire/Re-hire/counter-offers and jumping between jobs is a reality here. Small increase in salary will force an employee to leave an ongoing-project... Only if your company is smart enough to bound you with a really complex contact, NDAs, etc - that will preventing you from jumping - but it goes to a slavery side pretty quickly as well.
 
-There is also a small price for errors. Nothing big actually. Nothing complex are inside. That can go broken and freeze a whole development process right now are removed.
+* People get fired, while attending previous jobs for meeting old collegues(How suspicious, Huh, let;s fire him, he want to jump back to that company.) BUT he did it in his spare time. WTF.
 
-With help of a few project managers and people, that can help me with a process or totally replace me from creating/managing tasks or creating a development tech specification - it will give teams ability to work in a more simple and organized process.
-That process will be more crystal clear for developers, and for us --> team managers, that looking for the whole picture.
+* Story of my friend/designer. She was scared to look for a new job at Linkedin because she have a small kid that she want to feed and don't want to be fired with bad review...
+It actually keep her on the same place for 4 years.
 
-It also improve processes. And increase tech value of things that we are doing. Like if junior develoer can understand the complex structure, that we building. It's great in overall, right? It;s improves our coding workflow, because we like always testing our modules, it's structure with other people and see where they stuck or not. If someone stuck - "Ok dude, you maybe don't trying hard to understand it". If 10 people have a hard time --> it's a good indicator that we should focus on documentation --> because it's really our problem here.
+* People got tired to work at this stressful environment and crazy tempo, and don't have faith with their abilities. They have more feature outside and they migrate to a nice country, that treats their skills better. Rather than become a leader at their current companies and make more money.
 
-it's also simplifying things like estimates, deadlines, releases planning. With a simple code, it's easier to find what was went broken and quickly fix it. Less number of bottlenecks and pauses to wait, "when X will be fixed, then it'll be enable to solve issue with Y, and in mean time, Y cannot work, and it's a blocked by X and we cannot solve it right now"   
+* small companies are really dying, they cannon sustain a time of 10 years(it's ma story and other companies, that cannot evolve into a big company without adaptation to a new realities of outsourcing market rules).
 
-More people can archive more progress nad in short amount of time.
-Let's crack previous sentence with an example.
-We have simple module, where a few interns working on. They are young, small, making mistakes. I decided to jump into that module, and ship a "big update". I'm working separately, so my changes can't affect interns work.
-One week passed and I see this message --> They made more commits than I did for the same amount of time. And why I should be thinking that i'm better, because I'm experienced. yes, commit numbers is not a best tool for measure progress. it's debatable. but it's a good indicator of how it work for us. Few students, that interested to learn coding -> made more small improvements, that can do unmanageble "expert" like myself.
+* Story of how my friend have a lot of test assesments done. And nobody care to look at them, everyone want to spend his time on their own "custom"(copy-pasted from StackOverflow) test. So he have a nice GitHub account - nobody cares, because it will require to change their habits and old processes. He didn't receive a proper feedback from a recruiter, so he asked her publicly(she was an employee at first 10 big companies each has > 800 employees). He did it at Linkedin. She and her leader goes crazy and be upset with a fact that he made it publicly. That post received a lot of attention - 8k views. it's a huge numbers for local Linkedin community. People tried to silence him, advising that this post can make a problems for him...
+* Huge story was when outsourcing made a BlackLists of developers. when this story was droped to the public, it was like BlackListGate.
