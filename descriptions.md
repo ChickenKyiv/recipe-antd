@@ -23,6 +23,7 @@
 1) [SD](https://github.com/GroceriStar/sd) - делают интерны. Там много действий и их работу нужно курировать. Это занимает много времени, и я нехочу этим заниматься.
 2) Есть множество репозиториев, которые нужно довести до ума, до такого состояния, чтобы они работали удовлетворительно.
 Чтобы мы о них могли не думать 1-2 месяца.
+
 3) [PDF Export](https://github.com/GroceriStar/pdf-export-component). Когда он заработате так, как нужно -- можно подтянуть проекты showcase, recipe-antd, select-form
 3.1) Layout, сделанный Vaidm работает не до конца. Eugene со знаниями flexbox может справится с этим.
 3.2) можно выложить статью по @react-pdf. Не хочу иметь разницу между GL & RecipeLayout. Может дальше мы еще добавим другие версии. Так что должны быть готовы к этому. Например календарь, или WeeklyMenu. Или еще инфу типо Лист с диетой. Что было похоже, но другое по контенту.
@@ -64,6 +65,8 @@ PDFExport connection
 Showcase может являться первой версией Groceristar
 Еще у нас есть отдельные страницы, позволяющие просматривать только данные о grocery lists
 
+
+
 ## Recipe-antd https://github.com/ChickenKyiv/recipe-antd
 Очень сильно похож на проект showcase
 Фронтенд там одинаковый --
@@ -74,8 +77,12 @@ list of cards, которые позволяет просматривать да
 Recipe-antd - фронтенд для вывода данных рецепта из backend. Он также работает с fetch/sd, а потом будет слать запросы к graphql server.
 Он может являться первой версией chickenKyiv? Добавив Yaml/Markdown, можно получить NO CODE version?
 
+
+
 ## MealCalendar https://github.com/GroceriStar/calendar
 ReactFrontend -- to finish. Header -- antd showcase. Модуль календаря  как то работал. maybe replace/improve/change modal -- ее нужно сделать/переделать в antd style -- внутри данные выводим как и выводили.
+
+
 
 ## SearchForm https://github.com/ChickenKyiv/recipe-search-react
 - нужен backend or at least working fetch plugin
@@ -83,6 +90,8 @@ ReactFrontend -- to finish. Header -- antd showcase. Модуль календа
 - import SelectComponent
 - we need to have a working db-config. В котором хорошо сделанные проверки для backend. чтобы все работало одновременно.
 - предыдущая версия может быть опробованна вначале в showcase/recipe-antd. Там же не поиск как таковй, а скорее форма фильтрации.
+
+
 
 ## Micro
 позволяет упростить код fetch. Решить проблему разных код проектов, разделить Travis Ci + checkers на отдельные части и не перекидывать людей мужду github repositories. Хранить таски в одном месте. Проще улучшать code и т.д. Легко просматривать изменения, выложенные online. Easy to show our done work to other people online.
@@ -215,16 +224,22 @@ graphql start --> connect with frontend
 сделать автоматические actions(husky)???
 которые бы подтягивали наши последние релизы из fetch/sd и сразу все ломалось бы в PRs
 
+
+
 recipe-antd
  - sd/projects/recipes
    -- fetch/projects/recipes
 
  - graphql/recipes connect with React
 
+
+
  GL Showcase
   - sd/projects/gs
     -- fetch/projects/gs
   - graphql/gs
+
+
 
 fake-api
  - sd/projects/gs
@@ -244,9 +259,14 @@ fake-api
   - sd/rpojects/Search
     - fetch/projects/searcg
 
+
+
+
 selectFields
  - sd/projects/attirbutes
    -- fetch/rpoejcts select
+
+
 
 PDF
  - sd/projects/recipes
@@ -254,10 +274,14 @@ PDF
   - sd/projects/GL
      = fetch/projects GL
 
+
+
      можно и display set of recipes
      Meal Calendars
      weekly menu
      different random recipes inside of weekly menu
+
+
 
 GraphQL
  - sd/projects/gs
@@ -268,6 +292,8 @@ GraphQL
   generator/projects/attributes / health labels
   generator/ measureemnts
   generator/nutritions --> same data with different structures
+
+
 
   MealCalendar React
    -- sd/rpojects/MC
@@ -375,10 +401,13 @@ GL separately
 
 ## SD
 доводим до ума структуру файлов. Улучшаем документацию, чтобы выложить sd-plain
+
 ## fetch
 разбивание его на части, нормальная работа с sd. ES6 конвертация
+
 ## fake-api
 - позволяет ему быть рабочей лошадкой в процессе работы с нашим разными structures и вывод данных в React Projects
+
 ## generator
 вывод в отдельных проект. улучшение его кода, чтобы он легко работал для многих наших cases
 
@@ -406,4 +435,4 @@ or meal calendar updates similar how we create weekly menu or free menu files
 microservices
 - recipe -- next -- next - aka random thing from file data
 - food composition by country
--- failory - 10 articles about meals/ food projects 
+-- failory - 10 articles about meals/ food projects
