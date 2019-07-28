@@ -1,0 +1,137 @@
+# Update 03/19/19
+We have started a Roadmap/Feature requests page thanks to the awesome folks at Canny.io. Have a go at it on our WIP v2: https://v2.docusaurus.io/feedback/
+
+These are some of the problems I'm seeing in Docusaurus now and also how we can address them in v2. A number of the ideas here were inspired by VuePress and other static site generators.
+
+In the current JavaScript-based static site generators ecosystem, there are the following libraries:
+
+* https://vuepress.vuejs.org/
+* https://www.gatsbyjs.org
+* https://github.com/nozzle/react-static
+* https://github.com/phenomic/phenomic
+* https://docsify.js.org/
+* https://github.com/lord/slate
+* https://middlemanapp.com
+* https://github.com/jnordberg/wintersmith
+* https://github.com/jaredpalmer/razzle
+* https://github.com/pedronauck/docz
+
+Useful libraries
+
+* https://github.com/c8r/x0
+* https://github.com/mdx-js/mdx
+* https://github.com/jonschlinkert/gray-matter
+
+My proposal for D2 is that Docusaurus be responsible for documentation content, routing, translation and versioning, leaving layout and styling to the end user. Docusaurus would provide a default theme and a few common layouts that the user can use, or ignore if they want to build their layout from scratch. It's not a good idea for Docusaurus to maintain the entire layout and styling as these stuff are hard to make improvements without breaking existing users' code.
+
+A Google Doc where we go into more details can be found [here](https://docs.google.com/document/d/1N_dA9W0CgMpNg9jl2kfWRKoB6yE5Up9isgTK9Ol1dLk/edit#heading=h.nueldtp4gi18)
+
+## D2 Design Principles
+* Easy to learn but most things are still achievable by users, even if it takes them more code and more time to write. No abstractions beat bad abstractions, and we don't want users to have to hack around the wrong abstractions. Mandatory talk: [Minimal API Surface Area](https://www.youtube.com/watch?v=4anAwXYqLG8)
+* Users won't feel overwhelmed when looking at the directory of a D2 project. It should look familiar to users familiar building web apps and websites and is easy to build on top of.
+* We should not lock-in our users to use our plugins or our CSS. Certain lower-level infra level stuff like React Loadable, React Router are fine, but not higher level ones, such as choice of Markdown engines, CSS frameworks, CSS methodology.
+* The separations of concerns between each layer of our stack should be clear - well-abstracted and modular.
+
+## D1 Problems and Proposed Solutions
+### Infra
+**Current Problems**
+
+* Routing logic is separated and resides within both server and generation code, leading to duplicated logic and harder to ensure that code working in server mode also work in generation mode.
+* Routing is not declarative. Hard to understand what possible routes there are in Docusaurus.
+* Build pipeline is imperative and quite tangled.
+* Does not allow adding local vendor CSS and JS (#534)
+* New features are mostly enabled via siteConfig - siteConfig will bloat over time and become unmaintainble.
+* Current architecture is a bit tangled and makes it hard to introduce plugins.
+* Many components relies on `process.cwd()` too much (mostly for siteConfig), making it very hard to test.
+* LiveReload does a full-page reload, and page reloads for changes of all files.
+
+**Suggested improvements**
+
+* Use a module bundler like webpack (or Metro if possible, since it's also by Facebook).
+* Static pages can be generated using (https://github.com/markdalgleish/static-site-generator-webpack-plugin)
+* Assets should be fingerprinted (should be trivial with webpack)
+* Use webpack-dev-server during development which enables hot reloading - only reload the modules which changed.
+* Rearchitect architecture to introduce hooks into the development and build phase so that a plugin system is possible.
+* Keys casing are not consistent - camelCase in siteConfig and blog front matter but snake_case in docs front matter.
+
+### HTML/CSS
+**Current Problems**
+
+* Raw CSS without any preprocessor. Hacky variable substitution approach using regexp.
+* Docusaurus controls much of the styles and layout, which makes it prone to breaking end users code who customize.
+* All CSS is compiled into one file.
+* HTML/CSS is self-written and doesn't follow CSS framework best practices. Typography is not great (margins and paddings are not consistent)/. Partially fixed in #757.
+* Hard to do theming on top of current CSS structure. Limited to changing of colors and fonts.
+* Site layout is not customizable - EDIT: Just found out it is (#128).
+* Docs/blog layout is not customizable.
+* No 404 page.
+
+**Suggested improvements**
+
+* Layout and styling should be controlled by theme and user. Docusaurus should just provide the data (content, translation, versioning), props and a default theme. This is the approach taken by many static site generators as well, such as Jekyll, Gatsby and VuePress. VuePress allows ejecting of the default theme for further layout customization.
+* Follow CSS frameworks best practices - Use rem for units, allow specifying margin width, etc.
+* Allow user to select their own CSS preprocesser.
+* Allow setting styles and scripts for specific pages only. Use case - some sites like Babel, Prettier and Reason have playgrounds where they only want to load specific scripts and styles.
+* Make Docusaurus pages/components more customizable (#249)
+* Add a 404 page.
+
+### JavaScript
+**Current Problems**
+
+* JS code in pages is currently not being transpiled by Babel. We have to write ES5 in code that will be sent to browsers.
+* React is used as a templating engine for static content; we're not using any of its view library features. Interactivity has to be added through script tags and `dangerouslySetInnerHTML`.
+
+**Possible improvements**
+
+* If the user adds interactivity to their React component/page, we should include React library on the page and hydrate the component after the page has been rendered.
+
+### API
+**Current Problems**
+
+* CLI commands should be using `docusaurus <command>` (instead of `docusaurus-command`) which is more conventional (see Yarn and Git).
+* Docusaurus-provided components are required using a relative path which looks a bit odd and may break if we change the library's internal directory structure.
+
+**Possible improvements**
+
+* Rework the CLI commands. Should be just a matter of renaming and shifting them into `docusaurus` core. This also solves the problem of having to publish `docusaurus-init` as a separate package.
+* Export docusaurus components on the main npm file itself. Add even more common components (we can consider creating pages as components as well).
+
+### Blog
+**Current Problems**
+
+* NA
+
+**Possible improvements**
+
+* Allow for commenting support (via a plugin and not siteConfig as how it is currently done)
+* Allow customizing of date.
+* Draft mode for posts
+* Tags, Categories
+
+### Markdown
+**Current Problems**
+
+* Only reads YAML, does not support different kinds of front matter.
+* Unable to embed content from other Markdown files.
+
+**Possible improvements**
+
+* Add reference style linking.
+* Add page tabbing (#45), probably via a Remarkable plugin.
+* Allow importing markdowns in other markdowns.
+* Line highlighting within code blocks.
+* Support embedding React components in markdown.
+* Emoji support.
+* Check that internal page links and anchors work fine.
+* Support [special block tags](https://vuepress.vuejs.org/guide/markdown.html#custom-containers) like in VuePress for tip/warning/danger markup.
+
+### Search
+**Current Problems**
+
+* We're using Algolia as the only form of search now. Algolia search is a third-party service that requires internet and doesn't work behind VPN/offline.
+
+**Possible improvements**
+
+* I really like Algolia search as it's useful and so simple to use. But we could also come up with alternative offline search mechanisms to get around the limitations mentioned above. At my previous company, I added [offline search for a static site](https://engineering.grab.com/) via Lunr.js. It works by looking through the markdown files and generated a static index of the content during build time. The searching and rendering of search results is purely done on the client side. It roughly works - https://engineering.grab.com/search.html?q=react
+
+These are my two cents. Feel free to chime in (:
