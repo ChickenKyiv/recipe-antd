@@ -15,9 +15,18 @@ So, while Python team trying to cracj that thing and wasting a lot time.
 
 Why I'm ok with datasets -> it should move us to release of database as service, because right now I don't see other way to get a lot of feedback from market.
 
-Restaurants --> maybe it's good. But without talking with owners, it's a deadend.
+Restaurants --> maybe it's good. But without talking with owners, it's a dead end.
 Try this -> contact 100 restaurants near you. Pitch your vision to them. And ask if they want to pay upfront for our solution. It will be a real-world test. and will show a number of companies that interested.
 Because if they don't care about it now, or not ready to pay at this moment - it will be the same situation later.
 
 
-Same for grocery stores, most of them have a strict systems, connected to their POS systems, so only very progressive stores(with money) will go
+Same for grocery stores, most of them have a strict systems, connected to their POS systems, so only very progressive stores(with money) will go with us forward right now.
+
+Idea with scrapping recipes is a good and I think we have some tools that can be used.
+But we should be a bit worried about copyrights.
+
+I mean, sure, website looks old and nodoby find us. But it's in a "gray" area for me.
+It's better to contact this guys and ask their permissions, maybe they can be our FA members as well.
+
+For sure, I like this vision.
+Especially because a lot of our code moving into storing recipes. But if we have users, I think it will be easier to store their recipes that diabletes-friendly
