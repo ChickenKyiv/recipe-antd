@@ -42,3 +42,28 @@ I will redo it with a new database language and connect it with a few simple fro
 So it's like 40% is actually done for that and I just need to sit down and finish some code on my own.
 
 As I told before, instead of doing complex project that is located at one place -> I split it into chunks, that my interns can easily digest. Before I make all in one place, but it require a lot of time to study it.
+
+It also cool for testing/maintainance and 'server-load'. It's just another architecture-logic, that might now not very useful, but in future, when project evolve -> it will be a huge advantage for people/costs/time.
+
+I exploread different types of "frameworks" that can speed up things, I did it before, but it's more an old fashion way for doing things.
+
+So it's part of my "know-how", that usually used by big teams with a propper funding.
+
+So it will be useful if project/projects will became successful or at least launched.
+
+Вчера я посмотрел несколько видео о том, как можно сделать быстрый backend. По идее, если захотеть, то можно сделать его за пару недель, но как и раньше --Ю пока это маленький и не рабочий проект(don't launched on live) мы не будем иметь проблемы but for long distance --> modular approach is more preferable. Because it will have less crazy logic, and people will be able to work separately, and don't worry about it's complexity.
+
+if module has only 5 methods inside -> it can be easily advanced. If project has 120 functions --> navigating/debugging can be challenging.
+
+If I will have passion -> I'll try to explore a quick way, but still, it will be just for showing some quick results only.
+
+So using my way is more viable.
+
+Я сейчас работаю над сайтом, документация, которая покажет some of our code to the world. It's focused on our static data plugin.
+I also started to film courses for coding. It will help me to make some quick money and be able to reduse pressute from financial point on me.
+
+If courses will go well -> then I'll be able to move part of our projects forward more quickly.
+
+It also can increase number of my students.
+
+So as you see - we need to make some moves, in order to continue all this "projects".
