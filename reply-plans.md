@@ -25,8 +25,20 @@ Same for grocery stores, most of them have a strict systems, connected to their 
 Idea with scrapping recipes is a good and I think we have some tools that can be used.
 But we should be a bit worried about copyrights.
 
-I mean, sure, website looks old and nodoby find us. But it's in a "gray" area for me.
+I mean, sure, website looks old and nobody find us. But it's in a "gray" area for me.
 It's better to contact this guys and ask their permissions, maybe they can be our FA members as well.
 
 For sure, I like this vision.
 Especially because a lot of our code moving into storing recipes. But if we have users, I think it will be easier to store their recipes that diabletes-friendly
+
+Imagine this. If you contact 10 doctors, that working with people with diabetes, and they ready at least use our service(and maybe pay for it later) and each doctor has at least 10 patients - then we'll be able to start our MVP with 110 users.
+
+I think I will be able in some short amount of time to push our backend stuff move quickly.
+It will require to code on my own, interns is not ready to do it now(maybe later).
+
+I actually have my own old  server related to recipes.
+I will redo it with a new database language and connect it with a few simple frontend pages(that is also work in process, but I paused it, while I don't see a lot of demand)
+
+So it's like 40% is actually done for that and I just need to sit down and finish some code on my own.
+
+As I told before, instead of doing complex project that is located at one place -> I split it into chunks, that my interns can easily digest. Before I make all in one place, but it require a lot of time to study it.
