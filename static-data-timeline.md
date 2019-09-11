@@ -108,3 +108,12 @@ all datasets should be parsed and exported working similar and without any dupli
 fix all @TODOS ,, make it less confusing code parts.
 
 it should work fine with generator module as well..
+
+
+https://medium.com/groceristar/groceristar-fetch-small-module-that-weve-created-8b4a62bd5d7b
+
+https://medium.com/groceristar/food-static-data-plugin-list-of-big-steps-66265919df0f
+
+https://medium.com/groceristar/static-food-data-plugin-transition-to-es6-559d0d941ec6
+
+https://medium.com/groceristar/moving-out-static-food-json-files-e27f8cba003
