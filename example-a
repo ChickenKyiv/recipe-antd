@@ -135,3 +135,13 @@ A Google Doc where we go into more details can be found [here](https://docs.goog
 * I really like Algolia search as it's useful and so simple to use. But we could also come up with alternative offline search mechanisms to get around the limitations mentioned above. At my previous company, I added [offline search for a static site](https://engineering.grab.com/) via Lunr.js. It works by looking through the markdown files and generated a static index of the content during build time. The searching and rendering of search results is purely done on the client side. It roughly works - https://engineering.grab.com/search.html?q=react
 
 These are my two cents. Feel free to chime in (:
+
+
+
+Daniyar Akhmedjanov (Prolego.ai): daniyar.akhmedjanov@gmail.com
+
+Doug Gallant (Speakwiki Ltd.): Speakwiki.....my email is dpagallant@gmail.com
+
+Shrab Sahota (Juzzap): Shrab@juzzap.com +44 7548882833
+
+
