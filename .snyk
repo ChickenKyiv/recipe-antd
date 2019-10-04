@@ -1907,3 +1907,12 @@ patch:
         patched: '2019-07-04T05:12:45.057Z'
     - snyk > snyk-nuget-plugin > dotnet-deps-parser > lodash:
         patched: '2019-08-14T17:45:07.136Z'
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - snyk > proxy-agent > https-proxy-agent:
+        patched: '2019-10-04T05:10:06.735Z'
+    - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-04T05:10:06.735Z'
+    - '@groceristar/pdf-export > snyk > proxy-agent > https-proxy-agent':
+        patched: '2019-10-04T05:10:06.735Z'
+    - '@groceristar/pdf-export > snyk > proxy-agent > pac-proxy-agent > https-proxy-agent':
+        patched: '2019-10-04T05:10:06.735Z'
