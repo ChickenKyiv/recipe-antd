@@ -1911,3 +1911,26 @@ patch:
         patched: '2019-10-19T05:22:41.468Z'
     - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cocoapods-lockfile-parser > @snyk/dep-graph > graphlib > lodash:
         patched: '2019-10-19T05:22:41.468Z'
+    - '@groceristar/groceristar-fetch > @groceristar/sd-wrapper > @groceristar/static-data-generator > lodash':
+        patched: '2019-10-23T05:10:20.262Z'
+    - '@groceristar/groceristar-fetch > @groceristar/sd-wrapper > snyk > snyk-config > lodash':
+        patched: '2019-10-23T05:10:20.262Z'
+    - '@groceristar/groceristar-fetch > @groceristar/sd-wrapper > snyk > inquirer > lodash':
+        patched: '2019-10-23T05:10:20.262Z'
+    - '@groceristar/groceristar-fetch > @groceristar/sd-wrapper > babel-eslint > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash':
+        patched: '2019-10-23T05:10:20.262Z'
+    - '@groceristar/groceristar-fetch > @groceristar/sd-wrapper > babel-eslint > @babel/traverse > @babel/types > lodash':
+        patched: '2019-10-23T05:10:20.262Z'
+    - '@groceristar/groceristar-fetch > @groceristar/sd-wrapper > snyk > snyk-nodejs-lockfile-parser > graphlib > lodash':
+        patched: '2019-10-23T05:10:20.262Z'
+    - '@groceristar/groceristar-fetch > @groceristar/sd-wrapper > snyk > @snyk/dep-graph > graphlib > lodash':
+        patched: '2019-10-23T05:10:20.262Z'
+    - '@groceristar/groceristar-fetch > @groceristar/sd-wrapper > babel-eslint > @babel/traverse > @babel/helper-split-export-declaration > @babel/types > lodash':
+        patched: '2019-10-23T05:10:20.262Z'
+    - '@groceristar/groceristar-fetch > @groceristar/sd-wrapper > babel-eslint > @babel/types > lodash':
+        patched: '2019-10-23T05:10:20.262Z'
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - '@groceristar/groceristar-fetch > @groceristar/sd-wrapper > snyk > proxy-agent > https-proxy-agent':
+        patched: '2019-10-23T05:10:20.262Z'
+    - '@groceristar/groceristar-fetch > @groceristar/sd-wrapper > snyk > proxy-agent > pac-proxy-agent > https-proxy-agent':
+        patched: '2019-10-23T05:10:20.262Z'
