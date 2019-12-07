@@ -256,3 +256,8 @@ Also Job Board mine will be set of links to my description.
 Maybe we'll accept it later
 
 It can be doefinately Google teachI just need time and force pure energy that will drive me or Google Open Online
+
+
+
+https://store.podia.com/10-step-product-bootcamp
+https://www.podia.com/how-to-create-sell-profitable-online-course
