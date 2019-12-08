@@ -261,3 +261,4 @@ It can be doefinately Google teachI just need time and force pure energy that wi
 
 https://store.podia.com/10-step-product-bootcamp
 https://www.podia.com/how-to-create-sell-profitable-online-course
+https://www.drip.com/blog/marketing-automation/online-course-automation
