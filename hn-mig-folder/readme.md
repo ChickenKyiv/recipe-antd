@@ -181,25 +181,6 @@ https://thealphacentauri.net/v-kosmos-na-vozdyshnom-share/
 ---
 
 
-
-BRND
-Brnd: 
-
-
-can ofer free credit https://app.hackernoon.com/drafts/yrm47Aaz7kN4LkptkiED
-
-
-I published it, but it has a lot of plugs.... I think if they ready to create such cool content - they ready to be BAU
-https://app.hackernoon.com/drafts/kOXQkd4o2eWPflNfb3Yo
-
-
-
----
-
-
-
-
-
 https://dev.to/robogeek/principled-machine-learning-4eho
 
 https://towardsdatascience.com/my-first-year-as-a-project-manager-for-artificial-intelligence-ai-16127a4a37c2
