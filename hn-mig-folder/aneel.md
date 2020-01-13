@@ -1,3 +1,4 @@
+https://hackernoon.com/@aneel
 
 Marketing 101 for Engineers: A Functional Introduction
 
