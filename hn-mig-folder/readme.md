@@ -260,11 +260,7 @@ Fast prototyping is possible with the help of the library’s high-level, unders
 --------------------------------------
 ---------------------------
 ----------------------
-“Artificial Intelligence, deep learning, machine learning — whatever you’re doing if you don’t understand it — learn it. Because otherwise you’re going to be a dinosaur within 3 years.” ~Mark Cuban
 
-First of all, thank you for opening this newsletter.
-
-Today we’re talking about ML auditability: the ability of an auditor to achieve a comprehensive examination of the financial records and financial statements of a client. 
 
 how you can check some results that were done in the middle of the model generation process. 
 
@@ -326,26 +322,4 @@ Tool features
 
 
 
-
-An important part of working at ML projects is related to data preparation. The better data you have - the better results you'll get.
-
-Preparing and cleaning data is something that will become more widespread in the project process. This action is often the most labor-intensive part of organizing an AI system, as most firms do not have the data ready in the correct formats—thus, it may take a while for data analysts to perform this essential action.
-
-
-The dataset should be continuously updated with the new data. Access to different datasets might be the main crucial factor defining which ML product is most successful. It’s critical to stay up to date on this and reach the best possible performance for your ML project, even post-launch.
-
-
----
-
-Organizing process and environment for the running of your experiments is important for privacy as well. Protecting the privacy of sensitive data should be a high priority task. Privacy is a key to the success of the ML project: it's not just a personal choice or your right. It avoids the reduction of data, protecting its value and ownership.
-
----
-
-
-Let's talk about Ongoing model maintenance
-Realize that changes can affect the system in unforeseen ways
-Systematically retrain model to block model staleness
-If there is a shift in model ownership, instruct the new team
-
-----
 
