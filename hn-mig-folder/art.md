@@ -22,7 +22,6 @@ https://app.hackernoon.com/drafts/xEkgk4EInyewo0BodY1r
 eCommerce influencer marketing
 
 
-3B1iabQaCwsHsWDQRX9SKdcEDdM3QfZKtJ
 
 
 https://app.hackernoon.com/drafts/GzWnoZ0KwYZ8CdqbmGud
@@ -56,6 +55,7 @@ https://app.hackernoon.com/drafts/how-to-build-an-angular-js-image-feed-ea6193fa
 https://hackernoon.com/how-to-build-a-website-for-your-band-using-node-js-a7c856266c
 https://app.hackernoon.com/drafts/how-to-build-a-tutorials-app-using-nuxt-js-e377ec9c4a8
 https://app.hackernoon.com/drafts/how-to-build-a-vue-js-photo-gallery-a0d4a1ec298d
+
 -----------
 
 
@@ -70,6 +70,7 @@ https://ponyfoo.com/articles/const-variables-not-immutable
 
 
 https://app.hackernoon.com/drafts/tHJnVRnvdWVDysIXrIOU
+
 ==========+++++++++
 +++++++++++++====
 =================
@@ -126,29 +127,10 @@ https://getflywheel.com/layout/combine-flexbox-and-css-grids-for-layouts-how-to/
 	https://www.w3.org/TR/css-grid-1/
 
 
+------
 
 
 
-	https://wanago.io/2019/11/11/javascript-design-patterns-1-singleton-and-the-module/
-	https://notes.devlabs.bg/es6-journey-through-design-patterns-1970f5eaa9d6
-	https://loredanacirstea.github.io/es6-design-patterns/
-	https://medium.com/better-programming/javascript-design-patterns-25f0faaaa15
-	https://github.com/fbeline/design-patterns-JS
-	https://www.javascriptjanuary.com/blog/writing-maintainable-and-readable-javascript-design-patterns
-	https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns
-
-	https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know
-	https://able.bio/drenther/javascript-design-patterns--89mv2af
-	https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd
-	https://www.dofactory.com/javascript/design-patterns
-	https://www.dofactory.com/javascript/strategy-design-pattern
-	https://www.sitepoint.com/javascript-design-patterns-singleton/
-	https://www.slideshare.net/creativepartners/java-script-design-patterns-with-es6-es7-babel
-	https://dev.to/carlillo/design-patterns---strategy-pattern-in-javascript-2hg3
-	https://www.codespot.org/javascript-101-design-patterns/
-
-	https://designpatternsgame.com/patterns
-	https://designpatternsgame.com/patterns/chain_of_responsibility
 
 
 https://trendshop.org.ua/p1016101623-derzhatel-prischepke-podsvetkoj.html
@@ -167,6 +149,7 @@ https://www.youtube.com/watch?v=yxQYSR8D56Y
 https://mc.today/ya-vyrastila-dvuh-gendirektorov-i-odnogo-professora-kak-vospitat-rebenka-kotoryj-stanet-uspeshnym/
 https://www.theladders.com/career-advice/the-biggest-hiring-challenges-were-all-facing-today-according-to-15-hiring-experts
 https://www.olx.ua/obyavlenie/blyutuz-naushniki-jbl-everest-elite-750nc-original-IDGD419.html?sd=1#74cd6df696;promoted
+
 https://hackernoon.com/@aneel
 https://www.euronews.com/2018/05/31/european-personality-of-the-year-florin-badita-founder-of-corruption-kills
 https://medium.com/live-your-life-on-purpose/the-importance-of-a-gratitude-journal-18f4842004c6
@@ -232,26 +215,6 @@ https://getflywheel.com/layout/combine-flexbox-and-css-grids-for-layouts-how-to/
 
 
 
-	https://wanago.io/2019/11/11/javascript-design-patterns-1-singleton-and-the-module/
-	https://notes.devlabs.bg/es6-journey-through-design-patterns-1970f5eaa9d6
-	https://loredanacirstea.github.io/es6-design-patterns/
-	https://medium.com/better-programming/javascript-design-patterns-25f0faaaa15
-	https://github.com/fbeline/design-patterns-JS
-	https://www.javascriptjanuary.com/blog/writing-maintainable-and-readable-javascript-design-patterns
-	https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns
-
-	https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know
-	https://able.bio/drenther/javascript-design-patterns--89mv2af
-	https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd
-	https://www.dofactory.com/javascript/design-patterns
-	https://www.dofactory.com/javascript/strategy-design-pattern
-	https://www.sitepoint.com/javascript-design-patterns-singleton/
-	https://www.slideshare.net/creativepartners/java-script-design-patterns-with-es6-es7-babel
-	https://dev.to/carlillo/design-patterns---strategy-pattern-in-javascript-2hg3
-	https://www.codespot.org/javascript-101-design-patterns/
-
-	https://designpatternsgame.com/patterns
-	https://designpatternsgame.com/patterns/chain_of_responsibility
 
 
 https://trendshop.org.ua/p1016101623-derzhatel-prischepke-podsvetkoj.html
