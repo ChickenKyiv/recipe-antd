@@ -1,17 +1,19 @@
 Localization, globalization, internationalization - do these words sound a bit the same to you?
 A lot of people think like that.
-Our goal with this newsletter is to understand the differences and find the way to "spread tech to global markets".
+Our goal with this newsletter is to understand the differences and find a way to "spread tech to global markets".
 I'll be happy if my knowledge will help to share the message of your brand globally.
 
 GILT(globalization, internationalization, localization, Translation) - all these things are business activities for me.
 And yes, they should be incorporated into online projects.
-Why? Because Internet is shifting borders and giving to people that thinking about the big picture, since there are a lot of opportunities.
+Why? Because the Internet is shifting borders and giving to people with a big picture in mind a lot of opportunities.
+
 There are tons of examples, when a product, that was selling not well locally, goes wild at some other country. Usually, it happens unintentionally. But smart companies can aim for this piece of a pie. Because money never sleeps and speaks different languages.
-If you can't find investments in the US, you may try to launch your product in China, India or OAE.
+
+If you can't find investments in the US, you may try to launch your product in China, India or UAE.
  
 The simple game went viral in Turkey only because they had a hard political race and this game adapted to this situation and introduced 2 teams, named after different parties.
 
-One social network failed locally 8years ago but works awesome in developing countries in Africa. They have found the way to fight local con-artists with fake profiles.
+One social network failed locally 8years ago but works awesome in developing countries in Africa. They have found a way to fight local con-artists with fake profiles.
 
 One Math teacher gets > 70% of his money from India because his content and study program have been optimized to mobile devices. And due to the lack of local teachers - he is rocking there.
 
@@ -23,7 +25,7 @@ It may require subject-matter experts, tech experts and people with "internation
  
 Our case here is related to software and hardware related products. So our important targets will be data encoding(ASCII will work fine in Europe, USA, but perform badly on Ukrainian or Chinese market).
 
-About hardware. It may sound crazy, especially when we all know a lot of worldwide brands, like Apple, Cisco, Samsung. But there can be a lot of situations, where you just can't get some type of a chip locally, especially quickly.
+About hardware. It may sound crazy, especially when we all know a lot of worldwide brands, like Apple, Cisco, Samsung. But there can be a lot of situations, where you just can't get some type of chip locally, especially quickly.
 
 This is one of the reasons why my friend owns 1/6 of a yacht. He is pretty good at Chinese electronics. He builds custom solutions: when it has 0 documentation on English, nobody knows how it works until he has not broken a few of them. Then when he’s found out how it works he creates custom code in Assembler.
 
@@ -32,7 +34,7 @@ About UI. If your project needs to support different languages - your elements s
 ---
 
 Localization is hard, especially if you don't have native team members that can point at your mistakes. 
-hint: Don't try to tackle project localization by Google Translate. But one of our authors actually uses Google Spreadsheets functions to translate short labels.
+hint: Don't try to tackle project localization by Google Translate. But one of our authors uses Google Spreadsheets functions to translate short labels.
 
 Let's quickly mention problems related to going globally.
 naming conventions - this part varies even in different professions
