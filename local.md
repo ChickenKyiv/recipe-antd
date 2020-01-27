@@ -5,7 +5,7 @@ I'll be happy if my knowledge will help to share the message of your brand globa
 
 GILT(globalization, internationalization, localization, Translation) - all these things are business activities for me.
 And yes, they should be incorporated into online projects.
-Why? Because the Internet is shifting borders and giving to people with a big picture in mind a lot of opportunities.
+Why? Because the Internet is shifting borders and giving people with a big picture in mind a lot of opportunities.
 
 There are tons of examples, when a product, that was selling not well locally, goes wild at some other country. Usually, it happens unintentionally. But smart companies can aim for this piece of a pie. Because money never sleeps and speaks different languages.
 
@@ -42,7 +42,8 @@ naming conventions - this part varies even in different professions
 
 phone formats, date format, writing direction, measurements, punctuation styles, local legal abbreviations.
 
-if you are doing a project in different langs - please plan out it from the beginning. And tell it to your dev team as well.
+If you are doing a project in different languages - please plan it out from the beginning.
+And tell it to your dev team as well.
 Yes, there are a lot of cool libraries online or database schemes that you can just copy-paste and it MAY work, but without proper planning - you are doomed or at least will lose more money.
 
 Proper i10n is a very good perk, especially when you are pitching investors. They know something, don’t they?
