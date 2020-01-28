@@ -13,6 +13,8 @@ https://hackernoon.com/javascript-hacks-for-es6-hipsters-67d633ce8ace
 
 https://hackernoon.com/quick-tips-for-reducing-the-cognitive-load-of-your-code-bb75d43b5676
 
+---
+
 #### Part #2
 https://hackernoon.com/work-with-javascript-arrays-like-a-boss-97207a042e42
 
