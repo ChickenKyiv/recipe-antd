@@ -1,6 +1,6 @@
 
 publish it later
-https://app.hackernoon.com/drafts/9wufQhTdHU8W5EQe8bxS
+
 
 
 https://app.hackernoon.com/drafts/TPbUI4F0COWFGn4obtGv
