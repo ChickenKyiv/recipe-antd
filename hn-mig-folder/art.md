@@ -1,16 +1,6 @@
-https://www.producthunt.com/posts/the-tech-memo
-
-https://www.producthunt.com/posts/the-information-2
-
-https://www.producthunt.com/posts/techfeed
-
-
 
 
 https://calendar.google.com/calendar/r
-
-https://www.producthunt.com/posts/awesome-design-tools-3059e97c-77e8-4d54-ad03-5daf6231a216
-
 
 
 
@@ -46,26 +36,6 @@ Add this story to newsletter
 https://hackernoon.com/robots-sorting-cards-b6ed770d9ce0
 
 -----
-
-https://hackernoon.com/how-to-build-portfolio-site-using-vue-and-cosmic-js-5832bce7e7dc
-
-https://app.hackernoon.com/drafts/how-to-create-a-management-system-with-cosmic-js-and-angular-a655977bc2e1
-
-https://app.hackernoon.com/drafts/how-to-build-an-emoji-game-using-angularjs-3fdf0de64cb5
-
-https://app.hackernoon.com/drafts/how-to-build-an-ecommerce-app-using-angular-js-f73cadb2ace2
-
-https://app.hackernoon.com/drafts/how-to-build-an-angularjs-events-app-8b2d7e87052d
-
-https://app.hackernoon.com/drafts/how-to-build-an-e-commerce-website-with-nuxt-and-cosmic-js-292c94e37b41
-
-https://app.hackernoon.com/drafts/how-to-build-an-angular-js-image-feed-ea6193fa0b75
-
-https://hackernoon.com/how-to-build-a-website-for-your-band-using-node-js-a7c856266c
-
-https://app.hackernoon.com/drafts/how-to-build-a-tutorials-app-using-nuxt-js-e377ec9c4a8
-
-https://app.hackernoon.com/drafts/how-to-build-a-vue-js-photo-gallery-a0d4a1ec298d
 
 -----------
 
