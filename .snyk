@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.13.5
+version: v1.14.0
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -1934,3 +1934,10 @@ patch:
         patched: '2019-10-23T05:10:20.262Z'
     - '@groceristar/groceristar-fetch > @groceristar/sd-wrapper > snyk > proxy-agent > pac-proxy-agent > https-proxy-agent':
         patched: '2019-10-23T05:10:20.262Z'
+  SNYK-JS-TREEKILL-536781:
+    - snyk > snyk-sbt-plugin > tree-kill:
+        patched: '2019-12-12T05:13:47.180Z'
+    - '@groceristar/pdf-export > snyk > snyk-sbt-plugin > tree-kill':
+        patched: '2019-12-12T05:13:47.180Z'
+    - '@groceristar/groceristar-fetch > @groceristar/sd-wrapper > snyk > snyk-sbt-plugin > tree-kill':
+        patched: '2019-12-12T05:13:47.180Z'
