@@ -1,12 +1,4 @@
 
-
-
- http://bit.ly/2OeNYTv
-
-
-
-
-
 https://hackernoon.com/building-and-launching-an-advanced-email-marketing-app-in-just-4-weeks-yw1im30u8
 
 
@@ -73,13 +65,7 @@ https://blog.usejournal.com/build-react-forms-based-on-graphql-apis-7e3acb1f91d7
 
 https://atheros.ai/blog/graphql-quick-tip-how-to-pass-variables-in-graphiql
 
-
-
-
 https://github.com/wittydeveloper/react-apollo-form/wiki/Getting-started:-build-a-GraphQL-Form-in-5-minutes
-
-
-
 
 
 ----
@@ -107,15 +93,12 @@ https://github.com/wittydeveloper/react-apollo-form/wiki/Getting-started:-build-
 
 
 
-
 js
 
 https://freelancehunt.com/freelancer/MaximSwan.html
 https://freelancehunt.com/freelancer/nextme.html
 
 https://freelancehunt.com/freelancer/acidalone.html
-
-
 
 
 
@@ -136,25 +119,17 @@ https://hackernoon.com/understanding-ipfs-in-depth-4-6-what-is-multiformats-cf25
 ConsensusPedia: An Encyclopedia of 30+ Consensus Algorithms
 https://hackernoon.com/consensuspedia-an-encyclopedia-of-29-consensus-algorithms-e9c4b4b7d08f
 
-
-
 Getting Deep Into Ethereum: How Data Is Stored In Ethereum?
 https://hackernoon.com/getting-deep-into-ethereum-how-data-is-stored-in-ethereum-e3f669d96033
-
-
 
 ContractPedia: An Encyclopedia of 40+ Smart Contract Platforms
 https://hackernoon.com/contractpedia-an-encyclopedia-of-40-smart-contract-platforms-4867f66da1e5
 
-
 A Beginner’s Ultimate Guide To DAGs
 https://hackernoon.com/a-beginners-ultimate-guide-to-dags-7fc0dd7f39a2
 
-
 StoragePedia: An Encyclopedia of 5 Blockchain Storage Platforms
 https://hackernoon.com/storagepedia-an-encyclopedia-of-5-blockchain-storage-platform-8aa13c630ace
-
-
 
 
 https://medium.com/hackernoon/understanding-ipfs-in-depth-3-6-what-is-interplanetary-naming-system-ipns-9aca71e4c13b
@@ -169,8 +144,6 @@ https://medium.com/swlh/ultimate-guide-to-filecoin-breaking-down-filecoin-whitep
 
 
 
-
-
 https://app.hackernoon.com/drafts/LG4rD9pQMbhzyxhWup49
 
 
@@ -179,19 +152,10 @@ https://app.hackernoon.com/drafts/q6I39brfxEzzcRSiBsHY
 
 
 
-
-
-
-
-
 ================
 
 
 BRND
-
-
-----
-
 
 https://app.hackernoon.com/drafts/BTxHYTlClFnPq5tgou6B
 
@@ -220,10 +184,6 @@ https://hackernoon.com/https-medium-com-cn007b-postgresql-vs-mongodb-v2-5b5b2de6
 https://www.enterprisedb.com/blog/comparison-mongodb-vs-postgresql
 
 https://medium.com/profil-software-blog/database-compare-sql-vs-nosql-mysql-vs-postgresql-vs-redis-vs-mongodb-3da5f41c31b5
-
-
-
-
 
 --------------
 
@@ -254,11 +214,9 @@ https://www.freecodecamp.org/news/model-view-controller-mvc-explained-through-or
 https://www.freecodecamp.org/news/simplified-explanation-to-mvc-5d307796df30/
 
 
-
 ----------------
 
 https://freelancehunt.com/freelancer/olenka_89.html
-
 
 https://freelancehunt.com/freelancer/velena7.html
 
@@ -267,7 +225,7 @@ https://freelancehunt.com/project/backend-laravel-developer/622630.html
 https://freelancehunt.com/project/zavdannya-po-vuejs/622727.html
 
 
-
+---
 fix this fcking story: https://hackernoon.com/building-3-apps-at-a-24h-hackathon-8efc9345c188
 
 
@@ -283,9 +241,6 @@ https://www.youtube.com/watch?v=uJM7TdshUbw
 https://app.hackernoon.com/drafts/ifkFNkfxDRL1ZnURoxFT
 
 https://app.hackernoon.com/drafts/v5O2NVzqYLr3k1ScFCqv
-
-
-
 
 https://github.com/enkiv2/misc/issues/3#issuecomment-581214676
 
@@ -306,7 +261,6 @@ https://jsmanifest.com/promises-in-javascript/
 
 
 https://blog.bitsrc.io/6-ways-to-implement-a-promise-in-javascript-9238aec9c17b
-
 
 
 https://www.freecodecamp.org/news/how-javascript-promises-actually-work-from-the-inside-out-76698bb7210b/
@@ -344,33 +298,47 @@ https://getflywheel.com/layout/combine-flexbox-and-css-grids-for-layouts-how-to/
 
 
 
+https://wanago.io/2019/11/11/javascript-design-patterns-1-singleton-and-the-module/
+
+https://notes.devlabs.bg/es6-journey-through-design-patterns-1970f5eaa9d6
+
+https://loredanacirstea.github.io/es6-design-patterns/
+
+https://medium.com/better-programming/javascript-design-patterns-25f0faaaa15
+
+https://github.com/fbeline/design-patterns-JS
+
+https://www.javascriptjanuary.com/blog/writing-maintainable-and-readable-javascript-design-patterns
+
+https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns
+
+https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know
+
+https://able.bio/drenther/javascript-design-patterns--89mv2af
+
+https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd
+
+https://www.dofactory.com/javascript/design-patterns
+
+https://www.dofactory.com/javascript/strategy-design-pattern
+
+https://www.sitepoint.com/javascript-design-patterns-singleton/
+
+https://www.slideshare.net/creativepartners/java-script-design-patterns-with-es6-es7-babel
+
+https://dev.to/carlillo/design-patterns---strategy-pattern-in-javascript-2hg3
+
+https://www.codespot.org/javascript-101-design-patterns/
 
 
-	https://wanago.io/2019/11/11/javascript-design-patterns-1-singleton-and-the-module/
-	https://notes.devlabs.bg/es6-journey-through-design-patterns-1970f5eaa9d6
-	https://loredanacirstea.github.io/es6-design-patterns/
-	https://medium.com/better-programming/javascript-design-patterns-25f0faaaa15
-	https://github.com/fbeline/design-patterns-JS
-	https://www.javascriptjanuary.com/blog/writing-maintainable-and-readable-javascript-design-patterns
-	https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns
+https://designpatternsgame.com/patterns
 
-	https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know
-	https://able.bio/drenther/javascript-design-patterns--89mv2af
-	https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd
-	https://www.dofactory.com/javascript/design-patterns
-	https://www.dofactory.com/javascript/strategy-design-pattern
-	https://www.sitepoint.com/javascript-design-patterns-singleton/
-	https://www.slideshare.net/creativepartners/java-script-design-patterns-with-es6-es7-babel
-	https://dev.to/carlillo/design-patterns---strategy-pattern-in-javascript-2hg3
-	https://www.codespot.org/javascript-101-design-patterns/
-
-	https://designpatternsgame.com/patterns
-	https://designpatternsgame.com/patterns/chain_of_responsibility
+https://designpatternsgame.com/patterns/chain_of_responsibility
 
 
 https://trendshop.org.ua/p1016101623-derzhatel-prischepke-podsvetkoj.html
 
-	https://hackernoon.com/12-javascript-concepts-that-will-level-up-your-development-skills-b37d16ad7104
+https://hackernoon.com/12-javascript-concepts-that-will-level-up-your-development-skills-b37d16ad7104
 
 
 
@@ -393,10 +361,6 @@ https://www.euronews.com/2018/05/31/european-personality-of-the-year-florin-badi
 https://medium.com/live-your-life-on-purpose/the-importance-of-a-gratitude-journal-18f4842004c6
 
 
-
-
 ---
 
 https://freelancehunt.com/freelancer/KFLan.html#portfolio
-
-
