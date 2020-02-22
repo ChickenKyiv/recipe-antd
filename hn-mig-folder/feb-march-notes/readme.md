@@ -276,3 +276,19 @@ https://www.idtech.com/blog/coding-terminology-list
 
 
 
+~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
+
+https://abelsquidhead.com/index.php/2019/08/30/github-actions-2-0-is-here/
+
+https://docs.microsoft.com/en-us/azure/devops/release-notes/2019/sprint-161-update
+
+https://resources.github.com/downloads/IDC-GitHub-Actions-adds-CI-CD-to-Augment-DevOps-Pipeline-Collaboration-1.pdf
+
+https://blogs.endjin.com/2019/10/comparing-github-actions-and-azure-pipelines-high-level-concepts/
+
+https://medium.com/@charotamine/azure-devops-as-code-github-actions-1b66c02c89d4
+
+
+---
