@@ -340,7 +340,8 @@
 6m slack 
 3m calendar 
 22m worklog 
-
+16m ed
+45m tags meta
 
 
 
