@@ -344,6 +344,113 @@
 45m tags meta
 
 
+1h 47m
+
+---
+
+
+
+23
+30m organizing my work
+18m editorial
+25m terms
+25m terms
+5m editorial
+12m organizing my work
+10m mozilla articles
+1h10m face-img
+
+
+3h 15m
+
+
+24
+20m newsletter
+5m slack
+10m tags meta
+23m ed
+10m face-img
+10m face-img
+13m notes
+20m newsletter
+38m newsletter
+15m notes, organizing
+18m ed, slack
+14m ed, slack
+7m face-img
+
+3h 23m
+
+
+
+25
+7m slack
+3m slack
+72m editorial
+43m newsletter
+4m meeting recap
+53m publish page
+87m ed, preparations
+
+4h 29m
+
+
+
+26
+
+1h face-img
+40m tags meta
+18m slack
+3m progress
+6m editorial
+
+2h 7m
+
+
+27
+2h 21m meeting, taking notes
+1h 20m tags meta
+15m mozilla stories
+3m slack
+8m organizing notes
+24m newsletter
+2h 5m editorial
+14m meeting prep
+6m tags meta
+3m notes
+8m slack
+
+7h 7m
+
+28
+1h 30m tags meta
+1h mozilla stories
+14m noonif
+25m slack, planning, terms, emails
+15m ama
+87 + 18 editorial, meeting
+10m slack
+
+5h 19m
+
+
+29
+1h 30m editorial, slack, notes
+5m worklog
+67m ed 
+5m ed
+6m mozilla stories
+5m tags meta
+43m editorial
+43m newsletter, notes, recap
+15m newsletter
+10m ed
+38m newsletter
+6m slack
+
+5h 33m
+
+
 
 
 
