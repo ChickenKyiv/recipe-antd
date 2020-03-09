@@ -39,13 +39,7 @@ https://www.youtube.com/watch?v=KkSDNxM1w58
 https://www.ccn.com/wp-content/uploads/2020/01/limitedccnlogo.png
 
 ==========
-==========
-==========
 
-
-
-
-=============
 =============
 
 
@@ -166,18 +160,6 @@ https://community.hackernoon.com/t/edit-old-hackernoon-article-from-archive/3260
 ==================
 >>>>>>>>>>>>
 
-BRND
-https://app.hackernoon.com/drafts/UAqnJv4I0UzByjve6S93
-
-https://app.hackernoon.com/drafts/BCK2owEXS2TDUiqiVuoA
-
-offer baa https://app.hackernoon.com/drafts/3i8mmcGo6nM4VUjIkUnS
-https://app.hackernoon.com/drafts/tg5MZl4MjipK31qTPFGP
-
-personal preference - Daxx is not the best company in Ukraine. they limiting developers salaries on purposes. 
-https://app.hackernoon.com/drafts/nTTQ33qfQreIB9aHighQ
-
----
 
 
 js dev
