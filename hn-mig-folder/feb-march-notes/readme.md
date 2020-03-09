@@ -136,17 +136,6 @@ https://docs.google.com/document/d/1eapQBuGUAveGabSefvCsB8MDkBC-CyHjbkIA8Ddia-w/
 ---
 https://help.hackernoon.com/app/page/1Yv5WBPDH4xeowcfY4VYyBcDiGFpQxX2Ay-MQfKhWgpQ
 https://help.hackernoon.com/app/page/1fEHbQu27Iic5qMQ1PY8g4wWdbq1p135KPwqkQEttPdU
----
-
-----
-
-https://app.hackernoon.com/drafts/kmPbCW763pebODrwcts5
-https://app.hackernoon.com/drafts/4Jps2U0z7RqwnYsRC6yp
-https://app.hackernoon.com/drafts/6ULWUo2yAFiFxxZwjnG0
-https://app.hackernoon.com/drafts/L7inwaBi4qwsuC0uGrd9
-https://app.hackernoon.com/drafts/FkrViuA8JYHK2OXpzTzw
-
-
 
 
 -------------
