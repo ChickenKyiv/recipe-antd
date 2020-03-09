@@ -1,12 +1,4 @@
 
-publish it later
-
-
-
-https://app.hackernoon.com/drafts/PTVChHj2D1EVLrXYxAPI
-https://app.hackernoon.com/drafts/uetWdTrf8sMKZ3qOb5PI
-
-
 https://hackernoon.com/@baditaflorin
 https://medium.com/@baditaflorin
 https://medium.com/hackernoon/detecting-fake-viral-stories-before-they-become-viral-using-fb-api-f67a18cd4f0a
