@@ -92,10 +92,6 @@ https://www.olx.ua/obyavlenie/repetitor-po-angliyskomu-yazyku-IDG9Fo3.html#4b4bf
 
 https://publish.hackernoon.com/
 
-https://app.hackernoon.com/drafts/hvrIgD39QblOBITLeVFg
-
-https://app.hackernoon.com/drafts/sbej7jVpcGNnZUHU3Jyl
-
 https://www.linkedin.com/messaging/thread/6604219038031843328/
 
 https://www.linkedin.com/in/eyalkatzmarketing/detail/recent-activity/posts/
