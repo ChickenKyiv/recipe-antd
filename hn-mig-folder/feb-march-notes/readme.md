@@ -47,11 +47,7 @@ https://www.ccn.com/wp-content/uploads/2020/01/limitedccnlogo.png
 
 =============
 =============
-=============
 
-https://app.hackernoon.com/drafts/9SiDgINsh721Cwfkzppn
-
-https://app.hackernoon.com/drafts/kK9Q62kDVNScOwXeUjeT
 
 ---
 https://rabota.ua/cv/12122030?ref=recom_similar_cv&cre=old&pos=dkp_cv_similar_under
