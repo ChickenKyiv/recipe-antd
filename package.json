@@ -11,7 +11,7 @@
     "@groceristar/pdf-export": "1.2.2",
     "@groceristar/recipes-methods": "0.1.4",
     "@react-pdf/renderer": "1.6.8",
-    "antd": "3.26.7",
+    "antd": "4.0.4",
     "axios": "0.19.2",
     "enzyme": "3.11.0",
     "enzyme-adapter-react-16": "1.15.2",
