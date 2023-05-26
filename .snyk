@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.13.5
+version: v1.25.1
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -1934,3 +1934,53 @@ patch:
         patched: '2019-10-23T05:10:20.262Z'
     - '@groceristar/groceristar-fetch > @groceristar/sd-wrapper > snyk > proxy-agent > pac-proxy-agent > https-proxy-agent':
         patched: '2019-10-23T05:10:20.262Z'
+  SNYK-JS-LODASH-567746:
+    - '@groceristar/antd-showcase-components > @groceristar/cards-wrapper > antd > lodash':
+        patched: '2023-05-26T14:42:16.368Z'
+    - '@groceristar/antd-showcase-components > @groceristar/cards-wrapper > antd > rc-form > lodash':
+        patched: '2023-05-26T14:42:16.368Z'
+    - '@groceristar/antd-showcase-components > @groceristar/cards-wrapper > antd > rc-steps > lodash':
+        patched: '2023-05-26T14:42:16.368Z'
+    - '@groceristar/antd-showcase-components > @groceristar/cards-wrapper > antd > rc-table > lodash':
+        patched: '2023-05-26T14:42:16.368Z'
+    - '@groceristar/antd-showcase-components > @groceristar/cards-wrapper > antd > rc-tabs > lodash':
+        patched: '2023-05-26T14:42:16.368Z'
+    - '@groceristar/groceristar-fetch > @groceristar/sd-wrapper > snyk > inquirer > lodash':
+        patched: '2023-05-26T14:42:16.368Z'
+    - '@groceristar/groceristar-fetch > @groceristar/sd-wrapper > snyk > snyk-config > lodash':
+        patched: '2023-05-26T14:42:16.368Z'
+    - '@groceristar/antd-showcase-components > @groceristar/cards-wrapper > antd > rc-editor-mention > rc-editor-core > lodash':
+        patched: '2023-05-26T14:42:16.368Z'
+    - '@groceristar/groceristar-fetch > @groceristar/sd-wrapper > snyk > snyk-nuget-plugin > dotnet-deps-parser > lodash':
+        patched: '2023-05-26T14:42:16.368Z'
+    - '@groceristar/pdf-export > babel-preset-es2015 > babel-plugin-transform-es2015-block-scoping > babel-template > babel-traverse > lodash':
+        patched: '2023-05-26T14:42:16.368Z'
+    - '@groceristar/groceristar-fetch > @groceristar/sd-wrapper > snyk > @snyk/dep-graph > graphlib > lodash':
+        patched: '2023-05-26T14:42:16.368Z'
+    - '@groceristar/pdf-export > babel-preset-es2015 > babel-plugin-transform-es2015-block-scoping > babel-template > babel-traverse > babel-types > lodash':
+        patched: '2023-05-26T14:42:16.368Z'
+    - react-scripts > @svgr/webpack > @babel/core > @babel/helpers > @babel/template > @babel/types > lodash:
+        patched: '2023-05-26T14:42:16.368Z'
+    - react-scripts > @svgr/webpack > @babel/preset-env > @babel/plugin-proposal-async-generator-functions > @babel/helper-remap-async-to-generator > @babel/helper-wrap-function > @babel/traverse > lodash:
+        patched: '2023-05-26T14:42:16.368Z'
+    - react-scripts > @svgr/webpack > @babel/preset-env > @babel/plugin-proposal-async-generator-functions > @babel/helper-remap-async-to-generator > @babel/helper-wrap-function > @babel/traverse > @babel/generator > lodash:
+        patched: '2023-05-26T14:42:16.368Z'
+    - react-scripts > jest > jest-cli > @jest/core > @jest/reporters > jest-runtime > jest-config > jest-environment-jsdom > jsdom > request-promise-native > request-promise-core > lodash:
+        patched: '2023-05-26T14:42:16.368Z'
+    - '@groceristar/groceristar-fetch > @groceristar/sd-wrapper > snyk > lodash':
+        patched: '2023-05-26T14:42:16.368Z'
+    - '@groceristar/groceristar-fetch > @groceristar/sd-wrapper > snyk > @snyk/dep-graph > lodash':
+        patched: '2023-05-26T14:42:16.368Z'
+    - '@groceristar/groceristar-fetch > @groceristar/sd-wrapper > snyk > snyk-nodejs-lockfile-parser > lodash':
+        patched: '2023-05-26T14:42:16.368Z'
+    - '@groceristar/groceristar-fetch > @groceristar/sd-wrapper > snyk > snyk-nuget-plugin > lodash':
+        patched: '2023-05-26T14:42:16.368Z'
+    - '@groceristar/groceristar-fetch > @groceristar/sd-wrapper > snyk > snyk-php-plugin > @snyk/composer-lockfile-parser > lodash':
+        patched: '2023-05-26T14:42:16.368Z'
+    - react-scripts > babel-preset-react-app > @babel/preset-env > @babel/plugin-proposal-unicode-property-regex > @babel/helper-create-regexp-features-plugin > @babel/helper-regex > lodash:
+        patched: '2023-05-26T14:42:16.368Z'
+    - '@groceristar/groceristar-fetch > @groceristar/sd-wrapper > snyk > snyk-mvn-plugin > lodash':
+        patched: '2023-05-26T14:42:16.368Z'
+  SNYK-JS-TREEKILL-536781:
+    - '@groceristar/groceristar-fetch > @groceristar/sd-wrapper > snyk > snyk-sbt-plugin > tree-kill':
+        patched: '2023-05-26T14:42:16.368Z'
